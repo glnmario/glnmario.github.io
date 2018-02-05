@@ -20,7 +20,7 @@ These models can be evaluated in tasks such as dialogue modelling, semantic and 
  
 ## Projects
 - Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. [Bachelor's thesis]
-__Presented at [CLIN28], Computational Linguistics in the Netherlands.__
+_Presented at [CLIN28](http://clin28.cls.ru.nl/#abstract-49), Computational Linguistics in the Netherlands._
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories. Automatic annotation of emotional events and temporal relations.
 - Response time of German native speakers reacting to different types of foreign mispronunciations.
