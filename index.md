@@ -2,12 +2,12 @@
 layout: default
 ---
 
+<img class="profile-picture" src="me.JPG">
+> The only way to predict the future is to invent it.
+
 **Email**: mario.giulianelli@student.uva.nl
 
 **GitHub**: [github.com/Procope]()
-
-<img class="profile-picture" src="me.JPG">
-> The only way to predict the future is to invent it.
 
 ## About me
 Born and raised in Italy, I moved to Germany to start a Bachelor in Computational Linguistics at the [University of Tübingen](https://www.uni-tuebingen.de/en/university/profile/history-of-the-university.html). 
