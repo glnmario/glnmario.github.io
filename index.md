@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="m.JPG">
+<img class="profile-picture" src="me.JPG">
 **Email**: mario.giulianelli@student.uva.nl
 
 **GitHub**: [github.com/Procope]()
