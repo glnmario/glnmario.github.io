@@ -3,8 +3,11 @@ layout: default
 ---
 
 **Mario Giulianelli**
+
 University of Amsterdam
+
 **Email**: mario.giulianelli@student.uva.nl
+
 **GitHub**: github.com/Procope
 
 ## About me
