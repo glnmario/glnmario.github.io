@@ -7,7 +7,7 @@ layout: default
 
 **GitHub**: [github.com/Procope]()
 
-
+> The only way to predict the future is to invent it.
 
 ## About me
 Born and raised in Italy, I moved to Germany to start a Bachelor in Computational Linguistics at the [University of Tübingen](https://www.uni-tuebingen.de/en/university/profile/history-of-the-university.html). 
@@ -21,4 +21,4 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## GitHub
 
-> The only way to predict the future is to invent it.
+
