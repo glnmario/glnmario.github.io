@@ -5,9 +5,9 @@ layout: default
 <img class="profile-picture" src="me.JPG">
 **Email**: mario.giulianelli@student.uva.nl
 
-**GitHub**: [github.com/Procope]()
+**GitHub**: [github.com/Procope](github.com/Procope)
 
-**LinkedIn*: [linkedin.com/in/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)
+**LinkedIn*: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)
 
 ## About me
 Born and raised in Italy, I moved to Germany to start a Bachelor in Computational Linguistics at the [University of Tübingen](https://www.uni-tuebingen.de/en/university/profile/history-of-the-university.html). 
