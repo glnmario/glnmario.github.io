@@ -2,7 +2,6 @@
 layout: default
 ---
 
-> The only way to predict the future is to invent it.
 <img class="profile-picture" src="me.JPG">
 
 **Email**: mario.giulianelli@student.uva.nl
@@ -31,3 +30,6 @@ _Presented at [CLIN28](http://clin28.cls.ru.nl/#abstract-49), Computational Ling
 
 ## GitHub
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus
+
+> The only way to predict the future is to invent it.
+> Alan Kay
