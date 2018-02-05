@@ -26,5 +26,6 @@ _Presented at [CLIN28](http://clin28.cls.ru.nl/#abstract-49), Computational Ling
 - Response time of German native speakers reacting to different types of foreign mispronunciations.
 
 ## GitHub
+- [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): emotion lexicon expansion via label propagation with emotion-specific word embeddings learnt from an emotion-annotated corpus of texts
 
 > The only way to predict the future is to invent it.
