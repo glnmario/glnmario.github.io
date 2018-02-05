@@ -6,6 +6,8 @@ layout: default
 
 **GitHub**: [github.com/Procope]()
 
+<img class="profile-picture" src="me.JPG">
+
 ## About me
 Born and raised in Italy, I moved to Germany to start a Bachelor in Computational Linguistics at the [University of Tübingen](https://www.uni-tuebingen.de/en/university/profile/history-of-the-university.html). 
 During my Bachelor's studies, I worked both as a teaching and as a research assistant for the Department of General and Computational Linguistics ([SfS](http://www.sfs.uni-tuebingen.de/en/chairs.html)), and I
