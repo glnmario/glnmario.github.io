@@ -29,7 +29,7 @@ _Presented at [CLIN28](http://clin28.cls.ru.nl/#abstract-49), Computational Ling
   Automatic annotation of emotional events and temporal relations.
 - Response time of German native speakers reacting to different types of foreign mispronunciations. 
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
- on Italian text for IBM Watson Analytics.
+ on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## GitHub
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus.   
