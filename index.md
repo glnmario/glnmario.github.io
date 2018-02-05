@@ -16,7 +16,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## Research interests
 I am in love with human language and with the magic of pragmatic inference. I try to analyse, model, and understand language with computational methods. My main research goal is proposing models of semantic reasoning and pragmatic inference that benefit from the lessons learned from symbolic and sub-symbolic processing.
-These models can be evaluated in tasks such as dialogue modelling, semantic and pragmatic parsing, probabilistic language modelling, and representation learning. In future, I would also like to explore the areas of Cognitive Linguistics and Sociolinguistics.
+These models can be evaluated in tasks such as dialogue modelling, semantic and pragmatic parsing, probabilistic language modelling, and representation learning. In future, I would also like to explore the areas of cognitive linguistics and sociolinguistics.
  
 ## Projects
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)|[bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1708-03910)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._
