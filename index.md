@@ -3,10 +3,10 @@ layout: default
 ---
 
 **Email**: mario.giulianelli@student.uva.nl
-<img class="profile-picture" src="me.JPG">
 
 **GitHub**: [github.com/Procope]()
 
+<img class="profile-picture" src="me.JPG">
 > The only way to predict the future is to invent it.
 
 ## About me
