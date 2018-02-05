@@ -3,10 +3,10 @@ layout: default
 ---
 
 **Email**: mario.giulianelli@student.uva.nl
-
+<img class="profile-picture" src="me.JPG">
 **GitHub**: [github.com/Procope]()
 
-<img class="profile-picture" src="me.JPG">
+
 
 ## About me
 Born and raised in Italy, I moved to Germany to start a Bachelor in Computational Linguistics at the [University of Tübingen](https://www.uni-tuebingen.de/en/university/profile/history-of-the-university.html). 
