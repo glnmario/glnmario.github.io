@@ -31,7 +31,7 @@ These models can be evaluated in tasks such as dialogue modelling, semantic and 
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## Presentations
-- [PDF](CLIN28.pdf)|Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands
+- [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands
 
 ## GitHub
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus.   
