@@ -18,7 +18,7 @@ thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the ana
 Currently I study Artificial Intelligence at the University of Amsterdam.   
 
 ## Research interests
-I am in love with human language and with the magic of pragmatic inference. I try to analyse, model, and understand language with computational methods. My main research goal is proposing models of semantic reasoning and pragmatic inference that benefit from the lessons learned from symbolic and sub-symbolic processing.
+I am in love with linguistic interaction. I try to analyse, model, and understand language with computational methods. My main research goal is proposing models of semantic reasoning and pragmatic inference that benefit from the lessons learned from symbolic and sub-symbolic processing.
 These models can be evaluated in tasks such as dialogue modelling, semantic and pragmatic parsing, probabilistic language modelling, and representation learning. In future, I would also like to explore the areas of cognitive linguistics and sociolinguistics.   
  
 ## My work
@@ -30,6 +30,9 @@ _Presented at [CLIN28](http://clin28.cls.ru.nl/#abstract-49), Computational Ling
 - Response time of German native speakers reacting to different types of foreign mispronunciations. 
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
  on Italian texts. _At IBM Watson Analytics for Social Media_.
+
+## Presentations
+- [Semi-supervised emotion lexicon expansion with label propagation](CLIN28.pdf), CLIN 2018, Nijmegen, Netherlands
 
 ## GitHub
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus.   
