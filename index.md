@@ -23,7 +23,7 @@ These models can be evaluated in tasks such as dialogue modelling, semantic and 
  
 ## My work
 - Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Process Subject-Verb Agreement. _EMNLP 2018 Workshop on Analyzing and Interpreting Neural Networks for NLP_.
-- Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] [[bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1708-03910)]
+- [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
   Automatic annotation of emotional events and temporal relations.
@@ -32,7 +32,7 @@ These models can be evaluated in tasks such as dialogue modelling, semantic and 
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## Presentations
-- Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands [[PDF](CLIN28.pdf)]
+- [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 ## GitHub
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus.   
