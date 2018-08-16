@@ -22,7 +22,7 @@ I am in love with linguistic interaction. I try to analyse, model, and understan
 These models can be evaluated in tasks such as dialogue modelling, semantic and pragmatic parsing, probabilistic language modelling, and representation learning. In future, I would also like to explore the areas of cognitive linguistics and sociolinguistics.   
  
 ## My work
-- Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Process Subject-Verb Agreement. _EMNLP 2018 Workshop on Analyzing and Interpreting Neural Networks for NLP_.
+- Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information. _To appear at the EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_.
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
