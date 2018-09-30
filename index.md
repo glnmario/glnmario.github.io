@@ -33,7 +33,7 @@ I am in love with language interaction and I try to analyse, model, and understa
 
 ## Presentation
 - Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
-> Under the Hood: *1 November 2018, 17:00, Brussels*
+> 1 November 2018, 17:00, Brussels
 - [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 ## GitHub
