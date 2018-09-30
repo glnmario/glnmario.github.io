@@ -22,7 +22,8 @@ I am in love with linguistic interaction. I try to analyse, model, and understan
 These models can be evaluated in tasks such as dialogue modelling, semantic and pragmatic parsing, probabilistic language modelling, and representation learning. In future, I would also like to explore the areas of cognitive linguistics and sociolinguistics.   
  
 ## My work
-- Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. Under the hood: using diagnostic classifiers to investigate and improve how language models track agreement information. _To appear at the EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_.
+- Semi-supervised emotion lexicon expansion with label propagation. _To appear in the CLIN Journal_ 
+- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information. _EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
@@ -32,9 +33,11 @@ These models can be evaluated in tasks such as dialogue modelling, semantic and 
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## Presentations
+- Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
 - [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 ## GitHub
-- [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus.   
+- [emo2vec](https://github.com/Procope/under-the-hood/blob/master/README.md): using diagnostic classifiers to investigate and improve how language models process subject-verb agreement.
+- [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus. 
 
 > The only way to predict the future is to invent it.   
