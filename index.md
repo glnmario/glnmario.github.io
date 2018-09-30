@@ -18,8 +18,7 @@ thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the ana
 Currently I study Artificial Intelligence at the University of Amsterdam.   
 
 ## Research interests
-I am in love with linguistic interaction. I try to analyse, model, and understand language with computational methods. My main research goal is proposing models of semantic reasoning and pragmatic inference that benefit from the lessons learned from symbolic and sub-symbolic processing.
-These models can be evaluated in tasks such as dialogue modelling, semantic and pragmatic parsing, probabilistic language modelling, and representation learning. In future, I would also like to explore the areas of cognitive linguistics and sociolinguistics.   
+I am in love with language interaction and I try to analyse, model, and understand language with computational methods. My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, probabilistic language modelling, and representation learning. I am also interested in sociolinguistic studies of variation and change that investigate the dynamics of public discourse with computational techniques. 
  
 ## My work
 - Semi-supervised emotion lexicon expansion with label propagation. _To appear in the CLIN Journal_ 
