@@ -31,12 +31,13 @@ I am in love with language interaction and I try to analyse, model, and understa
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
-## Presentations
+## Presentation
 - Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
+> 1 November 2018, 17:00, Brussels
 - [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 ## GitHub
-- [emo2vec](https://github.com/Procope/under-the-hood/blob/master/README.md): using diagnostic classifiers to investigate and improve how language models process subject-verb agreement.
+- [under-the-hood](https://github.com/Procope/under-the-hood/blob/master/README.md): using diagnostic classifiers to investigate and improve how language models process subject-verb agreement.
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus. 
 
 > The only way to predict the future is to invent it.   
