@@ -23,6 +23,8 @@ I am in love with language interaction and I try to analyse, model, and understa
 ## My work
 - Semi-supervised emotion lexicon expansion with label propagation. _To appear in the CLIN Journal_ 
 - [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information. _EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_
+
+*Not peer-reviewed*
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
