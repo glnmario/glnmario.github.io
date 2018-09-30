@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="me.JPG">
+<img class="profile-picture" src="io.jpg">
 
 **Email**: [mario.giulianelli@student.uva.nl](mario.giulianelli@student.uva.nl)
 
