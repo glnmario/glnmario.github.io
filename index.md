@@ -21,8 +21,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 I am in love with language interaction and I try to analyse, model, and understand language with computational methods. My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, probabilistic language modelling, and representation learning. I am also interested in sociolinguistic studies of variation and change that investigate the dynamics of public discourse with computational techniques. 
  
 ## My work
-- Semi-supervised emotion lexicon expansion with label propagation. _To appear in the CLIN Journal_ 
-- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information. _EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP_
+- Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. To appear in the CLIN Journal.
+- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP.
 
 *Not peer-reviewed*
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
@@ -33,7 +33,7 @@ I am in love with language interaction and I try to analyse, model, and understa
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
-## Presentation
+## Presentations
 - Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
 > 1 November 2018, 17:00, Brussels
 - [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
