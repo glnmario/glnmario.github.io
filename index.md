@@ -22,7 +22,7 @@ I am in love with language interaction and I analyse, model, and try to understa
  
 ## My work
 - Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. To appear in the CLIN Journal.
-- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP.
+- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at EMNLP 1st Workshop on Analyzing and Interpreting Neural Networks for NLP.
 
 *Not peer-reviewed*
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
