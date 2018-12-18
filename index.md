@@ -21,7 +21,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 I am in love with language interaction and I analyse, model, and try to understand language with computational methods. My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, probabilistic language modelling, and representation learning. I am also interested in sociolinguistic studies of variation and change that investigate the dynamics of public discourse with computational techniques. 
  
 ## My work
-- Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. To appear in the CLIN Journal.
+- [[PDF](https://clinjournal.org/sites/clinjournal.org/files/Giulianelli2018_0.pdf)] Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. Computational Linguistics in the Netherlands Journal 8.
 - [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at EMNLP 1st Workshop on Analyzing and Interpreting Neural Networks for NLP.
 
 *Not peer-reviewed*
