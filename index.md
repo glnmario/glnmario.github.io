@@ -10,16 +10,18 @@ layout: default
 
 **LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)  
 
-PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the University of Amsterdam, I work in the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
+## About me
+PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
 
-I am in love with language interaction and I analyse, model, and try to understand language production and comprehension with computational methods. My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, probabilistic language modelling, and representation learning. I am also interested in prycho- and sociolinguistic studies of variation and change as they can help building more resilient and human-compatible language technologies.
+I am in love with language interaction and I analyse, model, and try to understand language production and comprehension with computational methods.
+
+My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
 
 
-## Bio
+### It's me, Mario
 Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
 During my Bachelor's studies, I worked both as a teaching and as a research assistant for the Department of General and Computational Linguistics ([SfS](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/)), and I served a five-month internship in the IBM department for Social Media Analytics.
 As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of ILLC scholars and students. I graduated with a thesis on the detection and analysis of lexical semantic change.
--->
 <!--
 In July 2017 I graduated with a
 thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the analysis of affective text.
@@ -43,7 +45,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## Presentations
 - Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
-> 1 November 2018, 17:00, Brussels
+<!-- > 1 November 2018, 17:00, Brussels -->
 - [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 <!--
