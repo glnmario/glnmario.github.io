@@ -18,7 +18,7 @@ I am in love with language interaction and I analyse, model, and try to understa
 
 My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
 
-#### It's-a me, Mario  
+##### It's-a me, Mario  
 Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
 During my Bachelor's studies, I worked both as a teaching and as a research assistant for the [Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/)), and I served a five-month internship in the IBM department for social media analytics.
 As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of [ILLC](https://www.illc.uva.nl) scholars and students. I graduated with a thesis on the detection and analysis of lexical semantic change.
