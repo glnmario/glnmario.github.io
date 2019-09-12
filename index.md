@@ -10,6 +10,8 @@ layout: default
 
 **LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)  
 
+-------
+
 ## About me
 PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
 
