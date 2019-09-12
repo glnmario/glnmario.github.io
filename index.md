@@ -4,21 +4,28 @@ layout: default
 
 <img class="profile-picture" src="io.jpg">
 
-**Email**: [mario.giulianelli@student.uva.nl](mario.giulianelli@student.uva.nl)
+**Email**: [m.giulianelli@uva.nl](mario.giulianelli@student.uva.nl)
 
 **GitHub**: [github.com/Procope](https://github.com/Procope)
 
-**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)   
+**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)  
+
+PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the University of Amsterdam, I work in the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
+
+I am in love with language interaction and I analyse, model, and try to understand language production and comprehension with computational methods. My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, probabilistic language modelling, and representation learning. I am also interested in prycho- and sociolinguistic studies of variation and change as they can help building more resilient and human-compatible language technologies.
+
 
 ## Bio
-Born and raised in Italy, I moved to Germany to start a Bachelor in Computational Linguistics at the [University of Tübingen](https://www.uni-tuebingen.de/en/university/profile/history-of-the-university.html). 
-During my Bachelor's studies, I worked both as a teaching and as a research assistant for the Department of General and Computational Linguistics ([SfS](http://www.sfs.uni-tuebingen.de/en/chairs.html)), and I
-served a five-month internship in the [Watson Analytics for Social Media](https://www.ibm.com/us-en/marketplace/social-media-data-analysis/details#product-header-top) department of IBM. In July 2017 I graduated with a
+Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
+During my Bachelor's studies, I worked both as a teaching and as a research assistant for the Department of General and Computational Linguistics ([SfS](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/)), and I served a five-month internship in the IBM department for Social Media Analytics.
+As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of ILLC scholars and students. I graduated with a thesis on the detection and analysis of lexical semantic change.
+-->
+<!--
+In July 2017 I graduated with a
 thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the analysis of affective text.
 Currently I study Artificial Intelligence at the University of Amsterdam.   
+-->
 
-## Research interests
-I am in love with language interaction and I analyse, model, and try to understand language with computational methods. My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, probabilistic language modelling, and representation learning. I am also interested in sociolinguistic studies of variation and change that investigate the dynamics of public discourse with computational techniques. 
  
 ## My work
 - [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at EMNLP 1st Workshop on Analyzing and Interpreting Neural Networks for NLP.
@@ -39,8 +46,9 @@ I am in love with language interaction and I analyse, model, and try to understa
 > 1 November 2018, 17:00, Brussels
 - [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
+<!--
 ## GitHub
 - [under-the-hood](https://github.com/Procope/under-the-hood/blob/master/README.md): using diagnostic classifiers to investigate and improve how language models process subject-verb agreement.
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus. 
-
+-->
 > The only way to predict the future is to invent it.   
