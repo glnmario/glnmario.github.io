@@ -49,7 +49,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands
 - **Talk.** 1 November 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
 <!-- > 1 November 2018, 17:00, Brussels -->
-- **Talk.** [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
+- **Talk.** 26 January 2018. [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 <!--
 ## GitHub
