@@ -4,9 +4,9 @@ layout: default
 
 <img class="profile-picture" src="io.jpg">
 
-**Email**: [m.giulianelli@uva.nl](mario.giulianelli@student.uva.nl)
+**Email**: [m.giulianelli@uva.nl](mailto:m.giulianelli@uva.nl)
 
-**GitHub**: [github.com/Procope](https://github.com/Procope)
+**GitHub**: [github.com/glnmario](https://github.com/glnmario)
 
 **LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)  
 
