@@ -44,9 +44,12 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## Presentations
-- Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
+- **Poster.** 11 October 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK
+- **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands
+- **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands
+- **Talk.** 1 November 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
 <!-- > 1 November 2018, 17:00, Brussels -->
-- [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
+- **Talk.** [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands 
 
 <!--
 ## GitHub
