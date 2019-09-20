@@ -8,7 +8,7 @@ layout: default
 
 **GitHub**: [github.com/glnmario](https://github.com/glnmario)
 
-**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli/)  
+**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli)  
 
 
 ## About me
