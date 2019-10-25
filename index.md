@@ -36,6 +36,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 *Not peer-reviewed*
 - [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._ 
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
+- Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
   Automatic annotation of emotional events and temporal relations.
@@ -44,7 +45,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## Presentations
-- **Poster.** 11 October 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK
+- **Poster.** 11 October 2019. [[PDF](EurNLP.pdf)] Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK
 - **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands
 - **Talk.** 1 November 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium
