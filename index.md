@@ -34,7 +34,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [[PDF](https://clinjournal.org/sites/clinjournal.org/files/Giulianelli2018_0.pdf)] Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. Computational Linguistics in the Netherlands Journal 8.
 
 *Not peer-reviewed*
-- [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._ 
+<!--- [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._-->
+- Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._ 
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
 - Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
