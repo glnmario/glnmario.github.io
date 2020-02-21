@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="io.jpg">
+<img class="profile-picture" src="PHOTO-2020-02-21-22-42-45 2.jpg">
 
 **Email**: [m.giulianelli@uva.nl](mailto:m.giulianelli@uva.nl)
 
