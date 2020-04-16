@@ -1,2 +1,6 @@
-- name: "Curriculum vitae"
-  link: "resume.pdf"
+- name: "email"
+  link: mailto:m.giulianelli@uva.nl
+- name: "github"
+  link: https://github.com/glnmario
+- name: "linkedin"
+  link: https://www.linkedin.com/in/mario-giulianelli
