@@ -2,13 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="PHOTO-2020-02-21-22-42-45 2.jpeg">
-
-**Email**: [m.giulianelli@uva.nl](mailto:m.giulianelli@uva.nl)
-
-**GitHub**: [github.com/glnmario](https://github.com/glnmario)
-
-**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli)  
+<img class="profile-picture" src="PHOTO-2020-02-21-22-42-45 2.jpeg"> 
 
 
 ## About me
@@ -58,4 +52,10 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [under-the-hood](https://github.com/Procope/under-the-hood/blob/master/README.md): using diagnostic classifiers to investigate and improve how language models process subject-verb agreement.
 - [emo2vec](https://github.com/Procope/emo2vec/blob/master/README.md): expand an emotion lexicon via label propagation and learn emotion-specific word embeddings from an annotated corpus. 
 -->
+**Email**: [m.giulianelli@uva.nl](mailto:m.giulianelli@uva.nl)
+
+**GitHub**: [github.com/glnmario](https://github.com/glnmario)
+
+**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli) 
+
 > The only way to predict the future is to invent it.   
