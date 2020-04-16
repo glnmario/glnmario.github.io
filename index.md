@@ -30,12 +30,12 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at EMNLP 1st Workshop on Analyzing and Interpreting Neural Networks for NLP.
-- [[PDF](https://clinjournal.org/sites/clinjournal.org/files/Giulianelli2018_0.pdf)] Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. Computational Linguistics in the Netherlands Journal 8.
+- Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. To appear in the _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)_.
+- [[PDF](https://arxiv.org/pdf/1808.08079.pdf)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at _EMNLP's 1st Workshop on Analyzing and Interpreting Neural Networks for NLP_.
+- [[PDF](https://clinjournal.org/sites/clinjournal.org/files/Giulianelli2018_0.pdf)] Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. _Computational Linguistics in the Netherlands Journal 8_.
 
 *Not peer-reviewed*
-<!--- [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._-->
-- Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._ 
+- [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. _Master's thesis._
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. _Bachelor's thesis._ 
 - Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
