@@ -1,6 +1,7 @@
-- name: "email"
-  link: mailto:m.giulianelli@uva.nl
-- name: "github"
-  link: https://github.com/glnmario
 - name: "linkedin"
   link: https://www.linkedin.com/in/mario-giulianelli
+- name: "github"
+  link: https://github.com/glnmario
+- name: "email"
+  link: mailto:m.giulianelli@uva.nl
+- name: ""
