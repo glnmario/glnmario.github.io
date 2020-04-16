@@ -3,9 +3,7 @@ layout: default
 ---
 
 <img class="profile-picture" src="PHOTO-2020-02-21-22-42-45 2.jpeg"> 
-
-
-[**email**](mailto:m.giulianelli@uva.nl)   [**github**](https://github.com/glnmario) 
+ 
 
 <!--## About me-->
 PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
