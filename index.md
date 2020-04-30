@@ -24,7 +24,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- [[PDF](https://arxiv.org/abs/2004.14118)Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. To appear in the _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL-2020)_.
+- [[PDF](https://arxiv.org/abs/2004.14118)] Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. To appear in the _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL-2020)_.
 - [[PDF](https://arxiv.org/abs/1808.08079)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. Best Paper Award at 1st Workshop on Analyzing and Interpreting Neural Networks for NLP_ (EMNLP-2018).
 - [[PDF](https://clinjournal.org/clinj/article/view/82)] Mario Giulianelli & Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. _Computational Linguistics in the Netherlands Journal 8_.
 
