@@ -1,4 +1,6 @@
 - name: ""
+- name: "twitter"
+  link: https://twitter.com/glnmario
 - name: "linkedin"
   link: https://www.linkedin.com/in/mario-giulianelli
 - name: "github"
