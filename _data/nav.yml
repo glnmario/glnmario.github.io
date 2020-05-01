@@ -1,8 +1,10 @@
 - name: ""
-- name: "twitter"
-  link: https://twitter.com/glnmario
+- name: "CV"
+  link: "resume.pdf"
 - name: "linkedin"
   link: https://www.linkedin.com/in/mario-giulianelli
+- name: "twitter"
+  link: https://twitter.com/glnmario
 - name: "github"
   link: https://github.com/glnmario
 - name: "email"
