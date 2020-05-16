@@ -41,7 +41,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
 ## Presentations
-- **Online symposium.** 18 May 2020. [[PDF]()] Analysing Lexical Semantic Change with Contextualised Word Representations. London, UK
+- **Online symposium.** 18 May 2020. [[PDF]()] Analysing Lexical Semantic Change with Contextualised Word Representations.
 - **Poster.** 11 October 2019. [[PDF](EurNLP.pdf)] Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK
 - **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands
