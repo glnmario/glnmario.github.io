@@ -44,7 +44,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 ## Presentations
 - **Talk.** 7 July 2020. [[Video](https://slideslive.com/38929048/analysing-lexical-semantic-change-with-contextualised-word-representations)] Analysing Lexical Semantic Change with Contextualised Word Representations. _ACL 2020_. Online.
 - **Symposium.** 18 May 2020. [[PDF](gecko-poster-slides.pdf)] Analysing Lexical Semantic Change with Contextualised Word Representations. _GeCKo 2020_. Online.
-- **Guest talk.** 1 May 2020. Evaluating the human-likeness of language model representations. Cognitive Science & Artificial Intelligence. Tilburg, Netherlands.
+- **Guest talk.** 1 May 2020. Evaluating the human-likeness of language model representations. _Cognitive Science & Artificial Intelligence_. Tilburg, Netherlands.
 - **Poster.** 11 October 2019. [[PDF](EurNLP.pdf)] Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK.
 - **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands.
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands.
