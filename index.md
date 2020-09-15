@@ -24,7 +24,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández. 2020. **Refer, Reuse, Reduce: Grounding Subsequent References in Visual and Conversational Contexts**. _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_.
+- Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández. 2020. **Refer, Reuse, Reduce: Grounding Subsequent References in Visual and Conversational Contexts**. To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_.
 - [[PDF](https://www.aclweb.org/anthology/2020.acl-main.365/)] Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)_.
 - [[PDF](https://arxiv.org/abs/2005.00050)] Andrey Kutuzov and Mario Giulianelli. 2020. **UiO-UvA at SemEval-2020 Task 1: Contextualised Embeddings for Lexical Semantic Change Detection**. To appear in the _Proceedings of the 14th International Workshop on Semantic Evaluation (SemEval 2020)_.
 - [[PDF](https://arxiv.org/abs/1808.08079)] Mario Giulianelli, Jack Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. _Best Paper Award at 1st Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP 2018)_.
@@ -43,8 +43,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## Presentations
 - **Talk.** 7 July 2020. [[Video](https://slideslive.com/38929048/analysing-lexical-semantic-change-with-contextualised-word-representations)] Analysing Lexical Semantic Change with Contextualised Word Representations. _ACL 2020_. Online.
-- **Symposium.** 18 May 2020. [[PDF](gecko-poster-slides.pdf)] Analysing Lexical Semantic Change with Contextualised Word Representations. _GeCKo 2020_ Online.
-- **Guest talk.** 1 May 2020. CS&AI. Evaluating the human-likeness of language model representations. Tilburg, Netherlands.
+- **Symposium.** 18 May 2020. [[PDF](gecko-poster-slides.pdf)] Analysing Lexical Semantic Change with Contextualised Word Representations. _GeCKo 2020_. Online.
+- **Guest talk.** 1 May 2020. Evaluating the human-likeness of language model representations. Cognitive Science & Artificial Intelligence. Tilburg, Netherlands.
 - **Poster.** 11 October 2019. [[PDF](EurNLP.pdf)] Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK.
 - **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands.
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands.
