@@ -24,7 +24,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández. 2020. **Refer, Reuse, Reduce: Grounding Subsequent References in Visual and Conversational Contexts**. To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_.
+- [[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.353/)] Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández. 2020. **Refer, Reuse, Reduce: Grounding Subsequent References in Visual and Conversational Contexts**. To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_.
 - [[PDF](https://www.aclweb.org/anthology/2020.acl-main.365/)] Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)_.
 - [[PDF](https://arxiv.org/abs/2005.00050)] Andrey Kutuzov and Mario Giulianelli. 2020. **UiO-UvA at SemEval-2020 Task 1: Contextualised Embeddings for Lexical Semantic Change Detection**. To appear in the _Proceedings of the 14th International Workshop on Semantic Evaluation (SemEval 2020)_.
 - [[PDF](https://www.aclweb.org/anthology/W18-5426/)] Mario Giulianelli, Jacqueline Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. _Best Paper Award at 1st Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP 2018)_.
