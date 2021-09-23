@@ -10,7 +10,7 @@ PhD candidate at the [Institute for Logic, Language and Computation](https://www
 
 I am in love with language interaction and I analyse, model, and try to understand language production and comprehension with computational methods.
 
-My main research goal is proposing and evaluating models of semantic reasoning and pragmatic inference that can be applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
+My main research goal is evaluating theories of semantic reasoning and pragmatic inference with computational models, which can be then directly applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
 
 ##### It's-a me, Mario  
 Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
@@ -22,12 +22,19 @@ thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the ana
 Currently I study Artificial Intelligence at the University of Amsterdam.   
 -->
 
+## News
+- New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández!
+- Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova!
+- Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/)!
  
 ## My work
-- [[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.353/)] Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández. 2020. **Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts**. To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_.
-- [[PDF](https://www.aclweb.org/anthology/2020.acl-main.365/)] Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)_.
+- [[PDF](https://glnmario.github.io)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2021. **Is Information Density Uniform in Task-Oriented Dialogues?** 2021. To appear in _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)_.
+- [[PDF](https://glnmario.github.io)] Mario Giulianelli and Raquel Fernández. 2021. **Analysing Human Strategies of Information Transmission as a Function of Discourse Context** 2021. To appear in _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
+- [[PDF](https://arxiv.org/abs/2109.10397)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2021. **Grammatical Profiling for Semantic Change Detection**. To appear in _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
+- [[PDF](https://www.aclweb.org/anthology/2020.acl-main.365/)] Mario Giulianelli, Marco Del Tredici, Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)_.
 - [[PDF](https://arxiv.org/abs/2005.00050)] Andrey Kutuzov and Mario Giulianelli. 2020. **UiO-UvA at SemEval-2020 Task 1: Contextualised Embeddings for Lexical Semantic Change Detection**. To appear in the _Proceedings of the 14th International Workshop on Semantic Evaluation (SemEval 2020)_.
-- [[PDF](https://www.aclweb.org/anthology/W18-5426/)] Mario Giulianelli, Jacqueline Harding, Florian Mohnert, Dieuwke Hupkes, and Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. _Best Paper Award at 1st Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP 2018)_.
+- [[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.353/)] Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair, Raquel Fernández. 2020. **Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts**. To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_.
+- [[PDF](https://www.aclweb.org/anthology/W18-5426/)] Mario Giulianelli, Jacqueline Harding, Florian Mohnert, Dieuwke Hupkes, Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. _Best Paper Award at 1st Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP 2018)_.
 - [[PDF](https://clinjournal.org/clinj/article/view/82)] Mario Giulianelli and Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. _Computational Linguistics in the Netherlands Journal 8 (CLIN)_.
 
 *Not peer-reviewed*
@@ -41,7 +48,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
  on Italian texts. _At IBM Watson Analytics for Social Media_.
 
-## Presentations
+<!-- ## Presentations
 - **Talk.** 7 July 2020. [[Video](https://slideslive.com/38929048/analysing-lexical-semantic-change-with-contextualised-word-representations)] Analysing Lexical Semantic Change with Contextualised Word Representations. _ACL 2020_. Online.
 - **Symposium.** 18 May 2020. [[PDF](gecko-poster-slides.pdf)] Analysing Lexical Semantic Change with Contextualised Word Representations. _GeCKo 2020_. Online.
 - **Guest talk.** 1 May 2020. Evaluating the human-likeness of language model representations. _Cognitive Science & Artificial Intelligence_. Tilburg, Netherlands.
@@ -49,8 +56,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands.
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands.
 - **Talk.** 1 November 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium.
-<!-- > 1 November 2018, 17:00, Brussels -->
-- **Talk.** 26 January 2018. [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands.
+- **Talk.** 26 January 2018. [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands. -->
 
 <!--
 ## GitHub
