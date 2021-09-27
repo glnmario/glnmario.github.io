@@ -8,8 +8,8 @@ layout: default
 <!--## About me-->
 PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
 
-I am in love with language interaction and I analyse, model, and try to understand language production and comprehension with computational methods.
-
+<!-- I am in love with language interaction and -->
+I analyse, model, and try to understand language production with computational methods.
 My main research goal is evaluating theories of semantic reasoning and pragmatic inference with computational models, which can be then directly applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
 
 ##### It's-a me, Mario  
