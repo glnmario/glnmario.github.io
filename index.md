@@ -25,6 +25,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández!
 - Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova!
 - Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/)!
+- Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
 ## My work
 - [[PDF](https://glnmario.github.io)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2021. **Is Information Density Uniform in Task-Oriented Dialogues?**. To appear in _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)_.
