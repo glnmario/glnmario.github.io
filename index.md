@@ -28,7 +28,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
 ## My work
-- [[PDF](https://glnmario.github.io)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2021. **Is Information Density Uniform in Task-Oriented Dialogues?**. To appear in _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)_.
+- [[PDF](https://glnmario.github.io)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2021. **Is Information Density Uniform in Task-Oriented Dialogues?** To appear in _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)_.
 - [[PDF](https://glnmario.github.io)] Mario Giulianelli and Raquel Fernández. 2021. **Analysing Human Strategies of Information Transmission as a Function of Discourse Context**. To appear in _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
 - [[PDF](https://arxiv.org/abs/2109.10397)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2021. **Grammatical Profiling for Semantic Change Detection**. To appear in _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
 - [[PDF](https://www.aclweb.org/anthology/2020.acl-main.365/)] Mario Giulianelli, Marco Del Tredici, Raquel Fernández. 2020. **Analysing Lexical Semantic Change with Contextualised Word Representations**. _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)_.
