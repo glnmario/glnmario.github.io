@@ -17,9 +17,8 @@ Born and raised in Italy, I spent three years in Germany as a undergraduate stud
 During my Bachelor's studies, I worked both as a teaching and as a research assistant for the [Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/), and I served a five-month internship in the IBM department for social media analytics.
 As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of [ILLC](https://www.illc.uva.nl) scholars and students. I graduated with a thesis on the detection and analysis of lexical semantic change.
 <!--
-In July 2017 I graduated with a
-thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the analysis of affective text.
-Currently I study Artificial Intelligence at the University of Amsterdam.   
+In July 2017 I graduated with a thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the analysis of affective text.
+Currently I study Artificial Intelligence at the University of Amsterdam.    
 -->
 
 ## News
