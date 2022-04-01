@@ -8,9 +8,10 @@ layout: default
 <!--## About me-->
 PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
 
-<!-- I am in love with language interaction and I -->
-I analyse, model, and try to understand language production with computational methods.
-My main research goal is evaluating theories of semantic reasoning and pragmatic inference with computational models, which can be then directly applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
+<!-- I am in love with language interaction and I analyse, model, and try to understand language production with computational methods.
+My main research goal is evaluating theories of semantic reasoning and pragmatic inference with computational models, which can be then directly applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies. -->
+I analyse and model language production and comprehension with computational methods. My main research goal is defining empirical measures of human-likeness that can be used (i) to evaluate the alignment of machine-generated utterances to human communication patterns and strategies, and (ii) to develop NLG models that more closely follow such patterns and strategies. I am also interested in psycholinguistic and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
+
 
 ##### It's-a me, Mario  
 Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
@@ -22,10 +23,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- Invited talk on 14 March at the Language Technology Group Seminar of the Univerisity of Oslo.
-- New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández!
-- Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova!
-- Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/)!
+- New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova!
+- Invited talk on 14 March at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the Univerisity of Oslo.
+- New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández.
+- Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova.
+- Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/).
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
 ## My work
