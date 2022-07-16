@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="PHOTO-2020-02-21-22-42-45 2.jpeg"> 
+<img class="profile-picture" src="me-dublin.jpg"> 
  
 
 <!--## About me-->
