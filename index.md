@@ -23,8 +23,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- New interpretability paper with Sam Ryb at *SEM 2022!
-- New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova. See you in Dublin!
+- Oral presentations at [CLIN](https://clin2022.uvt.nl) and [CLiC-it](https://clic2021.disco.unimib.it).
+- New interpretability paper with Sam Ryb at *SEM 2022.
+- New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
 - Invited talk on 14 March at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the Univerisity of Oslo.
 - New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández.
 - Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova.
@@ -32,9 +33,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
 ## My work
-- Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2022. **Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change**. To appear in _Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change_.
-- Samuel Ryb, Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models**. To appear in _Proceedings of *SEM 2022: The 11th Joint Conference on Lexical and Computational Semantics_.
-- [[PDF](https://github.com/google/BIG-bench/blob/main/docs/paper/BIG-bench.pdf)] With many collaborators :). 2022. **Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models**. ArXiV.
+- [[PDF](https://aclanthology.org/2022.lchange-1.6/)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2022. **Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change**. In _Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change_.
+- [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] Samuel Ryb, Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models**. In _Proceedings of *SEM 2022: The 11th Joint Conference on Lexical and Computational Semantics_.
+- [[PDF](https://arxiv.org/abs/2206.04615)] With many collaborators :). 2022. **Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models**. ArXiV, Computation and Language.
 - [[PDF](https://aclanthology.org/2021.emnlp-main.652/)][[Code](https://github.com/dmg-illc/uid-dialogue)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2021. **Is Information Density Uniform in Task-Oriented Dialogues?** In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)_.
 - [[PDF](https://aclanthology.org/2021.conll-1.50/)][[Code](https://github.com/dmg-illc/uid-dialogue)] Mario Giulianelli and Raquel Fernández. 2021. **Analysing Human Strategies of Information Transmission as a Function of Discourse Context**. In _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
 - [[PDF](https://aclanthology.org/2021.conll-1.33/)][[Code](https://github.com/glnmario/semchange-profiling)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2021. **Grammatical Profiling for Semantic Change Detection**. In _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
