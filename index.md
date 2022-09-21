@@ -24,7 +24,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## News
 - New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. Soon out! 
-- Invited lecture at the University of Amsterdam for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_IR2_21sept2022.pdf)]
+- Invited lecture at the University of Amsterdam for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 - Oral presentations at [CLIN](https://clin2022.uvt.nl) and [CLiC-it](https://clic2021.disco.unimib.it).
 - New interpretability paper with Sam Ryb at *SEM 2022.
 - New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
