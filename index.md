@@ -23,6 +23,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- Invited talk on 27 October at LORIA, in Nancy [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
 - New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. Soon out! 
 - Invited lecture at the University of Amsterdam for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 - Oral presentations at [CLIN](https://clin2022.uvt.nl) and [CLiC-it](https://clic2021.disco.unimib.it).
