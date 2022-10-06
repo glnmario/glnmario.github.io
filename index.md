@@ -23,18 +23,23 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- Invited talk on 27 October at LORIA, in Nancy [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
-- New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. Soon out! 
-- Invited lecture at the University of Amsterdam for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+- New paper at EMNLP 2022: _Towards Pragmatic Production Strategies for Natural Language Generation_. Soon out!
+- New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. Out on 10 October. 
 - Oral presentations at [CLIN](https://clin2022.uvt.nl) and [CLiC-it](https://clic2021.disco.unimib.it).
 - New interpretability paper with Sam Ryb at *SEM 2022.
 - New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
-- Invited talk on 14 March at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the Univerisity of Oslo.
 - New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández.
 - Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova.
 - Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/).
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
+## Invited talks
+- **On 3 November 2022 at the University of Gothenburg**
+- **On 27 October 2022 at LORIA, in Nancy** [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
+- **On 12 October 2022 at the University of Aberdeen**
+- On 14 March 2022 at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the Univerisity of Oslo
+- On 21 September 2022 at the University of Amsterdam, for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+
 ## My work
 - [[PDF](https://aclanthology.org/2022.lchange-1.6/)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2022. **Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change**. In _Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change_.
 - [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] Samuel Ryb, Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models**. In _Proceedings of *SEM 2022: The 11th Joint Conference on Lexical and Computational Semantics_.
