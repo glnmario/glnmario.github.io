@@ -42,6 +42,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - On 21 September 2022 at the University of Amsterdam, for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 
 ## My work
+- Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. To appear in _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
+- [[PDF](https://arxiv.org/abs/2210.03050)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artexte, Tiago Pimentel, et al. 2022. **State-of-the-art generalisation research in NLP: A taxonomy and review**. Preprint.
+- Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **Construction Repetition Reduces Information Rate in Dialogue**. To appear in _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)_.
 - [[PDF](https://aclanthology.org/2022.lchange-1.6/)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2022. **Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change**. In _Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change_.
 - [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] Samuel Ryb, Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models**. In _Proceedings of *SEM 2022: The 11th Joint Conference on Lexical and Computational Semantics_.
 - [[PDF](https://arxiv.org/abs/2206.04615)] With many collaborators :). 2022. **Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models**. ArXiV, Computation and Language.
