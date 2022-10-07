@@ -35,10 +35,10 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
 ## Invited talks
-- **On 3 November 2022 at the University of Gothenburg**
+- **On 12 October 2022 at the University of Aberdeen** [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
 - **On 27 October 2022 at LORIA, in Nancy** [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
-- **On 12 October 2022 at the University of Aberdeen**
-- On 14 March 2022 at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the Univerisity of Oslo
+- **On 3 November 2022 at the University of Gothenburg**
+- On 14 March 2022 at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the University of Oslo
 - On 21 September 2022 at the University of Amsterdam, for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 
 ## My work
