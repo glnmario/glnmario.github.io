@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="me-dublin-squared.jpg"> 
+<img class="profile-picture" src="me-ireland.jpg"> 
  
 
 <!--## About me-->
