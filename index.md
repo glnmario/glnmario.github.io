@@ -24,7 +24,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## News
 - New preprint on _State-of-the-art generalisation research in NLP: A taxonomy and review_ [[PDF](https://arxiv.org/abs/2210.03050)]
-- New paper at EMNLP 2022: _Towards Pragmatic Production Strategies for Natural Language Generation_. On arXiv on 25 October.
+- New paper at EMNLP 2022: _Towards Pragmatic Production Strategies for Natural Language Generation_. [[PDF](https://arxiv.org/abs/2210.12828)]
 - New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. [[PDF](https://arxiv.org/abs/2210.08321)]
 - Oral presentations at [CLIN](https://clin2022.uvt.nl) and [CLiC-it](https://clic2021.disco.unimib.it).
 - New interpretability paper with Sam Ryb at *SEM 2022.
@@ -42,7 +42,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - On 21 September 2022 at the University of Amsterdam, for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 
 ## My work
-- Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. To appear in _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
+- [[PDF](https://arxiv.org/abs/2210.12828)] Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. To appear in _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
 - [[PDF](https://arxiv.org/abs/2210.03050)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artexte, Tiago Pimentel, et al. 2022. **State-of-the-art generalisation research in NLP: A taxonomy and review**. Preprint.
 - [[PDF](https://arxiv.org/abs/2210.08321)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **Construction Repetition Reduces Information Rate in Dialogue**. To appear in _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)_.
 - [[PDF](https://aclanthology.org/2022.lchange-1.6/)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2022. **Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change**. In _Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change_.
