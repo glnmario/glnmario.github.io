@@ -6,11 +6,17 @@ layout: default
  
 
 <!--## About me-->
-PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
+PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues. My research interest lie in the following areas, which roughly define the boundaries of my projects and publications:
+- Computational semantics and pragmatics
+- Computational dialogue modelling
+- Natural Language Generation 
+- Language variation and change in communities of speakers
+- Explainability, interpretability, and fair evaluation of NLP models
 
-<!-- I am in love with language interaction and I analyse, model, and try to understand language production with computational methods.
-My main research goal is evaluating theories of semantic reasoning and pragmatic inference with computational models, which can be then directly applied to tasks such as dialogue modelling, neural language modelling, and representation learning. I am also interested in psycho- and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies. -->
-I analyse and model language production and comprehension with computational methods. My main research goal is defining empirical measures of human-likeness that can be used (i) to evaluate the alignment of machine-generated utterances to human communication patterns and strategies, and (ii) to develop NLG models that more closely follow such patterns and strategies. I am also interested in psycholinguistic and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.
+What I am most excited about is studying human strategies of communication using computational models of language understanding and generation. This is the main topic of my PhD, which I address with machine learning, information theory, and statistical modelling.
+
+
+<!-- I analyse and model language production and comprehension with computational methods. My main research goal is defining empirical measures of human-likeness that can be used (i) to evaluate the alignment of machine-generated utterances to human communication patterns and strategies, and (ii) to develop NLG models that more closely follow such patterns and strategies. I am also interested in psycholinguistic and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.-->
 
 
 ##### It's-a me, Mario  
