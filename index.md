@@ -9,7 +9,7 @@ layout: default
 PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues. My research interest lie in the following areas, which roughly define the boundaries of my projects and publications:
 - Computational semantics and pragmatics
 - Computational dialogue modelling
-- Natural Language Generation 
+- Natural language generation 
 - Language variation and change in communities of speakers
 - Explainability, interpretability, and fair evaluation of NLP models
 
