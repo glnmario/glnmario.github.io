@@ -41,11 +41,19 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP.
  
 ## Invited talks
-- **On 12 October 2022 at the University of Aberdeen** [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
-- **On 27 October 2022 at LORIA, in Nancy** [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
-- **On 3 November 2022 at the University of Gothenburg**
-- On 14 March 2022 at the [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/) of the University of Oslo
-- On 21 September 2022 at the University of Amsterdam, for the Advanced Information Retrieval course of the MSc AI / MSc Informatics. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+- Language Technology Research Lab. University of Gothenburg. **November 2022**. Sweden.
+- Inria & Loria. 27 October 2022. Nancy, France. [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
+- School of Natural and Computing Sciences. University of Aberdeen. 12 October 2022. Scotland, UK. [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
+- Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+- [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/). Language Technology Group. University of Oslo, Norway. 14 March 2022.
+- NLPitch. Institute for Logic, Language and Computation. University of Amsterdam, Netherlands. 26 October 2020.
+- AILC Lectures on Computational Linguistics. Università Tor Vergata. Rome, Italy. 17 June 2021.
+- Cognitive Machine Learning Lab. Ecole Normale Supérieure. Paris, France. 29 June 2021.
+- Symposium on Meaning Variation in Social Contexts. Institute for Logic, Language and Computation. Amsterdam, NL. 5 November 2020.
+- Computational Linguistic Seminar. Institute for Logic, Language and Computation. University of Amsterdam, Netherlands. 5 October 2021.
+- NLP 1 (MSc AI course). University of Amsterdam, Netherlands. Online. 18 November 2020.
+- Cognitive Science & Artificial Intelligence PhD Group. Tilburg, Netherlands. 1 May 2020.
+- Cool Logic Seminar. Amsterdam, Netherlands. 1 February 2019.
 
 ## My work
 - [[PDF](https://arxiv.org/abs/2210.12828)] Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. To appear in _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
