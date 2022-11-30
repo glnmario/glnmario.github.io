@@ -1,6 +1,8 @@
 - name: ""
 # - name: "CV"
 #   link: "CV-mario-giulianelli.pdf"
+- name: "scholar"
+  link: https://scholar.google.com/citations?user=ABZghWYAAAAJ&hl=en
 - name: "linkedin"
   link: https://www.linkedin.com/in/mario-giulianelli
 - name: "twitter"
