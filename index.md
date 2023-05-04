@@ -29,10 +29,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- New paper at ACL 2023: _Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_
+- New paper at Findings of ACL 2023: _Speaking the Language of Your Listener: Audience-Aware Adaptation in Visually Grounded Referential Games_
 - New preprint on _State-of-the-art generalisation research in NLP: A taxonomy and review_ [[PDF](https://arxiv.org/abs/2210.03050)]
 - New paper at EMNLP 2022: _Towards Pragmatic Production Strategies for Natural Language Generation_. [[PDF](https://aclanthology.org/2022.emnlp-main.544/)]
 - New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. [[PDF](https://aclanthology.org/2022.aacl-main.51)]
-- Oral presentations at [CLIN](https://clin2022.uvt.nl) and [CLiC-it](https://clic2021.disco.unimib.it).
 - New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)]
 
 <!-- 
