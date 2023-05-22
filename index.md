@@ -29,6 +29,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- New paper out! [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707)
 - New paper at ACL 2023: _Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_
 - New paper at Findings of ACL 2023: _Speaking the Language of Your Listener: Audience-Aware Adaptation in Visually Grounded Referential Games_
 - New preprint on _State-of-the-art generalisation research in NLP: A taxonomy and review_ [[PDF](https://arxiv.org/abs/2210.03050)]
