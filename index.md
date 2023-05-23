@@ -30,11 +30,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## News
 - New paper out! [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707)
-- New paper at ACL 2023: _Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_
+- New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_](https://arxiv.org/abs/2305.11993)
 - New paper at Findings of ACL 2023: _Speaking the Language of Your Listener: Audience-Aware Adaptation in Visually Grounded Referential Games_
-- New preprint on _State-of-the-art generalisation research in NLP: A taxonomy and review_ [[PDF](https://arxiv.org/abs/2210.03050)]
-- New paper at EMNLP 2022: _Towards Pragmatic Production Strategies for Natural Language Generation_. [[PDF](https://aclanthology.org/2022.emnlp-main.544/)]
-- New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: _Construction Repetition Reduces Information Rate in Dialogue_. [[PDF](https://aclanthology.org/2022.aacl-main.51)]
+- New preprint on [_State-of-the-art generalisation research in NLP: A taxonomy and review_](https://arxiv.org/abs/2210.03050)
+- New paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
+- New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
 - New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)]
 
 <!-- 
