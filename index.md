@@ -7,11 +7,11 @@ layout: default
 
 <!--## About me-->
 PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues. My research interests lie in the following areas, which roughly define the boundaries of my projects and publications:
+- Explainability, interpretability, and evaluation of NLP models
+- Natural language generation 
 - Computational semantics and pragmatics
 - Computational dialogue modelling
-- Natural language generation 
 - Language variation and change in communities of speakers
-- Explainability, interpretability, and fair evaluation of NLP models
 
 What I am most excited about is studying human strategies of communication using computational models of language understanding and generation. This is the main topic of my PhD, which I address with machine learning, information theory, and statistical modelling.
 
@@ -29,9 +29,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- New paper out! [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707)
+<!-- - New paper out! [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707) -->
 - New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_](https://arxiv.org/abs/2305.11993)
-- New paper at Findings of ACL 2023: _Speaking the Language of Your Listener: Audience-Aware Adaptation in Visually Grounded Referential Games_
+- New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_](https://arxiv.org/abs/2305.19933)
 - New preprint on [_State-of-the-art generalisation research in NLP: A taxonomy and review_](https://arxiv.org/abs/2210.03050)
 - New paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
 - New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
@@ -43,13 +43,17 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova.
 - Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/).
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
- 
+
 ## Invited talks
+- Cognitive Lexicon Laboratory, University of Toronto. Canada. 13 July 2023.
+- COLT Seminar, Universitat Pompeu Fabra. Barcelona, Spain. 29 June 2023.
+- ILCC Seminar, School of Informatics, University of Edinburgh. UK. 31 May 2023.
+- Rycolab, ETH Zürich. Switzerland. 3 May 2023. 
 - Inria & Loria. 27 October 2022. Nancy, France. [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
-- School of Natural and Computing Sciences. University of Aberdeen. 12 October 2022. Scotland, UK. [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
-- Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+- School of Natural and Computing Sciences, University of Aberdeen. UK. 12 October 2022. [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
+- Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. Netherlands. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 - [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/). Language Technology Group. University of Oslo, Norway. 14 March 2022.
-- NLPitch. Institute for Logic, Language and Computation. University of Amsterdam, Netherlands. 26 October 2020.
+- NLPitch. Institute for Logic, Language and Computation. University of Amsterdam. Netherlands. 26 October 2020.
 - AILC Lectures on Computational Linguistics. Università Tor Vergata. Rome, Italy. 17 June 2021.
 - Cognitive Machine Learning Lab. Ecole Normale Supérieure. Paris, France. 29 June 2021.
 - Symposium on Meaning Variation in Social Contexts. Institute for Logic, Language and Computation. Amsterdam, NL. 5 November 2020.
@@ -58,13 +62,17 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Cognitive Science & Artificial Intelligence PhD Group. Tilburg, Netherlands. 1 May 2020.
 - Cool Logic Seminar. Amsterdam, Netherlands. 1 February 2019.
 
+ 
 ## My work
+- [[PDF](https://arxiv.org/abs/2305.11707)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. _Preprint_.
+- [[PDF](https://arxiv.org/abs/2305.11993)] Mario Giulianelli, Iris Luden, Raquel Fernández, Andrey Kutuzov. **Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis**. To appear in _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_.
+- [[PDF](https://arxiv.org/abs/2305.19933)] Ece Takmaz, Nicolò Brandizzi, Mario Giulianelli, Sandro Pezzelle, Raquel Fernández. **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind**. To appear in _Findings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)_.
 - [[PDF](https://aclanthology.org/2022.emnlp-main.544/)] Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
-- [[PDF](https://arxiv.org/abs/2210.03050)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artexte, Tiago Pimentel, et al. 2022. **State-of-the-art generalisation research in NLP: A taxonomy and review**. Preprint.
+- [[PDF](https://arxiv.org/abs/2210.03050)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artexte, Tiago Pimentel, et al. 2022. **State-of-the-art generalisation research in NLP: A taxonomy and review**. _Preprint_.
 - [[PDF](https://aclanthology.org/2022.aacl-main.51)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **Construction Repetition Reduces Information Rate in Dialogue**. In _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)_.
 - [[PDF](https://aclanthology.org/2022.lchange-1.6/)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2022. **Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change**. In _Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change_.
 - [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] Samuel Ryb, Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models**. In _Proceedings of *SEM 2022: The 11th Joint Conference on Lexical and Computational Semantics_.
-- [[PDF](https://arxiv.org/abs/2206.04615)] With many collaborators :). 2022. **Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models**. ArXiV, Computation and Language.
+- [[PDF](https://arxiv.org/abs/2206.04615)] With many collaborators :). 2022. **Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models**. In _Transactions of Machine Learning Research_.
 - [[PDF](https://aclanthology.org/2021.emnlp-main.652/)][[Code](https://github.com/dmg-illc/uid-dialogue)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2021. **Is Information Density Uniform in Task-Oriented Dialogues?** In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)_.
 - [[PDF](https://aclanthology.org/2021.conll-1.50/)][[Code](https://github.com/dmg-illc/uid-dialogue)] Mario Giulianelli and Raquel Fernández. 2021. **Analysing Human Strategies of Information Transmission as a Function of Discourse Context**. In _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
 - [[PDF](https://aclanthology.org/2021.conll-1.33/)][[Code](https://github.com/glnmario/semchange-profiling)] Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova. 2021. **Grammatical Profiling for Semantic Change Detection**. In _Proceedings of the 25th Conference on Computational Natural Language Learning (CONLL 2021)_.
