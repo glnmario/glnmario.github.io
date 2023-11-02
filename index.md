@@ -6,36 +6,41 @@ layout: default
  
 
 <!--## About me-->
-PhD candidate at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the [University of Amsterdam](https://www.uva.nl/en), I work in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues. My research interests lie in the following areas, which roughly define the boundaries of my projects and publications:
-- Computational semantics and pragmatics
-- Neural language and dialogue modelling
-- Natural language generation 
-- Explainability, interpretability, and evaluation of NLP models
-- Language variation and change in communities of speakers
+I am a postdoctoral researcher at ETH Zurich, where I work with the [Rycolab](https://rycolab.io) in the Institute for Machine Learning, Department of Computer Science; and a member of the ELLIS Society. Previously, I was a PhD student at the University of Amsterdam in the Institute for Logic, Language and Computation. I study language use and evolution using tools from computer science, linguistics, and cognitive science.
 
+My research is currently concerned with:
+- Language modelling (learning, inference, interpretability and evaluation)
+- Computational semantics and pragmatics
+- Computational modelling of language variation and change 
+
+<!--
 What I am most excited about is studying human language use via computational models of language understanding and generation. This is the main topic of my PhD, which I address by combining machine learning, information theory, and (psycho-, socio-, cognitive) linguistics.
 
-
-<!-- I analyse and model language production and comprehension with computational methods. My main research goal is to define empirical measures of human-likeness that can be used (i) to evaluate the alignment of machine-generated utterances to human communication patterns and strategies, and (ii) to develop NLG models that more closely follow such patterns and strategies. I am also interested in psycholinguistic and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.-->
+I analyse and model language production and comprehension with computational methods. My main research goal is to define empirical measures of human-likeness that can be used (i) to evaluate the alignment of machine-generated utterances to human communication patterns and strategies, and (ii) to develop NLG models that more closely follow such patterns and strategies. I am also interested in psycholinguistic and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.-->
 
 
 ##### It's-a me, Mario  
 Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
 During my Bachelor's studies, I worked both as a teaching and as a research assistant for the [Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/), and I served a five-month internship in the IBM department for social media analytics.
-As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of [ILLC](https://www.illc.uva.nl) scholars and students. I graduated with a thesis on the detection and analysis of lexical semantic change.
+As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of scholars and students at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl). I graduated with a thesis on the detection and analysis of lexical semantic change. As a PhD candidate at the [University of Amsterdam] in the at the [ILLC](https://www.illc.uva.nl), I worked in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues—and I wrote a thesis on [_Neural Models of Language Use_](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf).
 <!--
 In July 2017 I graduated with a thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the analysis of affective text.
 Currently I study Artificial Intelligence at the University of Amsterdam.    
 -->
 
 ## News
-<!-- - New paper out! [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707) -->
+- I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
+- New paper on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
+- Two papers accepted at EMNLP 2023 (Main), see you in Singapore! 
+  - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707)
+  - [_Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives_](https://arxiv.org/pdf/2310.13676.pdf)
+- New paper accepted at CoNLL 2023 with Aron Molnar, Jaap Jumelet and Arabella Sinclair: _Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue_
 - New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_](https://arxiv.org/abs/2305.11993)
 - New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_](https://arxiv.org/abs/2305.19933)
-- New preprint on [_State-of-the-art generalisation research in NLP: A taxonomy and review_](https://arxiv.org/abs/2210.03050)
+<!-- - New preprint on [_State-of-the-art generalisation research in NLP: A taxonomy and review_](https://arxiv.org/abs/2210.03050) -->
 - New paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
 - New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
-- New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)]
+<!-- - New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] -->
 
 <!-- 
 - New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
@@ -45,6 +50,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
 
 ## Invited talks
+- Keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/)), Singapore. 6 December 2023.
 - Cognitive Lexicon Laboratory, University of Toronto. Canada. 13 July 2023.
 - COLT Seminar, Universitat Pompeu Fabra. Barcelona, Spain. 29 June 2023.
 - ILCC Seminar, School of Informatics, University of Edinburgh. UK. 31 May 2023.
@@ -64,9 +70,12 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- [[PDF](https://arxiv.org/abs/2305.11707)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. _Preprint_.
-- [[PDF](https://arxiv.org/abs/2305.11993)] Mario Giulianelli, Iris Luden, Raquel Fernández, Andrey Kutuzov. **Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis**. To appear in _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_.
-- [[PDF](https://arxiv.org/abs/2305.19933)] Ece Takmaz, Nicolò Brandizzi, Mario Giulianelli, Sandro Pezzelle, Raquel Fernández. **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind**. To appear in _Findings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)_.
+- [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174 (2023).
+- [[PDF](https://arxiv.org/pdf/2310.13676.pdf)] Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández. **Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
+- [[PDF](https://arxiv.org/abs/2305.11707)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
+- Aron Molnar, Jaap Jumelet, Mario Giulianelli, Arabella Sinclair. **Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue**. In _Proceedings of the 27th Conference on Computational Natural Language Learning (CONLL 2023)_.
+- [[PDF](https://aclanthology.org/2023.acl-long.176/)] Mario Giulianelli, Iris Luden, Raquel Fernández, Andrey Kutuzov. **Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_.
+- [[PDF](https://aclanthology.org/2023.findings-acl.258/)] Ece Takmaz, Nicolò Brandizzi, Mario Giulianelli, Sandro Pezzelle, Raquel Fernández. **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind**. In _Findings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)_.
 - [[PDF](https://aclanthology.org/2022.emnlp-main.544/)] Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
 - [[PDF](https://arxiv.org/abs/2210.03050)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artexte, Tiago Pimentel, et al. 2022. **State-of-the-art generalisation research in NLP: A taxonomy and review**. _Preprint_.
 - [[PDF](https://aclanthology.org/2022.aacl-main.51)] Mario Giulianelli, Arabella Sinclair, Raquel Fernández. 2022. **Construction Repetition Reduces Information Rate in Dialogue**. In _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)_.
@@ -82,16 +91,17 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [[PDF](https://arxiv.org/abs/1808.08079)][[Code](https://github.com/glnmario/under-the-hood)] Mario Giulianelli, Jacqueline Harding, Florian Mohnert, Dieuwke Hupkes, Willem Zuidema. 2018. **Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information**. _Best Paper Award at 1st Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP 2018)_.
 - [[PDF](https://clinjournal.org/clinj/article/view/82)][[Code](https://github.com/glnmario/emo2vec)] Mario Giulianelli and Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. _Computational Linguistics in the Netherlands Journal 8 (CLIN)_.
 
-*Not peer-reviewed*
+*Theses*
+- [[PDF](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf)] Neural Models of Language Use _PhD thesis_.
 - [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. 2019. _Master's thesis._
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._ 
-- Measuring alignment in conversations across topics and linguistic markers.
+<!-- - Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
   Automatic annotation of emotional events and temporal relations.
 - Response time of German native speakers reacting to different types of foreign mispronunciations. 
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
- on Italian texts. _At IBM Watson Analytics for Social Media_.
+ on Italian texts. _At IBM Watson Analytics for Social Media_. -->
 
 <!-- ## Presentations
 - **Talk.** 7 July 2020. [[Video](https://slideslive.com/38929048/analysing-lexical-semantic-change-with-contextualised-word-representations)] Analysing Lexical Semantic Change with Contextualised Word Representations. _ACL 2020_. Online.
