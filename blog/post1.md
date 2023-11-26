@@ -30,4 +30,5 @@ To predict their *joint utility*, humans use mental models, but choosing which u
 Luckily, Sally has an easier time making social utility calculations, she has a good model of Peter, and she knows he is tired. She opens the window anyways.
 
 ----
-*From Chapter 1 of my dissertation on [Neural Models of Language Use](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf).*
+*From Chapter 1 of my dissertation on [Neural Models of Language Use](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf).*  
+
