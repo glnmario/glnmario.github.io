@@ -11,3 +11,5 @@
   link: https://github.com/glnmario
 - name: "email"
   link: mailto:mgiulianelli@inf.ethz.ch
+- name: "blog"
+  link: "blog.md"
