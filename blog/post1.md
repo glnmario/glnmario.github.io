@@ -31,4 +31,7 @@ Luckily, Sally has an easier time making social utility calculations, she has a 
 
 ----
 *From Chapter 1 of my dissertation on [Neural Models of Language Use](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf).*  
+&nbsp;    
 
+&nbsp;
+  
