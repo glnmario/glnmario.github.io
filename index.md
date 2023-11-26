@@ -29,6 +29,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- I kind of started a blog and [my first blog post](blog/post1) is out! 
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
 - New paper on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
 - Two papers accepted at EMNLP 2023 (Main), see you in Singapore! 
