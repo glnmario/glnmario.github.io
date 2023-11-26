@@ -1,3 +1,3 @@
 # It's a blog
 
-- [A story of language use](blog/post1.md)
+- [A story of language use](post1.md)
