@@ -96,13 +96,15 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [[PDF](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf)] Neural Models of Language Use _PhD thesis_.
 - [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. 2019. _Master's thesis._
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._ 
+
 <!-- - Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
   Automatic annotation of emotional events and temporal relations.
 - Response time of German native speakers reacting to different types of foreign mispronunciations. 
 - Sentiment analysis, demographic information extraction, behaviour analysis, and users interests extraction
- on Italian texts. _At IBM Watson Analytics for Social Media_. -->
+ on Italian texts. _At IBM Watson Analytics for Social Media_. 
+ -->
 
 <!-- ## Presentations
 - **Talk.** 7 July 2020. [[Video](https://slideslive.com/38929048/analysing-lexical-semantic-change-with-contextualised-word-representations)] Analysing Lexical Semantic Change with Contextualised Word Representations. _ACL 2020_. Online.
