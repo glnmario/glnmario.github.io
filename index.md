@@ -72,9 +72,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
  
 ## My work
 - [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174 (2023).
-- [[PDF](https://arxiv.org/pdf/2310.13676.pdf)] Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández. **Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
-- [[PDF](https://arxiv.org/abs/2305.11707)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
-- Aron Molnar, Jaap Jumelet, Mario Giulianelli, Arabella Sinclair. **Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue**. In _Proceedings of the 27th Conference on Computational Natural Language Learning (CONLL 2023)_.
+- [[PDF](https://aclanthology.org/2023.emnlp-main.343/)] Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández. **Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
+- [[PDF](https://aclanthology.org/2023.emnlp-main.887/)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
+- [[PDF](https://aclanthology.org/2023.conll-1.18/)] Aron Molnar, Jaap Jumelet, Mario Giulianelli, Arabella Sinclair. **Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue**. In _Proceedings of the 27th Conference on Computational Natural Language Learning (CONLL 2023)_.
 - [[PDF](https://aclanthology.org/2023.acl-long.176/)] Mario Giulianelli, Iris Luden, Raquel Fernández, Andrey Kutuzov. **Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_.
 - [[PDF](https://aclanthology.org/2023.findings-acl.258/)] Ece Takmaz, Nicolò Brandizzi, Mario Giulianelli, Sandro Pezzelle, Raquel Fernández. **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind**. In _Findings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)_.
 - [[PDF](https://aclanthology.org/2022.emnlp-main.544/)] Mario Giulianelli. 2022. **Towards Pragmatic Production Strategies for Natural Language Generation**. In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
@@ -93,7 +93,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [[PDF](https://clinjournal.org/clinj/article/view/82)][[Code](https://github.com/glnmario/emo2vec)] Mario Giulianelli and Daniel de Kok. 2018. **Semi-supervised emotion lexicon expansion with label propagation**. _Computational Linguistics in the Netherlands Journal 8 (CLIN)_.
 
 *Theses*
-- [[PDF](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf)] Neural Models of Language Use _PhD thesis_.
+- [[PDF](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf)] Neural Models of Language Use. 2023. _PhD thesis_.
 - [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. 2019. _Master's thesis._
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._ 
 
