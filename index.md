@@ -29,18 +29,19 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- I am looking for student projects/theses to supervise. Get in touch!
 - I kind of started a blog and [my first blog post](blog/post1) is out! 
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
-- New paper on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
+- New article on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
 - Two papers accepted at EMNLP 2023 (Main), see you in Singapore! 
-  - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://arxiv.org/abs/2305.11707)
-  - [_Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives_](https://arxiv.org/pdf/2310.13676.pdf)
-- New paper accepted at CoNLL 2023 with Aron Molnar, Jaap Jumelet and Arabella Sinclair: _Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue_
-- New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_](https://arxiv.org/abs/2305.11993)
-- New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_](https://arxiv.org/abs/2305.19933)
+  - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_]([https://arxiv.org/abs/2305.11707](https://aclanthology.org/2023.emnlp-main.887/))
+  - [_Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives_](https://aclanthology.org/2023.emnlp-main.343/)
+- New paper accepted at CoNLL 2023 with Aron Molnar, Jaap Jumelet and Arabella Sinclair: [_Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue_](https://aclanthology.org/2023.conll-1.18/)
+- New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_]([https://arxiv.org/abs/2305.11993](https://aclanthology.org/2023.acl-long.176/))
+- New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_]([https://arxiv.org/abs/2305.19933](https://aclanthology.org/2023.findings-acl.258/))
 <!-- - New preprint on [_State-of-the-art generalisation research in NLP: A taxonomy and review_](https://arxiv.org/abs/2210.03050) -->
-- New paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
-- New paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
+- Solo paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
+- Paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
 <!-- - New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] -->
 
 <!-- 
