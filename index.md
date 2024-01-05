@@ -34,7 +34,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
 - New article on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
 - Two papers accepted at EMNLP 2023 (Main), see you in Singapore! 
-  - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_]([https://arxiv.org/abs/2305.11707](https://aclanthology.org/2023.emnlp-main.887/))
+  - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_]([https://arxiv.org/abs/2305.11707](https://aclanthology.org/2023.emnlp-main.887/)
   - [_Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives_](https://aclanthology.org/2023.emnlp-main.343/)
 - New paper accepted at CoNLL 2023 with Aron Molnar, Jaap Jumelet and Arabella Sinclair: [_Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue_](https://aclanthology.org/2023.conll-1.18/)
 - New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_]([https://arxiv.org/abs/2305.11993](https://aclanthology.org/2023.acl-long.176/))
