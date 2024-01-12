@@ -53,6 +53,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## Invited talks
 - Keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/)), Singapore. 6 December 2023.
+- Reatch nanoTalks. Zurich, Switzerland. 26 November 2023. 
+- Natural Language Processing Seminar. University of Groningen. 3 November.
+- Explainable Machine Learning Lab, University of Tübingen. 26 July 2023.
 - Cognitive Lexicon Laboratory, University of Toronto. Canada. 13 July 2023.
 - COLT Seminar, Universitat Pompeu Fabra. Barcelona, Spain. 29 June 2023.
 - ILCC Seminar, School of Informatics, University of Edinburgh. UK. 31 May 2023.
