@@ -10,8 +10,7 @@ I am a postdoctoral researcher at ETH Zurich, where I work with the [Rycolab](ht
 
 My research is currently concerned with:
 - Language modelling (learning, inference, interpretability and evaluation)
-- Computational psycholinguistics
-- Computational semantics and pragmatics
+- Computational psycholinguistics, semantics and pragmatics
 - Computational modelling of language variation and change 
 
 <!--
