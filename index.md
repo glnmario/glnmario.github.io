@@ -29,7 +29,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- Paper accepted at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Work mostly by Ivar Frisch! 
+- Paper accepted at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Work mostly by Ivar Frisch! Now available as a [preprint](https://arxiv.org/pdf/2402.02896.pdf)
 - I am looking for semester projects and theses to supervise. Get in touch! ([Here](https://docs.google.com/document/d/1obTmJjmrnVzVCPtUIPV_KOyfVXR_WNZFoco-qd2ChN4/edit?usp=sharing) are some ideas, please ask for access permissions.) 
 - I kind of started a blog and [my first blog post](blog/post1) is out! 
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
@@ -76,7 +76,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** To appear in _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_. (2024).
+- [[PDF](https://arxiv.org/pdf/2402.02896.pdf)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** To appear in _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_. (2024).
 - [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. 2023. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174 (2023).
 - [[PDF](https://aclanthology.org/2023.emnlp-main.343/)] Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández. 2023. **Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
 - [[PDF](https://aclanthology.org/2023.emnlp-main.887/)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. 2023. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
