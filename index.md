@@ -29,7 +29,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- Paper accepted at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Work mostly by Ivar Frisch! Now available as a [preprint](https://arxiv.org/pdf/2402.02896.pdf)
+- Paper accepted at LREC-COLING with Joe and Arabella -- an information-theoretic analysis of efficiency and effectiveness in dialogue.
+- Paper accepted at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Work mostly by Ivar Frisch! Now available as a [preprint](https://arxiv.org/pdf/2402.02896.pdf).
 - I am looking for semester projects and theses to supervise. Get in touch! ([Here](https://docs.google.com/document/d/1obTmJjmrnVzVCPtUIPV_KOyfVXR_WNZFoco-qd2ChN4/edit?usp=sharing) are some ideas, please ask for access permissions.) 
 - I kind of started a blog and [my first blog post](blog/post1) is out! 
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
@@ -52,9 +53,12 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/).
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
 
-## Invited talks
+## Invited talks and guest lectures
+- Seminar on Detection of Semantic Shift, University of Zürich. 21 March 2024.
+- Text Technology & Digital Linguistics colloquium, University of Zürich. 5 March 2024.
+- Department of Computer Science and Computational Linguistics, Saarland University, Germany. 26 February 2024.
 - Keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/)), Singapore. 6 December 2023.
-- Reatch nanoTalks. Zurich, Switzerland. 26 November 2023. 
+- Reatch nanoTalks. Zürich, Switzerland. 26 November 2023. 
 - Natural Language Processing Seminar. University of Groningen. 3 November.
 - Explainable Machine Learning Lab, University of Tübingen. 26 July 2023.
 - Cognitive Lexicon Laboratory, University of Toronto. Canada. 13 July 2023.
