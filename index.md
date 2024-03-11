@@ -6,7 +6,7 @@ layout: default
  
 
 <!--## About me-->
-I am a postdoctoral researcher at ETH Zurich, where I work with the [Rycolab](https://rycolab.io) in the Institute for Machine Learning, Department of Computer Science; and a member of the [ELLIS Society](https://ellis.eu). Previously, I was a PhD student at the University of Amsterdam in the [Institute for Logic, Language and Computation](https://www.illc.uva.nl). I study language processing in humans and machines using tools from computer science, linguistics, and cognitive science.
+I am a postdoctoral fellow at ETH Zürich, where I work with the [Rycolab](https://rycolab.io) in the Institute for Machine Learning, Department of Computer Science. I am also an associated researcher at the ETH AI Center and a member of the [ELLIS Society](https://ellis.eu). Previously, I was a PhD student at the University of Amsterdam in the [Institute for Logic, Language and Computation](https://www.illc.uva.nl). I study language processing in humans and machines using tools from machine learning, natural language processing, linguistics, and the computational cognitive science of language.
 
 My research is currently concerned with:
 - Language modelling (learning, inference, interpretability and evaluation)
