@@ -29,7 +29,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- Paper accepted at LREC-COLING with Joe and Arabella -- an information-theoretic analysis of efficiency and effectiveness in dialogue.
+<!-- - Paper accepted at LREC-COLING with Joe and Arabella -- an information-theoretic analysis of efficiency and effectiveness in dialogue. -->
 - Paper accepted at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Work mostly by Ivar Frisch! Now available as a [preprint](https://arxiv.org/pdf/2402.02896.pdf).
 - I am looking for semester projects and theses to supervise. Get in touch! ([Here](https://docs.google.com/document/d/1obTmJjmrnVzVCPtUIPV_KOyfVXR_WNZFoco-qd2ChN4/edit?usp=sharing) are some ideas, please ask for access permissions.) 
 - I kind of started a blog and [my first blog post](blog/post1) is out! 
@@ -54,7 +54,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
 
 ## Invited talks and guest lectures
-- Seminar on Detection of Semantic Shift, University of Zürich. 21 March 2024.
+- Guest lecture, Seminar on Detection of Semantic Shift, University of Zürich. 21 March 2024.
 - Text Technology & Digital Linguistics colloquium, University of Zürich. 5 March 2024.
 - Department of Computer Science and Computational Linguistics, Saarland University, Germany. 26 February 2024.
 - Keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/)), Singapore. 6 December 2023.
@@ -67,21 +67,21 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Rycolab, ETH Zürich. Switzerland. 3 May 2023. 
 - Inria & Loria. 27 October 2022. Nancy, France. [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
 - School of Natural and Computing Sciences, University of Aberdeen. UK. 12 October 2022. [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
-- Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. Netherlands. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+- Guest lecture, Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. Netherlands. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 - [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/). Language Technology Group. University of Oslo, Norway. 14 March 2022.
 - NLPitch. Institute for Logic, Language and Computation. University of Amsterdam. Netherlands. 26 October 2020.
 - AILC Lectures on Computational Linguistics. Università Tor Vergata. Rome, Italy. 17 June 2021.
 - Cognitive Machine Learning Lab. Ecole Normale Supérieure. Paris, France. 29 June 2021.
 - Symposium on Meaning Variation in Social Contexts. Institute for Logic, Language and Computation. Amsterdam, NL. 5 November 2020.
 - Computational Linguistic Seminar. Institute for Logic, Language and Computation. University of Amsterdam, Netherlands. 5 October 2021.
-- NLP 1 (MSc AI course). University of Amsterdam, Netherlands. Online. 18 November 2020.
+- Guest lecture, NLP 1 (MSc AI course). University of Amsterdam, Netherlands. Online. 18 November 2020.
 - Cognitive Science & Artificial Intelligence PhD Group. Tilburg, Netherlands. 1 May 2020.
 - Cool Logic Seminar. Amsterdam, Netherlands. 1 February 2019.
 
  
 ## My work
-- [[PDF](https://arxiv.org/pdf/2402.02896.pdf)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** To appear in _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_. (2024).
-- [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. 2023. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174 (2023).
+- [[PDF](https://arxiv.org/pdf/2402.02896.pdf)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** To appear in _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_.
+- [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. 2023. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174.
 - [[PDF](https://aclanthology.org/2023.emnlp-main.343/)] Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández. 2023. **Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
 - [[PDF](https://aclanthology.org/2023.emnlp-main.887/)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. 2023. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
 - [[PDF](https://aclanthology.org/2023.conll-1.18/)] Aron Molnar, Jaap Jumelet, Mario Giulianelli, Arabella Sinclair. 2023. **Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue**. In _Proceedings of the 27th Conference on Computational Natural Language Learning (CONLL 2023)_.
