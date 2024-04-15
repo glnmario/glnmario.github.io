@@ -29,9 +29,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-<!-- - Paper accepted at LREC-COLING with Joe and Arabella -- an information-theoretic analysis of efficiency and effectiveness in dialogue. -->
-- Paper accepted at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Work mostly by Ivar Frisch! Now available as a [preprint](https://arxiv.org/pdf/2402.02896.pdf).
-- I am looking for semester projects and theses to supervise. Get in touch! ([Here](https://docs.google.com/document/d/1obTmJjmrnVzVCPtUIPV_KOyfVXR_WNZFoco-qd2ChN4/edit?usp=sharing) are some ideas, please ask for access permissions.) 
+- Paper accepted at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
+- Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [_LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models_](https://aclanthology.org/2024.personalize-1.9/)
+- Article published in the CLIN Journal, with Iris Luden and Raquel Fernández. [_Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation_](https://clinjournal.org/clinj/article/view/181)
+- I am looking for semester projects and theses to supervise. Get in touch! ([Here](https://docs.google.com/document/d/1obTmJjmrnVzVCPtUIPV_KOyfVXR_WNZFoco-qd2ChN4/edit?usp=sharing) are some ideas, please ask for access permissions.)
+- Very excited to have been awarded a competitive [postdoctoral fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships/list-of-fellows.html) at ETH Zürich, where I will be hosted by the [Rycolab](https://rycolab.io)!
 - I kind of started a blog and [my first blog post](blog/post1) is out! 
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
 - New article on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
@@ -80,7 +82,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- [[PDF](https://arxiv.org/pdf/2402.02896.pdf)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** To appear in _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_.
+- Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
+- [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** In _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_.
+- [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Iris Luden, Mario Giulianelli, and Raquel Fernández. 2024. **Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation**. _Computational Linguistics in the Netherlands Journal 13 (CLIN)_.
 - [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. 2023. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174.
 - [[PDF](https://aclanthology.org/2023.emnlp-main.343/)] Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández. 2023. **Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
 - [[PDF](https://aclanthology.org/2023.emnlp-main.887/)] Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank. 2023. **What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_.
