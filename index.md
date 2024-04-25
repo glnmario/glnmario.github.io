@@ -20,7 +20,7 @@ I analyse and model language production and comprehension with computational met
 
 
 ##### It's-a me, Mario  
-Born and raised in Italy, I spent three years in Germany as a undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
+Born and raised in Italy, I spent three years in Germany as an undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
 During my Bachelor's studies, I worked both as a teaching and as a research assistant for the [Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/), and I served a five-month internship in the IBM department for social media analytics.
 As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of scholars and students at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl). I graduated with a thesis on the detection and analysis of lexical semantic change. As a PhD candidate at the University of Amsterdam, I worked in the ILLC's [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues—and I wrote a thesis on [_Neural Models of Language Use_](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf).
 <!--
