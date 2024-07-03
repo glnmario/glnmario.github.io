@@ -9,7 +9,7 @@ layout: default
 I am a postdoctoral fellow at ETH Zürich, where I work with the [Rycolab](https://rycolab.io) in the Institute for Machine Learning, Department of Computer Science. I am also an associated researcher at the ETH AI Center and a member of the [ELLIS Society](https://ellis.eu). Previously, I was a PhD student at the University of Amsterdam in the [Institute for Logic, Language and Computation](https://www.illc.uva.nl). I study language processing in humans and machines using tools from machine learning, natural language processing, linguistics, and the computational cognitive science of language.
 
 My research is currently concerned with:
-- Language modelling (learning, inference, interpretability and evaluation)
+- Language and multi-modal modelling (learning, inference, interpretability and evaluation)
 - Computational psycholinguistics, semantics and pragmatics
 - Computational modelling of language variation and change 
 
@@ -29,10 +29,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- Paper accepted at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
+- New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs vs. human judges for NLP tasks; see also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
+- I am looking for semester projects and theses to supervise. Get in touch!
+- Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
 - Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [_LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models_](https://aclanthology.org/2024.personalize-1.9/)
 - Article published in the CLIN Journal, with Iris Luden and Raquel Fernández. [_Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation_](https://clinjournal.org/clinj/article/view/181)
-- I am looking for semester projects and theses to supervise. Get in touch! ([Here](https://docs.google.com/document/d/1obTmJjmrnVzVCPtUIPV_KOyfVXR_WNZFoco-qd2ChN4/edit?usp=sharing) are some ideas, please ask for access permissions.)
 - Very excited to have been awarded a competitive [postdoctoral fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships/list-of-fellows.html) at ETH Zürich, where I will be hosted by the [Rycolab](https://rycolab.io)!
 - I kind of started a blog and [my first blog post](blog/post1) is out! 
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
@@ -41,13 +42,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
   - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://aclanthology.org/2023.emnlp-main.887/)
   - [_Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives_](https://aclanthology.org/2023.emnlp-main.343/)
 - New paper accepted at CoNLL 2023 with Aron Molnar, Jaap Jumelet and Arabella Sinclair: [_Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue_](https://aclanthology.org/2023.conll-1.18/)
-- New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_]([https://arxiv.org/abs/2305.11993](https://aclanthology.org/2023.acl-long.176/))
-- New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_]([https://arxiv.org/abs/2305.19933](https://aclanthology.org/2023.findings-acl.258/))
-<!-- - New preprint on [_State-of-the-art generalisation research in NLP: A taxonomy and review_](https://arxiv.org/abs/2210.03050) -->
-- Solo paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
+- New paper at ACL 2023: [_Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis_](https://aclanthology.org/2023.acl-long.176/)
+- New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_](https://aclanthology.org/2023.findings-acl.258/)
+- Position paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
 - Paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
 <!-- - New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] -->
-
 <!-- 
 - New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
 - New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández.
@@ -56,6 +55,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
 
 ## Invited talks and guest lectures
+- Workshop on NLP and Multi-Modality, University of Gothenburg. 10 June 2024.
 - Guest lecture, Seminar on Detection of Semantic Shift, University of Zürich. 21 March 2024.
 - Text Technology & Digital Linguistics colloquium, University of Zürich. 5 March 2024.
 - Department of Computer Science and Computational Linguistics, Saarland University, Germany. 26 February 2024.
@@ -82,7 +82,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
+- [[PDF](https://arxiv.org/pdf/2406.18403)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks** _ArXiv preprint_.
+- [[PDF](https://aclanthology.org/2024.lrec-main.494/)] Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
 - [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** In _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_.
 - [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Iris Luden, Mario Giulianelli, and Raquel Fernández. 2024. **Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation**. _Computational Linguistics in the Netherlands Journal 13 (CLIN)_.
 - [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. 2023. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174.
