@@ -29,6 +29,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presents a model of incremental language comprehension rooted in, but enhancing, surprisal theory. Very exciting stuff.
 - New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs vs. human judges for NLP tasks; see also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
 - I am looking for semester projects and theses to supervise. Get in touch!
 - Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
@@ -82,8 +83,9 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## My work
-- [[PDF](https://arxiv.org/pdf/2406.18403)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks** _ArXiv preprint_.
-- [[PDF](https://aclanthology.org/2024.lrec-main.494/)] Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
+- [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Preprint_.
+- [[PDF](https://arxiv.org/pdf/2406.18403)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. 2024. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**. _Preprint_.
+- [[PDF](https://aclanthology.org/2024.lrec-main.494/)] Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. 2024. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
 - [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** In _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_.
 - [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Iris Luden, Mario Giulianelli, and Raquel Fernández. 2024. **Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation**. _Computational Linguistics in the Netherlands Journal 13 (CLIN)_.
 - [[PDF](https://www.nature.com/articles/s42256-023-00729-y)] Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al. 2023. **A taxonomy and review of generalization research in NLP**. _Nature Machine Intelligence_ 5, 1161–1174.
