@@ -29,16 +29,22 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presents a model of incremental language comprehension rooted in, but enhancing, surprisal theory. Very exciting stuff.
-- New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs vs. human judges for NLP tasks; see also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
-- I am looking for semester projects and theses to supervise. Get in touch!
-- Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
-- Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [_LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models_](https://aclanthology.org/2024.personalize-1.9/)
-- Article published in the CLIN Journal, with Iris Luden and Raquel Fernández. [_Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation_](https://clinjournal.org/clinj/article/view/181)
+- Four papers accepted at EMNLP 2024 in the Linguistic Theories, Cognitive Modeling and Psycholinguistics track:
+  - [On the Proper Treatment of Tokenization in Psycholinguistics](https://arxiv.org/abs/2410.02691) 
+  - [Generalized Measures of Anticipation and Responsivity in Online Language Processing](https://arxiv.org/pdf/2409.10728)
+  - Towards a Similarity-adjusted Surprisal Theory 
+  - Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse
+- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory!
+- New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs-as-judges vs. human judges for NLG evaluation. See also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
+<!-- - Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
+- Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://aclanthology.org/2024.personalize-1.9/)
+- Article published in the CLIN Journal, with Iris Luden and Raquel Fernández. [Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation](https://clinjournal.org/clinj/article/view/181) -->
 - Very excited to have been awarded a competitive [postdoctoral fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships/list-of-fellows.html) at ETH Zürich, where I will be hosted by the [Rycolab](https://rycolab.io)!
-- I kind of started a blog and [my first blog post](blog/post1) is out! 
+- I was nominated a Member of the [ELLIS Society](https://ellis.eu)
+- I kind of started a blog and [my first blog post](blog/post1) is out :)
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
-- New article on Nature Machine Intelligence: [_A taxonomy and review of generalization research in NLP_](https://www.nature.com/articles/s42256-023-00729-y)
+- Our [GenBench taxonomy](https://genbench.org/taxonomy/) is published in Nature Machine Intelligence: [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y)
+<!--
 - Two papers accepted at EMNLP 2023 (Main), see you in Singapore! 
   - [_What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability_](https://aclanthology.org/2023.emnlp-main.887/)
   - [_Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives_](https://aclanthology.org/2023.emnlp-main.343/)
@@ -47,7 +53,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_](https://aclanthology.org/2023.findings-acl.258/)
 - Position paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
 - Paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
-<!-- - New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] -->
+- New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] -->
 <!-- 
 - New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
 - New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández.
@@ -56,6 +62,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
 
 ## Invited talks and guest lectures
+- Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
+- Language Processing Group, UC Irvine Department of Language Science. 3 December 2024.
 - Workshop on NLP and Multi-Modality, University of Gothenburg. 10 June 2024.
 - Guest lecture, Seminar on Detection of Semantic Shift, University of Zürich. 21 March 2024.
 - Text Technology & Digital Linguistics colloquium, University of Zürich. 5 March 2024.
@@ -82,7 +90,11 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Cool Logic Seminar. Amsterdam, Netherlands. 1 February 2019.
 
  
-## My work
+## Publications
+- [[PDF](https://arxiv.org/abs/2410.02691)] Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, Ryan Cotterell. 2024. **On the Proper Treatment of Tokenization in Psycholinguistics**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
+- [[PDF](https://arxiv.org/pdf/2409.10728)] Mario Giulianelli, Andreas Opedal, Ryan Cotterell. 2024. **Generalized Measures of Anticipation and Responsivity in Online Language Processing**. In _Findings of the Association for Computational Linguistics: EMNLP 2024_.
+- Clara Meister, Mario Giulianelli, Tiago Pimentel. 2024. **Towards a Similarity-aware Surprisal Theory**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
+- Eleftheria Tsipidi, Franz Nowak, Ryan Cotterell, Ethan Wilcox, Mario Giulianelli, Alex Warstadt. **Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
 - [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. 2024. **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Preprint_.
 - [[PDF](https://arxiv.org/pdf/2406.18403)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. 2024. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**. _Preprint_.
 - [[PDF](https://aclanthology.org/2024.lrec-main.494/)] Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. 2024. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
@@ -142,8 +154,6 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 <!--**Email**: [m.giulianelli@uva.nl](mailto:m.giulianelli@uva.nl)-->
 <!--**GitHub**: [github.com/glnmario](https://github.com/glnmario)-->
 <!--**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli) -->
-
-
-> The only way to predict the future is to invent it.      
+   
 
 
