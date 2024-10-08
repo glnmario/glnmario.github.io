@@ -37,11 +37,15 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - I'm an organizer of the 2nd edition of the [GenBench Workshop](https://genbench.org/workshop/). See you in Miami on 16th November! 
 - New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory.
 - New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs-as-judges vs. human judges for NLG evaluation. See also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
-<!-- - Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
+<!-- 
+- Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
+-->
 - Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://aclanthology.org/2024.personalize-1.9/)
-- Article published in the CLIN Journal, with Iris Luden and Raquel Fernández. [Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation](https://clinjournal.org/clinj/article/view/181) -->
+<!-- 
+- Article published in the CLIN Journal, with Iris Luden and Raquel Fernández. [Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation](https://clinjournal.org/clinj/article/view/181)
+-->
 - Very excited to have been awarded a competitive [postdoctoral fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships/list-of-fellows.html) at ETH Zürich, where I will be hosted by the [Rycolab](https://rycolab.io)!
-- I was nominated a Member of the [ELLIS Society](https://ellis.eu)
+- I am honored to be nominated as a Member of the [ELLIS Society](https://ellis.eu).
 - I kind of started a blog and [my first blog post](blog/post1) is out :)
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
 - Our [GenBench taxonomy](https://genbench.org/taxonomy/) is published in Nature Machine Intelligence: [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y)
@@ -54,13 +58,13 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - New paper at Findings of ACL 2023: [_Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind_](https://aclanthology.org/2023.findings-acl.258/)
 - Position paper at EMNLP 2022: [_Towards Pragmatic Production Strategies for Natural Language Generation_](https://aclanthology.org/2022.emnlp-main.544/)
 - Paper at AACL-IJCNLP 2022 with Arabella Sinclair and Raquel Fernández: [_Construction Repetition Reduces Information Rate in Dialogue_](https://aclanthology.org/2022.aacl-main.51)
-- New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)] -->
-<!-- 
+- New interpretability paper with Sam Ryb at *SEM 2022 [[PDF](https://aclanthology.org/2022.starsem-1.5/)][[Dataset](https://github.com/dmg-illc/analog)]
 - New paper at the [LChange'22](https://languagechange.org/events/2022-acl-lchange/) ACL Workshop with Andrey Kutuzov and Lidia Pivovarova.
 - New paper at EMNLP-2021 with Arabella Sinclair and Raquel Fernández.
 - Two new papers at CONLL-2021 with Raquel Fernández, Andrey Kutuzov and Lidia Pivovarova.
 - Three tasks (with new datasets) accepted for the [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark, thanks to an amazing team of students and researchers brought together by the [Amsterdam ELLIS unit](https://ivi.fnwi.uva.nl/ellis/2021/04/19/first-amsterdam-ellis-team-participates-in-challenge/).
-- Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. -->
+- Excited to co-organise the fourth edition of the [BlackboxNLP](https://blackboxnlp.github.io) workshop, which will take place on November 11th at EMNLP. 
+-->
 
 ## Invited talks and guest lectures
 - Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
