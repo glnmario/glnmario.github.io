@@ -34,7 +34,8 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
   - [Generalized Measures of Anticipation and Responsivity in Online Language Processing](https://arxiv.org/pdf/2409.10728)
   - Towards a Similarity-adjusted Surprisal Theory 
   - Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse
-- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory!
+- I'm an organizer of the 2nd edition of the [GenBench Workshop](https://genbench.org/workshop/). See you in Miami on 16th November! 
+- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory.
 - New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs-as-judges vs. human judges for NLG evaluation. See also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
 <!-- - Oral presentation at LREC-COLING with Jun Sen Yee and Arabella Sinclair: _Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success_.
 - Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://aclanthology.org/2024.personalize-1.9/)
