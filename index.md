@@ -33,7 +33,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
   - [On the Proper Treatment of Tokenization in Psycholinguistics](https://arxiv.org/abs/2410.02691) 
   - [Generalized Measures of Anticipation and Responsivity in Online Language Processing](https://arxiv.org/pdf/2409.10728)
   - Towards a Similarity-adjusted Surprisal Theory 
-  - Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse
+  - [Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse](https://arxiv.org/pdf/2410.16062)
 - I'm an organizer of the 2nd edition of the [GenBench Workshop](https://genbench.org/workshop/). See you in Miami on 16th November! 
 - New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory.
 - New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs-as-judges vs. human judges for NLG evaluation. See also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
@@ -48,6 +48,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 ## Invited talks and guest lectures
 - Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
 - Language Processing Group, UC Irvine Department of Language Science. 3 December 2024.
+- CLColloquium, UT Austin. 18 November 2024.
 - Workshop on NLP and Multi-Modality, University of Gothenburg. 10 June 2024.
 - Guest lecture, Seminar on Detection of Semantic Shift, University of Zürich. 21 March 2024.
 - Text Technology & Digital Linguistics colloquium, University of Zürich. 5 March 2024.
@@ -78,7 +79,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [[PDF](https://arxiv.org/abs/2410.02691)] Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, Ryan Cotterell. 2024. **On the Proper Treatment of Tokenization in Psycholinguistics**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
 - [[PDF](https://arxiv.org/pdf/2409.10728)] Mario Giulianelli, Andreas Opedal, Ryan Cotterell. 2024. **Generalized Measures of Anticipation and Responsivity in Online Language Processing**. In _Findings of the Association for Computational Linguistics: EMNLP 2024_.
 - Clara Meister, Mario Giulianelli, Tiago Pimentel. 2024. **Towards a Similarity-aware Surprisal Theory**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
-- Eleftheria Tsipidi, Franz Nowak, Ryan Cotterell, Ethan Wilcox, Mario Giulianelli, Alex Warstadt. **Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
+- [[PDF](https://arxiv.org/pdf/2410.16062)] Eleftheria Tsipidi, Franz Nowak, Ryan Cotterell, Ethan Wilcox, Mario Giulianelli, Alex Warstadt. **Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
 - [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. 2024. **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Preprint_.
 - [[PDF](https://arxiv.org/pdf/2406.18403)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. 2024. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**. _Preprint_.
 - [[PDF](https://aclanthology.org/2024.lrec-main.494/)] Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. 2024. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
