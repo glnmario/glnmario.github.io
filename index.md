@@ -29,6 +29,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- New [preprint](https://doi.org/10.48550/arXiv.2502.14359) comparing and combining three LLM evaluation paradigms: static benchmarks, interactive games, and targeted cognitive tests.
 - New [preprint](https://doi.org/10.48550/arXiv.2412.03719) with exact and (fast) approximate algorithms for converting token-level language models to character-level ones.
 - Four papers accepted at EMNLP 2024 in the Linguistic Theories, Cognitive Modeling and Psycholinguistics track:
   - [On the Proper Treatment of Tokenization in Psycholinguistics](https://arxiv.org/pdf/2410.02691) 
@@ -77,6 +78,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## Publications
+- [[PDF](https://doi.org/10.48550/arXiv.2502.14359)] Filippo Momentè, Alessandro Suglia, Mario Giulianelli, Ambra Ferrari, Alexander Koller, Oliver Lemon, David Schlangen, Raquel Fernández, Raffaella Bernardi. **Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests**. _Preprint_.
 - [[PDF](https://doi.org/10.48550/arXiv.2412.03719)] Tim Vieira, Ben LeBrun, Mario Giulianelli, Juan Luis Gastaldi, Brian DuSell, John Terilla, Timothy J. O'Donnell, Ryan Cotterell. **From Language Models over Tokens to Language Models over Characters**. _Preprint_.
 - [[PDF](https://arxiv.org/pdf/2410.02691)] Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, Ryan Cotterell. 2024. **On the Proper Treatment of Tokenization in Psycholinguistics**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
 - [[PDF](https://arxiv.org/pdf/2409.10728)] Mario Giulianelli, Andreas Opedal, Ryan Cotterell. 2024. **Generalized Measures of Anticipation and Responsivity in Online Language Processing**. In _Findings of the Association for Computational Linguistics: EMNLP 2024_.
