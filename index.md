@@ -6,8 +6,8 @@ layout: default
  
 
 <!--## About me-->
-I’ve recently joined the UK AI Security Institute. Prior to this, I was an ETH Fellow, working with Ryan Cotterell in the [Rycolab](https://rycolab.io) within the Institute for Machine Learning, at the ETH Zurich Department of Computer Science. Before that, I completed my PhD at the University of Amsterdam, where I was advised by Raquel Fernández in the [Institute for Logic, Language and Computation](https://www.illc.uva.nl).
-I’m also an associated researcher at the ETH AI Center and a member of the ELLIS Society.
+I’ve recently joined the UK AI Security Institute. Prior to this, I was an ETH Fellow, working with Ryan Cotterell in the [Rycolab](https://rycolab.io) within the Institute for Machine Learning, at the ETH Zurich Department of Computer Science. I did my PhD in the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) at the University of Amsterdam, where I was advised by Raquel Fernández.
+I am an associated researcher at the ETH AI Center and a member of the ELLIS Society.
 
 My research explores how humans understand, produce, and use language in interaction—and how AI systems can learn to replicate these capabilities. I'm also deeply committed to improving evaluation standards for AI, both in the domain of language and across the broader AI landscape.
 
