@@ -34,7 +34,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- In September 2025, I will have the great honour of joining UCL as an Associate Professor in Computational Linguistics.
+- In September 2025, I will join UCL as an Associate Professor in Computational Linguistics.
 - [Our paper](https://doi.org/10.48550/arXiv.2412.03719) with exact and (fast) approximate algorithms for converting token-level language models to character-level ones is an ICML Spotlight! Come chat with us in Vancouver.
 - Four papers accepted at ACL and two at ICML. More info in the publication section below.
 - Another exciting [preprint](https://arxiv.org/abs/2504.08590) with the ELLIS team: we release Playpen, an environment for exploring learning in interaction. See [David's post](https://www.linkedin.com/posts/david-schlangen-23a8295_update-2-new-pre-print-outcome-of-an-activity-7317988138394517504-hrij?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtYriIBpy3E-KPWCYwDBYf7m0evNuVXHac) for more details!
