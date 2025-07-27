@@ -51,6 +51,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 
 ## Invited talks and guest lectures
+- Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
 - Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
 - Language Processing Group, UC Irvine Department of Language Science. 3 December 2024.
 - CLColloquium, UT Austin. 18 November 2024.
