@@ -8,8 +8,9 @@ layout: default
 <!--## About me-->
 I am a senior research scientist at the UK AI Security Institute and an incoming Associate Professor of Computational Linguistics at UCL. Prior to this, I was an ETH Fellow, working with Ryan Cotterell at the Institute for Machine Learning in the ETH Zurich Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
 I am an associated researcher at the ETH AI Center and a member of the ELLIS Society. 
-His research explores the computational principles of perception, action, and interaction. In 2018, he introduced one of the first mechanistic interpretability methods involving interventions on language model representations.
-My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction---both in natural and in artificial cognitive systems. I'm also deeply committed to improving evaluation standards for AI systems, both in the domain of language and across the broader AI landscape.
+
+My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction—both in natural and in artificial cognitive systems. I'm also deeply committed to improving evaluation standards for AI systems, both in the domain of language and across the broader AI landscape. In 2018, in collaboration with an amazing team, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first mechanistic interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416).
+
 
 <!--I study language and information processing using tools from machine learning, linguistics, information theory, and cognitive science.
 
@@ -138,7 +139,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## Working with me
 Please have a look at the following list of opportunities. I will keep updating it over the next months. If you are interested in applying for any of these, please get in touch.
-- [Supervised Program for Alignment Research](https://sparai.org)[deadline: **20 August 2026**]
+- [Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2026**]
 - [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: March 2026]
 - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
 - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
