@@ -6,10 +6,10 @@ layout: default
  
 
 <!--## About me-->
-I am a senior research scientist and technical programme manager at the UK AI Security Institute and an incoming Associate Professor of Computational Linguistics at UCL. Prior to this, I was an ETH Fellow, working with Ryan Cotterell at the Institute for Machine Learning in the ETH Zurich Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
+I am a senior research scientist at the UK AI Security Institute and an incoming Associate Professor of Computational Linguistics at UCL. Prior to this, I was an ETH Fellow, working with Ryan Cotterell at the Institute for Machine Learning in the ETH Zurich Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
 I am an associated researcher at the ETH AI Center and a member of the ELLIS Society. 
-
-My research explores how humans understand, produce, and use language in interaction—and how AI systems can learn to replicate these capabilities. I'm also deeply committed to improving evaluation standards for AI, both in the domain of language and across the broader AI landscape.
+His research explores the computational principles of perception, action, and interaction. In 2018, he introduced one of the first mechanistic interpretability methods involving interventions on language model representations.
+My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction---both in natural and in artificial cognitive systems. I'm also deeply committed to improving evaluation standards for AI systems, both in the domain of language and across the broader AI landscape.
 
 <!--I study language and information processing using tools from machine learning, linguistics, information theory, and cognitive science.
 
@@ -34,21 +34,26 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
+- I will be a [SPAR](https://sparai.org/) mentor this Fall, check out the programme and apply by 20 August 2025 to work with me on AI agency (modelling, measuring, and intervening on goal-directed behaviour).
+- Check out these AISI blogposts on [capability elicitation](https://www.aisi.gov.uk/work/our-approach-to-ai-capability-elicitation), [LLM judges](https://www.aisi.gov.uk/work/llm-judges-on-trial-a-new-statistical-framework-to-assess-autograders), and [agentic testing methodology](https://www.aisi.gov.uk/work/international-joint-testing-exercise-agentic-testing) (I had the privilege of leading the analysis for this international joint testing exercise, which we conducted in collaboration with other AISIs around the world)
 - In September 2025, I will join UCL as an Associate Professor of Computational Linguistics.
-- [Our paper](https://doi.org/10.48550/arXiv.2412.03719) with exact and (fast) approximate algorithms for converting token-level language models to character-level ones is an ICML Spotlight! Come chat with us in Vancouver.
-- Four papers accepted at ACL and two at ICML. More info in the publication section below.
-- Another exciting [preprint](https://arxiv.org/abs/2504.08590) with the ELLIS team: we release Playpen, an environment for exploring learning in interaction. See [David's post](https://www.linkedin.com/posts/david-schlangen-23a8295_update-2-new-pre-print-outcome-of-an-activity-7317988138394517504-hrij?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtYriIBpy3E-KPWCYwDBYf7m0evNuVXHac) for more details!
+- [Our paper](https://doi.org/10.48550/arXiv.2412.03719) with exact and (fast) approximate algorithms for converting token-level language models to character-level ones is an ICML Spotlight (top 2.6%)!
+- [Our paper](https://aclanthology.org/2025.acl-long.1357/) on inductive biases in human and neural language models was selected for an ACL panel discussion (top 0.8%)!
+- Four papers accepted at ACL and two at ICML! More info in the publication section below.
 - I've joined the UK AI Security Institute in London! I work across risk domains and closely with the Science of Evaluations team.
 - I'm an organizer of the 2nd edition of the [GenBench Workshop](https://genbench.org/workshop/). See you in Miami on 16th November! 
-- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory.
-- New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs-as-judges vs. human judges for NLG evaluation. See also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
-- Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://aclanthology.org/2024.personalize-1.9/)
 - Very excited to have been awarded a competitive [postdoctoral fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships/list-of-fellows.html) at ETH Zürich, where I will be hosted by the [Rycolab](https://rycolab.io)!
 - I am honored to be nominated as a Member of the [ELLIS Society](https://ellis.eu).
 - I kind of started a blog and [my first blog post](blog/post1) is out :)
 - I am giving a keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change ([LChange'23](https://www.changeiskey.org/event/2023-emnlp-lchange/))
 - Our [GenBench taxonomy](https://genbench.org/taxonomy/) is published in Nature Machine Intelligence: [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y)
 
+<!--
+- New [preprint](https://doi.org/10.31234/osf.io/fhp84) presenting the Incremental Alternative Sampling model of language comprehension -- rooted in, but enhancing, surprisal theory.
+- New [preprint](https://arxiv.org/pdf/2406.18403) on LLMs-as-judges vs. human judges for NLG evaluation. See also [thread](https://x.com/glnmario/status/1807784630935835040) on X.
+- Paper published at the 1st Personalization of Generative AI (PERSONALIZE) workshop, @EACL2024. Great work by Ivar Frisch! [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://aclanthology.org/2024.personalize-1.9/)
+- Another exciting [preprint](https://arxiv.org/abs/2504.08590) with the ELLIS team: we release Playpen, an environment for exploring learning in interaction. See [David's post](https://www.linkedin.com/posts/david-schlangen-23a8295_update-2-new-pre-print-outcome-of-an-activity-7317988138394517504-hrij?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtYriIBpy3E-KPWCYwDBYf7m0evNuVXHac) for more details!
+-->
 
 ## Invited talks and guest lectures
 - Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
@@ -82,22 +87,25 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
  
 ## Work in progress
+- [[PDF](https://doi.org/10.48550/arXiv.2507.03409)] Christopher Summerfield, Lennart Luettgau, Magda Dubois, Hannah Rose Kirk, Kobi Hackenburg, Catherine Fist, Katarina Slama, Nicola Ding, Rebecca Anselmetti, Andrew Strait, Mario Giulianelli, Cozmin Ududec. **Lessons from a Chimp: AI "Scheming" and the Quest for Ape Language**. _Preprint_.
+- [[PDF](https://doi.org/10.48550/arXiv.2507.02825)] Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellerman, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang. **Establishing Best Practices for Building Rigorous Agentic Benchmarks** _Preprint_.
+- [[PDF](https://doi.org/10.48550/arXiv.2507.03772)] Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec. **Skewed Score: A statistical framework to assess autograders**. _Preprint_.
 - [[PDF](https://arxiv.org/abs/2504.08590)] Nicola Horst, Davide Mazzaccara, Antonia Schmidt, Michael Sullivan, Filippo Momentè, Luca Franceschetti, Philipp Sadler, Sherzod Hakimov, Alberto Testoni, Raffaella Bernardi, Raquel Fernández, Alexander Koller, Oliver Lemon, David Schlangen, Mario Giulianelli, Alessandro Suglia. **Playpen: An Environment for Exploring Learning Through Conversational Interaction**. _Preprint_.
 - [[PDF](https://doi.org/10.48550/arXiv.2502.14359)] Filippo Momentè, Alessandro Suglia, Mario Giulianelli, Ambra Ferrari, Alexander Koller, Oliver Lemon, David Schlangen, Raquel Fernández, Raffaella Bernardi. **Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests**. _Preprint_.
+- [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Preprint_.
 
 
 ## Publications
-- [[PDF](https://doi.org/10.48550/arXiv.2506.03902)] Eleftheria Tsipidi, Samuel Kiegeland, Franz Nowak, Tianyang Xu, Ethan Wilcox, Alex Warstadt, Ryan Cotterell, Mario Giulianelli. **The Harmonic Structure of Information Contours**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
-- [[PDF](https://doi.org/10.48550/arXiv.2506.05136)] Taiga Someya, Anej Svete, Brian DuSell, Timothy J. O'Donnell, Mario Giulianelli, Ryan Cotterell. **Information Locality as an Inductive Bias for Neural Language Models**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
-- [[PDF soon](https://glnmario.github.io)] Francesco Ignazio Re, Andreas Opedal, Glib Manaiev,  Mario Giulianelli, Ryan Cotterell. **A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
-- [[PDF](https://arxiv.org/pdf/2406.18403)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. 2024. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
+- [[PDF](https://aclanthology.org/2025.acl-long.1527/)] Eleftheria Tsipidi, Samuel Kiegeland, Franz Nowak, Tianyang Xu, Ethan Wilcox, Alex Warstadt, Ryan Cotterell, Mario Giulianelli. **The Harmonic Structure of Information Contours**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
+- [[PDF](https://aclanthology.org/2025.acl-long.1357/)] Taiga Someya, Anej Svete, Brian DuSell, Timothy J. O'Donnell, Mario Giulianelli, Ryan Cotterell. **Information Locality as an Inductive Bias for Neural Language Models**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_. **Panel (top 0.8%)**.
+- [[PDF](https://aclanthology.org/2025.acl-long.1474/)] Francesco Ignazio Re, Andreas Opedal, Glib Manaiev,  Mario Giulianelli, Ryan Cotterell. **A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
+- [[PDF](https://aclanthology.org/2025.acl-short.20/)] Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, André FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. 2025. **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
 - [[PDF](https://doi.org/10.48550/arXiv.2412.03719)] Tim Vieira, Ben LeBrun, Mario Giulianelli, Juan Luis Gastaldi, Brian DuSell, John Terilla, Timothy J. O'Donnell, Ryan Cotterell. **From Language Models over Tokens to Language Models over Characters**. In _Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_. **Spotlight (top 2.6%)**.
-- [[PDF soon](https://icml.cc/virtual/2025/poster/44596)] Tim Vieira, Tianyu Liu, Clemente Pasti, Yahya Emara, Brian DuSell, Benjamin LeBrun, Mario Giulianelli, Juan Luis Gastaldi, John Terilla, Timothy O'Donnell, Ryan Cotterell. **Language Models over Canonical Byte-Pair Encodings**. In _Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_.
-- [[PDF](https://arxiv.org/pdf/2410.02691)] Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, Ryan Cotterell. 2024. **On the Proper Treatment of Tokenization in Psycholinguistics**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
-- [[PDF](https://arxiv.org/pdf/2409.10728)] Mario Giulianelli, Andreas Opedal, Ryan Cotterell. 2024. **Generalized Measures of Anticipation and Responsivity in Online Language Processing**. In _Findings of the Association for Computational Linguistics: EMNLP 2024_.
-- [[PDF](https://arxiv.org/pdf/2410.17676)] Clara Meister, Mario Giulianelli, Tiago Pimentel. 2024. **Towards a Similarity-aware Surprisal Theory**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
-- [[PDF](https://arxiv.org/pdf/2410.16062)] Eleftheria Tsipidi, Franz Nowak, Ryan Cotterell, Ethan Wilcox, Mario Giulianelli, Alex Warstadt. **Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
-- [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. 2024. **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Preprint_.
+- [[PDF](https://doi.org/10.48550/arXiv.2506.07956)] Tim Vieira, Tianyu Liu, Clemente Pasti, Yahya Emara, Brian DuSell, Benjamin LeBrun, Mario Giulianelli, Juan Luis Gastaldi, John Terilla, Timothy O'Donnell, Ryan Cotterell. **Language Models over Canonical Byte-Pair Encodings**. In _Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_.
+- [[PDF](https://aclanthology.org/2024.emnlp-main.1032/)] Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, Ryan Cotterell. 2024. **On the Proper Treatment of Tokenization in Psycholinguistics**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
+- [[PDF](https://aclanthology.org/2024.findings-emnlp.682.pdf)] Mario Giulianelli, Andreas Opedal, Ryan Cotterell. 2024. **Generalized Measures of Anticipation and Responsivity in Online Language Processing**. In _Findings of the Association for Computational Linguistics: EMNLP 2024_.
+- [[PDF](https://aclanthology.org/2024.emnlp-main.921/)] Clara Meister, Mario Giulianelli, Tiago Pimentel. 2024. **Towards a Similarity-aware Surprisal Theory**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
+- [[PDF](https://aclanthology.org/2024.emnlp-main.1047/)] Eleftheria Tsipidi, Franz Nowak, Ryan Cotterell, Ethan Wilcox, Mario Giulianelli, Alex Warstadt. **Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_.
 - [[PDF](https://aclanthology.org/2024.lrec-main.494/)] Jun Sen Yee, Mario Giulianelli, and Arabella Sinclair. 2024. **Efficiency and Effectiveness in Task‐Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC‐COLING 2024)_.
 - [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Ivar Frisch and Mario Giulianelli. 2024. **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** In _Proceedings of the 1st Personalization of Generative AI Workshop (EACL)_.
 - [[PDF](https://aclanthology.org/2024.personalize-1.9/)] Iris Luden, Mario Giulianelli, and Raquel Fernández. 2024. **Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation**. _Computational Linguistics in the Netherlands Journal 13 (CLIN)_.
@@ -125,7 +133,20 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 *Theses*
 - [[PDF](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf)] Neural Models of Language Use. 2023. _PhD thesis_.
 - [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. 2019. _Master's thesis._
-- [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._ 
+- [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._
+
+
+## Working with me
+Please have a look at the following list of opportunities. I will keep updating it over the next months. If you are interested in applying for any of these, please get in touch.
+- [Supervised Program for Alignment Research](https://sparai.org)[deadline: **20 August 2026**]
+- [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: March 2026]
+- [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
+- [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
+- [UCL Language and Cognition MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/language-and-cognition-mphil-phd) 
+- [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd)
+- [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/)
+- [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme)
+- [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
 
 <!-- - Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
