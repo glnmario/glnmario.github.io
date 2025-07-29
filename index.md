@@ -139,7 +139,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 
 ## Working with me
 Please have a look at the following list of opportunities. I will keep updating it over the next months. If you are interested in applying for any of these, please get in touch.
-- [Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2026**]
+- [Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2025**]
 - [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: March 2026]
 - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
 - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
