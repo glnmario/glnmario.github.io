@@ -56,6 +56,19 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - Another exciting [preprint](https://arxiv.org/abs/2504.08590) with the ELLIS team: we release Playpen, an environment for exploring learning in interaction. See [David's post](https://www.linkedin.com/posts/david-schlangen-23a8295_update-2-new-pre-print-outcome-of-an-activity-7317988138394517504-hrij?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtYriIBpy3E-KPWCYwDBYf7m0evNuVXHac) for more details!
 -->
 
+## Working with me
+Please have a look at the following list of opportunities. I will keep updating it over the next months. If you are interested in applying for any of these, please get in touch.
+- [Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2025**]
+- [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: March 2026]
+- [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
+- [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
+- [UCL Language and Cognition MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/language-and-cognition-mphil-phd) 
+- [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd)
+- [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/)
+- [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme)
+- [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
+
+
 ## Invited talks and guest lectures
 - Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
 - Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
@@ -137,18 +150,6 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._
 
 
-## Working with me
-Please have a look at the following list of opportunities. I will keep updating it over the next months. If you are interested in applying for any of these, please get in touch.
-- [Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2025**]
-- [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: March 2026]
-- [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
-- [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
-- [UCL Language and Cognition MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/language-and-cognition-mphil-phd) 
-- [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd)
-- [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/)
-- [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme)
-- [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
-
 <!-- - Measuring alignment in conversations across topics and linguistic markers.
 - Evaluating the syntactic competence of RAN language models.
 - Extraction of event graphs from Kafka’s short stories.   
@@ -178,5 +179,5 @@ Please have a look at the following list of opportunities. I will keep updating 
 <!--**GitHub**: [github.com/glnmario](https://github.com/glnmario)-->
 <!--**LinkedIn**: [linkedin/mario-giulianelli](https://www.linkedin.com/in/mario-giulianelli) -->
    
-
+---------------------------
 
