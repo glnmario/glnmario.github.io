@@ -1,15 +1,15 @@
 - name: ""
 # - name: "CV"
 #   link: "CV-mario-giulianelli.pdf"
-- name: "scholar"
-  link: https://scholar.google.com/citations?user=ABZghWYAAAAJ&hl=en
-- name: "linkedin"
-  link: https://www.linkedin.com/in/mario-giulianelli
 - name: "X"
   link: https://x.com/glnmario
+- name: "linkedin"
+  link: https://www.linkedin.com/in/mario-giulianelli
 - name: "github"
   link: https://github.com/glnmario
+- name: "scholar"
+  link: https://scholar.google.com/citations?user=ABZghWYAAAAJ&hl=en
 - name: "email"
   link: mailto:m.giulianelli@ucl.ac.uk
-- name: "blog"
-  link: "https://glnmario.github.io/blog/index"
+# - name: "blog"
+  # link: "https://glnmario.github.io/blog/index"
