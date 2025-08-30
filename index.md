@@ -57,16 +57,20 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## Working with me
-Please have a look at the following list of opportunities. I will keep updating it over the next months. If you are interested in applying for any of these, please get in touch.
-- [Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2025**]
-- [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: March 2026]
+**Before contacting me, please read the following!**
+Below is a list of relevant funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme, or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. For prospective research collaborations, please indicate clearly in your message the area you would like to work on (ideally including a *brief* research proposal); general inquiries are unlikely to receive a response.
+- [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: 6 March 2026]
 - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
 - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
+- [UBEL DTP’s ESRC Studentship](https://ubel-dtp.ac.uk/esrc-studentships-main-competition/)
+- [LAHP Open Studentship](https://www.lahp.ac.uk/prospective-students/how-to-apply-for-an-open-studentship/)
 - [UCL Language and Cognition MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/language-and-cognition-mphil-phd) 
 - [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd)
 - [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/)
 - [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme)
 - [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
+- ~[Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2025**]~
+
 
 
 ## Invited talks and guest lectures
