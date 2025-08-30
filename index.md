@@ -6,7 +6,7 @@ layout: default
  
 
 <!--## About me-->
-I am a senior research scientist at the UK AI Security Institute and an incoming Associate Professor of Computational Linguistics at UCL. Prior to this, I was an ETH Fellow, working with Ryan Cotterell at the Institute for Machine Learning in the ETH Zurich Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
+I am an Associate Professor of Computational Linguistics at UCL. Prior to this, I was a senior research scientist at the UK AI Security Institute, an ETH postdoctoral fellow, working with Ryan Cotterell at the Institute for Machine Learning in the ETH Zurich Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
 I am an associated researcher at the ETH AI Center and a member of the ELLIS Society. 
 
 My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction—both in natural and in artificial cognitive systems. I'm also deeply committed to improving evaluation standards for AI systems, in the domain of language and across the broader AI landscape. In 2018, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first mechanistic interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416).
@@ -35,7 +35,7 @@ Currently I study Artificial Intelligence at the University of Amsterdam.
 -->
 
 ## News
-- I will be a [SPAR](https://sparai.org/) mentor this Fall, check out the programme and apply by 20 August 2025 to work with me on AI agency (modelling, measuring, and intervening on goal-directed behaviour).
+- I will be a [SPAR](https://sparai.org/) mentor this Fall. I am very thankful for the many applications I received to work with me on modelling, measuring, and intervening on goal-directed behaviour. *Applications are now closed*.
 - Check out these AISI blogposts on [capability elicitation](https://www.aisi.gov.uk/work/our-approach-to-ai-capability-elicitation), [LLM judges](https://www.aisi.gov.uk/work/llm-judges-on-trial-a-new-statistical-framework-to-assess-autograders), and [agentic testing methodology](https://www.aisi.gov.uk/work/international-joint-testing-exercise-agentic-testing) (I had the privilege of leading the analysis for this international joint testing exercise, which we conducted in collaboration with other AISIs around the world)
 - In September 2025, I will join UCL as an Associate Professor of Computational Linguistics.
 - [Our paper](https://doi.org/10.48550/arXiv.2412.03719) with exact and (fast) approximate algorithms for converting token-level language models to character-level ones is an ICML Spotlight (top 2.6%)!
@@ -74,6 +74,7 @@ Below is a list of relevant funding schemes and programmes. If you intend to app
 
 
 ## Invited talks and guest lectures
+- Linguistics Research Seminar, University of Geneva. 21 October 2025. 
 - Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
 - Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
 - Language Processing Group, UC Irvine Department of Language Science. 3 December 2024.
