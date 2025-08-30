@@ -6,33 +6,11 @@ layout: default
  
 
 <!--## About me-->
-I am an Associate Professor of Computational Linguistics at UCL. Prior to this, I was a senior research scientist at the UK AI Security Institute, an ETH postdoctoral fellow, working with Ryan Cotterell at the Institute for Machine Learning in the ETH Zurich Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
+I am an Associate Professor of Computational Linguistics at UCL. Prior to this, I was a senior research scientist at the UK AI Security Institute, working on the (nascent) science of AI evaluation, and a postdoctoral fellow at ETH Zurich, working with Ryan Cotterell in the Institute for Machine Learning, Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
 I am an associated researcher at the ETH AI Center and a member of the ELLIS Society. 
 
 My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction—both in natural and in artificial cognitive systems. I'm also deeply committed to improving evaluation standards for AI systems, in the domain of language and across the broader AI landscape. In 2018, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first mechanistic interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416).
 
-
-<!--I study language and information processing using tools from machine learning, linguistics, information theory, and cognitive science.
-
-My research is roughly concerned with:
-- Computational psycholinguistics, semantics and pragmatics
-- Computational modelling of language variation and change
-- Language and multi-modal modelling (learning, inference, interpretability, and evaluation)
-- Science of AI evaluation
- 
-What I am most excited about is studying human language use via computational models of language understanding and generation. This is the main topic of my PhD, which I address by combining machine learning, information theory, and (psycho-, socio-, cognitive) linguistics.
-
-I analyse and model language production and comprehension with computational methods. My main research goal is to define empirical measures of human-likeness that can be used (i) to evaluate the alignment of machine-generated utterances to human communication patterns and strategies, and (ii) to develop NLG models that more closely follow such patterns and strategies. I am also interested in psycholinguistic and sociolinguistic studies of variation and change as they provide insights into how to build more resilient and human-compatible language technologies.-->
-
-
-<!--
-##### It's-a me, Mario  
-Born and raised in Italy, I spent three years in Germany as an undergraduate student of Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/) and then moved to Amsterdam for a Master's degree in Artificial Intelligence. 
-During my Bachelor's studies, I worked both as a teaching and as a research assistant for the [Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/), and I served a five-month internship in the IBM department for social media analytics.
-As a Master's student, I have collected more teaching and research experience, collaborating with an interdisciplinary set of scholars and students at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl). I graduated with a thesis on the detection and analysis of lexical semantic change. As a PhD candidate at the University of Amsterdam, I worked in the ILLC's [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) under the supervision of [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and together with many amazing colleagues—and I wrote a thesis on [_Neural Models of Language Use_](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf).
-In July 2017 I graduated with a thesis that proposes [new methods](https://arxiv.org/abs/1708.03910) for the analysis of affective text.
-Currently I study Artificial Intelligence at the University of Amsterdam.    
--->
 
 ## News
 - I will be a [SPAR](https://sparai.org/) mentor this Fall. I am very thankful for the many applications I received to work with me on modelling, measuring, and intervening on goal-directed behaviour. *Applications are now closed*.
