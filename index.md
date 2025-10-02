@@ -37,7 +37,6 @@ My research explores the computational principles underlying the ability to unde
 ## Working with me
 **Before contacting me, please read the following!**
 Below is a list of relevant funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme, or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. For prospective research collaborations, please indicate clearly in your message the area you would like to work on (ideally including a *brief* research proposal); general inquiries are unlikely to receive a response.
-- [Leverhulme Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) [deadline: 6 March 2026]
 - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
 - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
 - [UBEL DTP’s ESRC Studentship](https://ubel-dtp.ac.uk/esrc-studentships-main-competition/)
@@ -47,7 +46,6 @@ Below is a list of relevant funding schemes and programmes. If you intend to app
 - [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/)
 - [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme)
 - [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
-- ~[Supervised Program for Alignment Research](https://sparai.org) [**deadline: 20 August 2025**]~
 
 
 
@@ -85,14 +83,15 @@ Below is a list of relevant funding schemes and programmes. If you intend to app
  
 ## Work in progress
 - [[PDF](https://doi.org/10.48550/arXiv.2507.03409)] Christopher Summerfield, Lennart Luettgau, Magda Dubois, Hannah Rose Kirk, Kobi Hackenburg, Catherine Fist, Katarina Slama, Nicola Ding, Rebecca Anselmetti, Andrew Strait, Mario Giulianelli, Cozmin Ududec. **Lessons from a Chimp: AI "Scheming" and the Quest for Ape Language**. _Preprint_.
-- [[PDF](https://doi.org/10.48550/arXiv.2507.02825)] Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellerman, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang. **Establishing Best Practices for Building Rigorous Agentic Benchmarks** _Preprint_.
 - [[PDF](https://doi.org/10.48550/arXiv.2507.03772)] Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec. **Skewed Score: A statistical framework to assess autograders**. _Preprint_.
-- [[PDF](https://arxiv.org/abs/2504.08590)] Nicola Horst, Davide Mazzaccara, Antonia Schmidt, Michael Sullivan, Filippo Momentè, Luca Franceschetti, Philipp Sadler, Sherzod Hakimov, Alberto Testoni, Raffaella Bernardi, Raquel Fernández, Alexander Koller, Oliver Lemon, David Schlangen, Mario Giulianelli, Alessandro Suglia. **Playpen: An Environment for Exploring Learning Through Conversational Interaction**. _Preprint_.
-- [[PDF](https://doi.org/10.48550/arXiv.2502.14359)] Filippo Momentè, Alessandro Suglia, Mario Giulianelli, Ambra Ferrari, Alexander Koller, Oliver Lemon, David Schlangen, Raquel Fernández, Raffaella Bernardi. **Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests**. _Preprint_.
 - [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Preprint_.
-
+- Tianyu Liu, Francesco Ignazio Re, Mario Giulianelli, Alessandro Torcinovich. **Evaluating LLMs in Games with Strategic Behavior Discrepancies**. _The 5th Wordplay Workshop: When Language Meets Games @ EMNLP 2025_.
 
 ## Publications
+- Bryan Eikema, Anna Rutkiewicz, Mario Giulianelli. **Structure-Conditional Minimum Bayes Risk Decoding**. In _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_.
+- [[PDF](https://doi.org/10.48550/arXiv.2507.02825)] Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellerman, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang. **Establishing Best Practices for Building Rigorous Agentic Benchmarks** _NeurIPS 2025 Datasets and Benchmarks_.
+- [[PDF](https://arxiv.org/abs/2504.08590)] Nicola Horst, Davide Mazzaccara, Antonia Schmidt, Michael Sullivan, Filippo Momentè, Luca Franceschetti, Philipp Sadler, Sherzod Hakimov, Alberto Testoni, Raffaella Bernardi, Raquel Fernández, Alexander Koller, Oliver Lemon, David Schlangen, Mario Giulianelli, Alessandro Suglia. **Playpen: An Environment for Exploring Learning Through Conversational Interaction**. In _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_.
+- [[PDF](https://doi.org/10.48550/arXiv.2502.14359)] Filippo Momentè, Alessandro Suglia, Mario Giulianelli, Ambra Ferrari, Alexander Koller, Oliver Lemon, David Schlangen, Raquel Fernández, Raffaella Bernardi. **Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests**. In _Findings of the Association for Computational Linguistics: EMNLP 2025_.
 - [[PDF](https://aclanthology.org/2025.acl-long.1527/)] Eleftheria Tsipidi, Samuel Kiegeland, Franz Nowak, Tianyang Xu, Ethan Wilcox, Alex Warstadt, Ryan Cotterell, Mario Giulianelli. **The Harmonic Structure of Information Contours**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
 - [[PDF](https://aclanthology.org/2025.acl-long.1357/)] Taiga Someya, Anej Svete, Brian DuSell, Timothy J. O'Donnell, Mario Giulianelli, Ryan Cotterell. **Information Locality as an Inductive Bias for Neural Language Models**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_. **Panel (top 0.8%)**.
 - [[PDF](https://aclanthology.org/2025.acl-long.1474/)] Francesco Ignazio Re, Andreas Opedal, Glib Manaiev,  Mario Giulianelli, Ryan Cotterell. **A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_.
