@@ -13,6 +13,8 @@ My research explores the computational principles underlying the ability to unde
 
 
 ## News
+- I received a Cohere Labs Catalyst Grant to support our SPAR experiments on measuring goal-directedness in LLM agents.
+- I received a Cosmos Grant to study emergent self-interest in LLM agents using non-cooperative dialogue games. 
 - I will be a [SPAR](https://sparai.org/) mentor this Fall. I am very thankful for the many applications I received to work with me on modelling, measuring, and intervening on goal-directed behaviour. *Applications are now closed*.
 - Check out these AISI blogposts on [capability elicitation](https://www.aisi.gov.uk/work/our-approach-to-ai-capability-elicitation), [LLM judges](https://www.aisi.gov.uk/work/llm-judges-on-trial-a-new-statistical-framework-to-assess-autograders), and [agentic testing methodology](https://www.aisi.gov.uk/work/international-joint-testing-exercise-agentic-testing) (I had the privilege of leading the analysis for this international joint testing exercise, which we conducted in collaboration with other AISIs around the world)
 - In September 2025, I will join UCL as an Associate Professor of Computational Linguistics.
