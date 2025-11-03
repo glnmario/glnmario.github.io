@@ -13,6 +13,7 @@ My research explores the computational principles underlying the ability to unde
 
 
 ## News
+- We've published the first blog post for the SPAR project *Telos*: [Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI Systems](https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link)
 - I received a Cohere Labs Catalyst Grant to support our SPAR experiments on measuring goal-directedness in LLM agents.
 - I received a Cosmos Grant to study emergent self-interest in LLM agents using non-cooperative dialogue games. 
 - I will be a [SPAR](https://sparai.org/) mentor this Fall. I am very thankful for the many applications I received to work with me on modelling, measuring, and intervening on goal-directed behaviour. *Applications are now closed*.
@@ -45,10 +46,9 @@ My research explores the computational principles underlying the ability to unde
 - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
 - [UBEL DTP’s ESRC Studentship](https://ubel-dtp.ac.uk/esrc-studentships-main-competition/)
 - [LAHP Open Studentship](https://www.lahp.ac.uk/prospective-students/how-to-apply-for-an-open-studentship/)
-- [UCL Language and Cognition MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/language-and-cognition-mphil-phd) 
-- [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd)
-- [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/)
-- [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme)
+- [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd) (Note: if you apply for a scholarship, you will need to apply for this in parallel)
+- [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/) (happy to be a second supervisor)
+- [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme) (happy to be a second supervisor)
 - [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
 
 
