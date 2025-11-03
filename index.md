@@ -13,7 +13,7 @@ My research explores the computational principles underlying the ability to unde
 
 
 ## News
-- We've published the first blog post for the SPAR project *Telos*: [Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI Systems](https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link)
+- We've published our first blog introducing Project Telos: [Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI Systems](https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link)
 - I received a Cohere Labs Catalyst Grant to support our SPAR experiments on measuring goal-directedness in LLM agents.
 - I received a Cosmos Grant to study emergent self-interest in LLM agents using non-cooperative dialogue games. 
 - I will be a [SPAR](https://sparai.org/) mentor this Fall. I am very thankful for the many applications I received to work with me on modelling, measuring, and intervening on goal-directed behaviour. *Applications are now closed*.
