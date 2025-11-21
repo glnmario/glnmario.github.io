@@ -40,16 +40,18 @@ My research explores the computational principles underlying the ability to unde
 ## Working with me
 **Before e-mailing me, please read the following!**
 
-- I am hiring a PhD student! This is a fully funded 4-year PhD position in the UCL Division of Psychology and Language Sciences. *Only candidates eligible for UK fee status can apply.* More info: tinyurl.com/phd-ucl-clnlpai
+- I am hiring a PhD student! This is a fully funded 4-year PhD position in the UCL Division of Psychology and Language Sciences. More info: tinyurl.com/phd-ucl-clnlpai
 - Below is a list of alternative funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme, or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. Please indicate clearly in your message the area you would like to work on, and include a *brief* research proposal). General inquiries are extremely unlikely to receive a response.
-- [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
-- [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
-- [UBEL DTP’s ESRC Studentship](https://ubel-dtp.ac.uk/esrc-studentships-main-competition/)
+  - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
+  - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
+  - [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd) (Note: if you apply for a scholarship, you will need to apply for this in parallel)
+  - [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/) (happy to be a second supervisor)
+  - [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme) (happy to be a second supervisor)
+  - [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
+<!-- 
+- [UBEL DTP’s ESRC Studentship](https://ubel-dtp.ac.uk/esrc-studentships-main-competition/) 
 - [LAHP Open Studentship](https://www.lahp.ac.uk/prospective-students/how-to-apply-for-an-open-studentship/)
-- [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd) (Note: if you apply for a scholarship, you will need to apply for this in parallel)
-- [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/) (happy to be a second supervisor)
-- [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme) (happy to be a second supervisor)
-- [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
+-->
 
 
 
