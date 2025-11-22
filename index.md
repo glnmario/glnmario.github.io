@@ -6,10 +6,9 @@ layout: default
  
 
 <!--## About me-->
-I am an Associate Professor of Computational Linguistics at UCL. Prior to this, I was a senior research scientist at the UK AI Security Institute, working on the (nascent) science of AI evaluation, and a postdoctoral fellow at ETH Zurich, working with Ryan Cotterell in the Institute for Machine Learning, Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
-I am an associated researcher at the ETH AI Center and a member of the ELLIS Society. 
+I am an Associate Professor of Computational Linguistics at UCL and a member of the European Laboratory for Learning and Intelligent Systems. Prior to this, I was a senior research scientist at the UK AI Security Institute, working on the (nascent) science of AI evaluation, and a postdoctoral fellow at ETH Zurich, working with Ryan Cotterell in the Institute for Machine Learning, Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
 
-My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction—both in natural and in artificial cognitive systems. I'm also deeply committed to improving evaluation standards for AI systems, in the domain of language and across the broader AI landscape. In 2018, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first mechanistic interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416).
+My research explores the computational principles underlying the ability to understand, produce, learn, and use language in interaction—both in natural and in artificial cognitive systems. I'm also increasingly interested in non-linguistic types of perception, action, and interaction, and am committed to improving evaluation standards for AI systems, in the domain of language and across the broader AI landscape. In 2018, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first mechanistic interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416).
 
 
 ## News
