@@ -12,6 +12,7 @@ My research explores the computational principles underlying the ability to unde
 
 
 ## News
+- **Fully funded 4-year PhD position** in the UCL Division of Psychology and Language Sciences, available to UK [home-rate](https://www.ucl.ac.uk/students/fees-and-funding/pay-your-fees/fee-schedules/student-fee-status) students. Further details are available in the [job description](https://drive.google.com/file/d/1StWWwRo_MTKnFaP-jGnhWE09kveizmMK/view?usp=share_link). Applications should be submitted by **7 December** (first selection round) to **m.giulianelli@ucl.ac.uk**, and must include: a 2-page research proposal, a CV, and a 1-page motivation letter explaining how you meet the person specification. One writing sample may be included optionally. Shortlisted candidates may be invited to interview between **12 and 23 January**.
 - We've published our first blog introducing Project Telos: [Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI Systems](https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link)
 - I received a Cohere Labs Catalyst Grant to support our SPAR experiments on measuring goal-directedness in LLM agents.
 - I received a Cosmos Grant to study emergent self-interest in LLM agents using non-cooperative dialogue games. 
@@ -38,15 +39,14 @@ My research explores the computational principles underlying the ability to unde
 
 ## Working with me
 **Before e-mailing me, please read the following!**
-
-- I am hiring a PhD student! This is a fully funded 4-year PhD position in the UCL Division of Psychology and Language Sciences. More info soon.
-- Below is a list of alternative funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme, or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. Please indicate clearly in your message the area you would like to work on, and include a *brief* research proposal). General inquiries are extremely unlikely to receive a response.
+Below is a list of alternative funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme, or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. Please indicate clearly in your message the area you would like to work on, and include a *brief* research proposal). General inquiries are extremely unlikely to receive a response.
   - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
   - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
   - [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd) (Note: if you apply for a scholarship, you will need to apply for this in parallel)
   - [UCL Foundational Artificial Intelligence MPhil/PhD](https://www.ucl.ac.uk/foundational-ai-cdt/) (happy to be a second supervisor)
   - [Gatsby Unit PhD Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme) (happy to be a second supervisor)
   - [Information page on studentships](https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships)
+ 
 <!-- 
 - [UBEL DTP’s ESRC Studentship](https://ubel-dtp.ac.uk/esrc-studentships-main-competition/) 
 - [LAHP Open Studentship](https://www.lahp.ac.uk/prospective-students/how-to-apply-for-an-open-studentship/)
