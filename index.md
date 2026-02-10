@@ -6,13 +6,14 @@ layout: default
  
 
 <!--## About me-->
-I am an Associate Professor of Computational Linguistics at UCL and a member of the European Laboratory for Learning and Intelligent Systems. Prior to this, I was a senior research scientist at the UK AI Security Institute, working on the (nascent) science of AI evaluation, and a postdoctoral fellow at ETH Zurich, working with Ryan Cotterell in the Institute for Machine Learning, Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
+I am an Associate Professor of Computational Linguistics at UCL, Director of the UCL Computational Linguistics Master’s programme, and a Member of the European Laboratory for Learning and Intelligent Systems. Prior to this, I was a senior research scientist at the UK AI Security Institute, working on the (nascent) science of AI evaluation, and a postdoctoral fellow at ETH Zurich, working with Ryan Cotterell in the Institute for Machine Learning, Department of Computer Science. I did my PhD at the Institute for Logic, Language and Computation of the University of Amsterdam, where I was advised by Raquel Fernández.
 
-My research explores the information processing principles underlying the ability to understand, produce, learn, and use language in interaction—both in human and in artificial language processing systems. I'm also increasingly interested in biological and artificial cognitive systems more broadly, and by extension to extra-linguistic aspects of perception, action, and interaction. In 2018, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first causal (mechanistic) interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416). I am deeply committed to advancing evaluation standards for AI systems, with a focus on language as well as broader aspects of agency and safety.
+My research explores the information processing principles underlying the ability to understand, produce, learn, and use language in interaction—both in human and in artificial language processing systems. I'm also increasingly interested in biological and artificial cognitive systems more broadly, and by extension to extra-linguistic aspects of perception, action, and interaction. In 2018, I co-authored a paper that, according to the very kind Aaron Mueller, introduced the first causal (mechanistic) interpretability method for language models—[apparently before it was cool](https://arxiv.org/pdf/2408.01416). I am committed to advancing evaluation standards for AI systems, with a focus on language as well as broader aspects of agency and safety.
 
 
 ## News
-- We've published our first blog introducing Project Telos: [Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI Systems](https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link)
+- New preprint: [_A behavioural and representational evaluation of goal-directedness in language model agents_](https://arxiv.org/pdf/2602.08964), with my Fall 2025 SPAR cohort.  Here was our first [blog post](https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link) introducing Project Telos.
+- New preprint: [_Reasoning aligns language models to human cognition_](https://arxiv.org/pdf/2602.08693)  with colleagues from Zurich.
 - I received a Cohere Labs Catalyst Grant to support our SPAR experiments on measuring goal-directedness in LLM agents.
 - I received a Cosmos Grant to study emergent self-interest in LLM agents using non-cooperative dialogue games. 
 - I will be a [SPAR](https://sparai.org/) mentor this Fall. I am very thankful for the many applications I received to work with me on modelling, measuring, and intervening on goal-directed behaviour. *Applications are now closed*.
@@ -38,7 +39,7 @@ My research explores the information processing principles underlying the abilit
 
 ## Working with me
 **Before e-mailing me, please read the following!**
-Below is a list of funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme, or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. Please indicate clearly in your message the area you would like to work on, and include a *brief* research proposal). General inquiries are extremely unlikely to receive a response.
+Below is a list of funding schemes and programmes. If you intend to apply for one of these opportunities, for another programme (e.g., through FLI or Coefficient Giving), or if you have secured your own funding, you are welcome to get in touch. I am happy to discuss and support applications that align with my research. Please indicate clearly in your message the area you would like to work on, and include a *brief* research proposal). General inquiries are extremely unlikely to receive a response.
   - [UCL Research Excellence Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship)
   - [UCL Research Opportunity Scholarship](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)
   - [UCL Linguistics MPhil/PhD](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd) (Note: if you apply for a scholarship, you will need to apply for this in parallel)
@@ -54,6 +55,7 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 
 
 ## Invited talks and guest lectures
+- Quantum reading group, UCL Computer Science, 27 January 2026.
 - Linguistics Research Seminar, University of Geneva. 21 October 2025. 
 - Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
 - Deep Linguistic Modeling Colloquium, Heinrich-Heine Universität Düsseldorf. 17 January 2025.
@@ -86,12 +88,14 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 
  
 ## Work in progress
+- [[PDF](https://doi.org/10.48550/arXiv.2602.08964)] Raghu Arghal, Fade Chen, Niall Dalton, Evgenii Kortukov, Calum McNamara, Angelos Nalmpantis, Moksh Nirvaan, Gabriele Sarti, Mario Giulianelli. **A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents**. _Preprint_.
+- [[PDF](https://doi.org/10.48550/arXiv.2602.08693)] Gonçalo Guiomar, Elia Torre, Pehuen Moure, Victoria Shavina, Mario Giulianelli, Shih-Chii Liu, Valerio Mante. **Reasoning aligns language models to human cognition**. _Preprint_.
 - [[PDF](https://doi.org/10.48550/arXiv.2507.03409)] Christopher Summerfield, Lennart Luettgau, Magda Dubois, Hannah Rose Kirk, Kobi Hackenburg, Catherine Fist, Katarina Slama, Nicola Ding, Rebecca Anselmetti, Andrew Strait, Mario Giulianelli, Cozmin Ududec. **Lessons from a Chimp: AI "Scheming" and the Quest for Ape Language**. _Preprint_.
 - [[PDF](https://doi.org/10.48550/arXiv.2507.03772)] Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec. **Skewed Score: A statistical framework to assess autograders**. _Preprint_.
 - Tianyu Liu, Francesco Ignazio Re, Mario Giulianelli, Alessandro Torcinovich. **Evaluating LLMs in Games with Strategic Behavior Discrepancies**. _The 5th Wordplay Workshop: When Language Meets Games @ EMNLP 2025_.
 
 ## Publications
-- [[PDF](https://doi.org/10.31234/osf.io/fhp84)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. (2026). **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Journal of Memory and Language_.
+- Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. (2026). **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Journal of Memory and Language_.
 - [[PDF](https://doi.org/10.48550/arXiv.2510.20700)] Bryan Eikema, Anna Rutkiewicz, Mario Giulianelli. **Structure-Conditional Minimum Bayes Risk Decoding**. In _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_.
 - [[PDF](https://doi.org/10.48550/arXiv.2507.02825)] Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellerman, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang. **Establishing Best Practices for Building Rigorous Agentic Benchmarks** _NeurIPS 2025 Datasets and Benchmarks_.
 - [[PDF](https://arxiv.org/abs/2504.08590)] Nicola Horst, Davide Mazzaccara, Antonia Schmidt, Michael Sullivan, Filippo Momentè, Luca Franceschetti, Philipp Sadler, Sherzod Hakimov, Alberto Testoni, Raffaella Bernardi, Raquel Fernández, Alexander Koller, Oliver Lemon, David Schlangen, Mario Giulianelli, Alessandro Suglia. **Playpen: An Environment for Exploring Learning Through Conversational Interaction**. In _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_.
