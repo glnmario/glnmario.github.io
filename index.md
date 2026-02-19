@@ -95,7 +95,7 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 - Tianyu Liu, Francesco Ignazio Re, Mario Giulianelli, Alessandro Torcinovich. **Evaluating LLMs in Games with Strategic Behavior Discrepancies**. _The 5th Wordplay Workshop: When Language Meets Games @ EMNLP 2025_.
 
 ## Publications
-- Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. (2026). **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Journal of Memory and Language_.
+- [[PDF](https://doi.org/10.1016/j.jml.2025.104715)] Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernández. (2026). **Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction**. _Journal of Memory and Language_.
 - Nina Tahmasebi, Andrey Kutuzov, Haim Dubossarsky, Mario Giulianelli. (2026). **Diachronic Lexical Semantics with Computational Models**. The Wiley Blackwell Companion to Diachronic Linguistics. John Wiley & Sons.
 - [[PDF](https://doi.org/10.48550/arXiv.2602.14653)] Matteo Gay, Coleman Haley, Mario Giulianelli, Edoardo Ponti. (2026). **Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?** _Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)_.
 - [[PDF](https://doi.org/10.48550/arXiv.2510.20700)] Bryan Eikema, Anna Rutkiewicz, Mario Giulianelli. **Structure-Conditional Minimum Bayes Risk Decoding**. In _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_.
