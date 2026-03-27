@@ -55,9 +55,9 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 
 
 
-## Invited talks and guest lectures9
-- Guest lecture, Psycholinguistics: General Processing, UCL Linguistics, 27 March 2026 [[slides](documents/plin0033-computational-psycholinguistics-27mar2026)].
-- NLIP Seminar Series, University of Cambridge, 6 March 2026 [[slides](documents/cambridge-nlip-seminar-6mar2026)].
+## Invited talks and guest lectures
+- Guest lecture, Psycholinguistics: General Processing, UCL Linguistics, 27 March 2026 [[slides](documents/plin0033-computational-psycholinguistics-27mar2026.pdf)].
+- NLIP Seminar Series, University of Cambridge, 6 March 2026 [[slides](documents/cambridge-nlip-seminar-6mar2026.pdf)].
 - Quantum reading group, UCL Computer Science, 27 January 2026.
 - Linguistics Research Seminar, University of Geneva. 21 October 2025. 
 - Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
