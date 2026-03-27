@@ -76,7 +76,7 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 - Rycolab, ETH Zürich. Switzerland. 3 May 2023. 
 - Inria & Loria. 27 October 2022. Nancy, France. [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
 - School of Natural and Computing Sciences, University of Aberdeen. UK. 12 October 2022. [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
-- Guest lecture, Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. Netherlands. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
+- Guest lecture, Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. Netherlands. 21 September 2022. [[Slides](documents/grounded_dialogue_modelling_21sept2022.pdf)]
 - [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/). Language Technology Group. University of Oslo, Norway. 14 March 2022.
 - NLPitch. Institute for Logic, Language and Computation. University of Amsterdam. Netherlands. 26 October 2020.
 - AILC Lectures on Computational Linguistics. Università Tor Vergata. Rome, Italy. 17 June 2021.
@@ -139,7 +139,7 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 
 *Theses*
 - [[PDF](https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf)] Neural Models of Language Use. 2023. _PhD thesis_.
-- [[PDF](mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. 2019. _Master's thesis._
+- [[PDF](documents/mscthesis.pdf)] Lexical Semantic Change Analysis with Contextualised Word Representations. 2019. _Master's thesis._
 - [[PDF](https://arxiv.org/pdf/1708.03910.pdf)] Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings. 2017. _Bachelor's thesis._
 
 
@@ -154,13 +154,13 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 
 <!-- ## Presentations
 - **Talk.** 7 July 2020. [[Video](https://slideslive.com/38929048/analysing-lexical-semantic-change-with-contextualised-word-representations)] Analysing Lexical Semantic Change with Contextualised Word Representations. _ACL 2020_. Online.
-- **Symposium.** 18 May 2020. [[PDF](gecko-poster-slides.pdf)] Analysing Lexical Semantic Change with Contextualised Word Representations. _GeCKo 2020_. Online.
+- **Symposium.** 18 May 2020. [[PDF](documents/gecko-poster-slides.pdf)] Analysing Lexical Semantic Change with Contextualised Word Representations. _GeCKo 2020_. Online.
 - **Guest talk.** 1 May 2020. Evaluating the human-likeness of language model representations. _Cognitive Science & Artificial Intelligence_. Tilburg, Netherlands.
-- **Poster.** 11 October 2019. [[PDF](EurNLP.pdf)] Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK.
+- **Poster.** 11 October 2019. [[PDF](documents/EurNLP.pdf)] Contextualised Word Representations for Lexical Semantic Change Analysis. _EurNLP_. London, UK.
 - **Poster.** 30 August 2019. Contextualised Word Representations for Lexical Semantic Change Analysis. _Interacting Minds_. Egmond aan Zee, Netherlands.
 - **Talk.** 1 February 2019. Diagnostic Classifiers for Language Models. _Cool Logic Seminar - Institute for Logic, Language and Computation_, Amsterdam, Netherlands.
 - **Talk.** 1 November 2018. Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information, EMNLP 2018, _[BlackboxNLP](https://blackboxnlp.github.io) Workshop on Analyzing and Interpreting Neural Networks for NLP_, Brussels, Belgium.
-- **Talk.** 26 January 2018. [[PDF](CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands. -->
+- **Talk.** 26 January 2018. [[PDF](documents/CLIN28.pdf)] Semi-supervised emotion lexicon expansion with label propagation, [CLIN](http://clin28.cls.ru.nl/#abstract-49) 2018, Nijmegen, Netherlands. -->
 
 <!--
 ## GitHub
