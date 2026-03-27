@@ -55,7 +55,9 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 
 
 
-## Invited talks and guest lectures
+## Invited talks and guest lectures9
+- Guest lecture, Psycholinguistics: General Processing, UCL Linguistics, 27 March 2026 [[slides](documents/plin0033-computational-psycholinguistics-27mar2026)].
+- NLIP Seminar Series, University of Cambridge, 6 March 2026 [[slides](documents/cambridge-nlip-seminar-6mar2026)].
 - Quantum reading group, UCL Computer Science, 27 January 2026.
 - Linguistics Research Seminar, University of Geneva. 21 October 2025. 
 - Human-centred AI Research Network, University of Aberdeen. 12 August 2025.
@@ -76,15 +78,15 @@ Below is a list of funding schemes and programmes. If you intend to apply for on
 - Rycolab, ETH Zürich. Switzerland. 3 May 2023. 
 - Inria & Loria. 27 October 2022. Nancy, France. [[Abstract](https://www.loria.fr/event/department-4-seminar-mario-giulianelli/)]
 - School of Natural and Computing Sciences, University of Aberdeen. UK. 12 October 2022. [[Abstract](https://www.abdn.ac.uk/ncs/seminars/17943/)]
-- Guest lecture, Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. Netherlands. 21 September 2022. [[Slides](documents/grounded_dialogue_modelling_21sept2022.pdf)]
+- Guest lecture, Advanced Information Retrieval (MSc AI and Informatics). University of Amsterdam. 21 September 2022. [[Slides](grounded_dialogue_modelling_21sept2022.pdf)]
 - [Language Technology Group Seminar](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/). Language Technology Group. University of Oslo, Norway. 14 March 2022.
-- NLPitch. Institute for Logic, Language and Computation. University of Amsterdam. Netherlands. 26 October 2020.
+- NLPitch. Institute for Logic, Language and Computation. University of Amsterdam. 26 October 2020.
 - AILC Lectures on Computational Linguistics. Università Tor Vergata. Rome, Italy. 17 June 2021.
 - Cognitive Machine Learning Lab. Ecole Normale Supérieure. Paris, France. 29 June 2021.
 - Symposium on Meaning Variation in Social Contexts. Institute for Logic, Language and Computation. Amsterdam, NL. 5 November 2020.
-- Computational Linguistic Seminar. Institute for Logic, Language and Computation. University of Amsterdam, Netherlands. 5 October 2021.
-- Guest lecture, NLP 1 (MSc AI course). University of Amsterdam, Netherlands. Online. 18 November 2020.
-- Cognitive Science & Artificial Intelligence PhD Group. Tilburg, Netherlands. 1 May 2020.
+- Computational Linguistic Seminar. Institute for Logic, Language and Computation. University of Amsterdam. 5 October 2021.
+- Guest lecture, NLP 1 (MSc AI course). University of Amsterdam, Netherlands. 18 November 2020.
+- Cognitive Science & Artificial Intelligence PhD Group. Tilburg University, Netherlands. 1 May 2020.
 - Cool Logic Seminar. Amsterdam, Netherlands. 1 February 2019.
 
  
