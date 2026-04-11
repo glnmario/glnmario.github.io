@@ -68,20 +68,6 @@
     "section": "publication",
     "year": 2026,
     "selected": false,
-    "authors": "Nina Tahmasebi, Andrey Kutuzov, Haim Dubossarsky, Mario Giulianelli",
-    "title": "Diachronic Lexical Semantics with Computational Models",
-    "venue": "The Wiley Blackwell Companion to Diachronic Linguistics. John Wiley & Sons",
-    "links": [
-      {
-        "label": "PDF",
-        "url": "https://doi.org/10.1002/9781119898023.wbcdl140"
-      }
-    ]
-  },
-  {
-    "section": "publication",
-    "year": 2026,
-    "selected": false,
     "authors": "Matteo Gay, Coleman Haley, Mario Giulianelli, Edoardo Ponti",
     "title": "Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?",
     "venue": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)",
@@ -89,6 +75,20 @@
       {
         "label": "PDF",
         "url": "https://aclanthology.org/2026.eacl-long.178/"
+      }
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Nina Tahmasebi, Andrey Kutuzov, Haim Dubossarsky, Mario Giulianelli",
+    "title": "Diachronic Lexical Semantics with Computational Models",
+    "venue": "The Wiley Blackwell Companion to Diachronic Linguistics. John Wiley & Sons",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://doi.org/10.1002/9781119898023.wbcdl140"
       }
     ]
   },
