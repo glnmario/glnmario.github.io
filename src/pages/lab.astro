@@ -22,7 +22,7 @@ function byLastName(a: any, b: any) {
     <>
       <div class="text-2xl font-bold mb-4">Postdocs</div>
       <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
-        {[...people.postdocs].sort(byLastName).map((m: any) => (
+        {[...people.postdocs].filter((m: any) => !m.hidden).sort(byLastName).map((m: any) => (
           <div class="flex flex-col items-center gap-2 text-center">
             <div class="avatar placeholder">
               <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
@@ -55,7 +55,7 @@ function byLastName(a: any, b: any) {
     <>
       <div class="text-2xl font-bold mb-4">PhD Students</div>
       <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
-        {[...people.phd_students].sort((a, b) => {
+        {[...people.phd_students].filter((m: any) => !m.hidden).sort((a, b) => {
             const aCommittee = a.subrole && a.subrole.startsWith("Thesis committee");
             const bCommittee = b.subrole && b.subrole.startsWith("Thesis committee");
             if (aCommittee !== bCommittee) return aCommittee ? 1 : -1;
@@ -89,7 +89,7 @@ function byLastName(a: any, b: any) {
       <div class="divider my-4"></div>
       <div class="text-2xl font-bold mb-4">Master's Students</div>
       <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
-        {[...people.masters_students].sort(byLastName).map((m: any) => (
+        {[...people.masters_students].filter((m: any) => !m.hidden).sort(byLastName).map((m: any) => (
           <div class="flex flex-col items-center gap-2 text-center">
             <div class="avatar placeholder">
               <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
@@ -118,7 +118,7 @@ function byLastName(a: any, b: any) {
       <div class="divider my-4"></div>
       <div class="text-2xl font-bold mb-4">SPAR Mentees</div>
       <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
-        {[...people.spar_mentees].sort(byLastName).map((m: any) => (
+        {[...people.spar_mentees].filter((m: any) => !m.hidden).sort(byLastName).map((m: any) => (
           <div class="flex flex-col items-center gap-2 text-center">
             <div class="avatar placeholder">
               <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
@@ -147,7 +147,7 @@ function byLastName(a: any, b: any) {
       <div class="divider my-4"></div>
       <div class="text-2xl font-bold mb-4">Collaborators</div>
       <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
-        {[...people.collaborators].sort(byLastName).map((c: any) => (
+        {[...people.collaborators].filter((c: any) => !c.hidden).sort(byLastName).map((c: any) => (
           <div class="flex flex-col items-center gap-2 text-center">
             <div class="avatar placeholder">
               <div class={`rounded-full w-32 h-32 overflow-hidden ${c.photo ? "" : "bg-base-300 text-base-content"}`}>
