@@ -1,0 +1,90 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+import news from "../data/news.json";
+import publications from "../data/publications.json";
+
+const selectedPubs = publications
+  .filter((p) => p.selected)
+  .sort((a, b) => b.year - a.year)
+  .slice(0, 7);
+
+const recentNews = news.slice(0, 5);
+---
+
+<BaseLayout sideBarActiveItemID="home">
+  <div class="pb-10 mt-5">
+    <div class="text-4xl font-bold">Mario Giulianelli</div>
+    <div class="text-l py-2 text-base-content/50">Associate Professor of Computational Linguistics · <a href="https://www.ucl.ac.uk/brain-sciences" target="_blank" class="link">University College London</a></br>
+    Director of the Computational Linguistics Postgraduate Programme · <a href="https://www.ucl.ac.uk/brain-sciences/pals" target="_blank" class="link">UCL PaLS</a></br>
+    Member of the European Laboratory for Learning and Intelligent Systems · <a href="https://ucl-ellis.github.io" target="_blank" class="link">UCL ELLIS Unit</a></div>
+    <div class="py-4 text-base leading-relaxed space-y-4">
+      <p>
+        My research explores the information processing principles that underly the ability to use and learn language — 
+        both in <span class="text-[oklch(52%_0.10_185)]">human and artificial language processing systems</span>. 
+        I'm also increasingly interested in biological and artificial cognitive systems more broadly, and by extension to
+        extra-linguistic aspects of perception, action, and interaction.
+        I am committed to advancing the <span class="text-[oklch(52%_0.10_185)]">science of AI evaluation</span>, with a focus on language as well as broader
+        aspects of agency and safety. 
+        In 2018, I co-authored a paper that, <a href="https://arxiv.org/pdf/2408.01416" target="_blank" class="link underline decoration-dotted underline-offset-2">according to the very kind Aaron Mueller</a>, introduced the first causal (<a href="https://aclanthology.org/2024.blackboxnlp-1.30.pdf" target="_blank" class="link underline decoration-dotted underline-offset-2">mechanistic?</a>) interpretability method for language
+        models.
+      </p>
+      <ul class="text-sm text-base-content/60 space-y-1 mt-2">
+        <li class="flex gap-3"><span class="text-base-content/30 shrink-0 w-16">2025</span><span>Senior Research Scientist, <a href="https://www.aisi.gov.uk" target="_blank" class="link">UK AI Security Institute</a>, Science of Evaluation & Testing Teams</span></li>
+        <li class="flex gap-3"><span class="text-base-content/30 shrink-0 w-16">2023–25</span><span>Postdoctoral Fellow, ETH Zurich, <a href="https://inf.ethz.ch" target="_blank" class="link">Department of Computer Science</a>, working with <a href="https://rycolab.io" target="_blank" class="link">Ryan Cotterell</a></span></li>
+        <li class="flex gap-3"><span class="text-base-content/30 shrink-0 w-16">2019–23</span><span>PhD, University of Amsterdam, <a href="https://illc.uva.nl" target="_blank" class="link">Institute for Logic, Language and Computation</a>, advised by <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank" class="link">Raquel Fernández</a></span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="divider my-2"></div>
+
+  <div class="mb-4">
+    <div class="text-2xl font-bold mb-4">News</div>
+    {recentNews.map((item) => (
+      <div class="mb-5">
+        <div class="flex flex-col sm:flex-row sm:items-baseline gap-1 sm:gap-3 mb-1">
+          <span class="text-xs font-mono text-base-content/50 whitespace-nowrap">{item.date}</span>
+          <span class="font-semibold">{item.headline}</span>
+        </div>
+        <p class="text-sm text-base-content/80 mb-1" set:html={item.summary}></p>
+        {item.links && item.links.length > 0 && (
+          <div class="flex flex-wrap gap-2">
+            {item.links.map((link) => (
+              <a href={link.url} target="_blank" class="link text-[oklch(52%_0.10_185)] text-xs">{link.label}</a>
+            ))}
+          </div>
+        )}
+      </div>
+    ))}
+  </div>
+
+  <div class="divider my-2"></div>
+
+  <div class="mb-4">
+    <div class="text-2xl font-bold mb-4">Selected publications</div>
+    {selectedPubs.map((pub) => (
+      <div class="mb-4">
+        <div class="text-sm text-base-content/60 mb-0.5">{pub.year}</div>
+        <div class="font-medium leading-snug">
+          {pub.links && pub.links.length > 0
+            ? <a href={pub.links[0].url} target="_blank" class="hover:underline">{pub.title}</a>
+            : pub.title}
+        </div>
+        <div class="text-sm text-base-content/70">{pub.authors}</div>
+        <div class="text-sm italic text-base-content/60">{pub.venue}</div>
+        {pub.links && pub.links.length > 1 && (
+          <div class="flex flex-wrap gap-2 mt-1">
+            {pub.links.slice(1).map((link) => (
+              <a href={link.url} target="_blank" class="link link-primary text-xs">{link.label}</a>
+            ))}
+          </div>
+        )}
+      </div>
+    ))}
+    <div class="mt-4">
+      <a href="/publications" class="btn btn-sm btn-outline">All publications →</a>
+    </div>
+  </div>
+</BaseLayout>
+

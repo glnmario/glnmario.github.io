@@ -1,0 +1,55 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import talks from "../data/talks.json";
+
+const sorted = [...talks].sort((a, b) => b.date.localeCompare(a.date));
+
+function formatDate(dateStr: string) {
+  const d = new Date(dateStr + "T00:00:00");
+  return d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+}
+---
+
+<BaseLayout title="Talks" sideBarActiveItemID="talks">
+  <div class="mb-5 mt-5">
+    <div class="text-3xl font-bold">Invited talks & presentations</div>
+  </div>
+
+  <div class="overflow-x-auto">
+    <table class="table table-sm w-full">
+      <thead>
+        <tr>
+          <th class="text-base-content/60 font-normal w-32">Date</th>
+          <th class="text-base-content/60 font-normal">Event</th>
+          <th class="text-base-content/60 font-normal hidden sm:table-cell">Host · Location</th>
+        </tr>
+      </thead>
+      <tbody>
+        {sorted.map((talk) => (
+          <tr class="hover">
+            <td class="text-sm text-base-content/60 align-top whitespace-nowrap">{formatDate(talk.date)}</td>
+            <td class="text-sm align-top">
+              <div class="font-medium">
+                {(talk as any).type === "panel" || (talk as any).type === "spotlight" || (talk as any).type === "best-paper"
+                  ? <span>🏆 {talk.event}</span>
+                  : talk.event}
+              </div>
+              <div class="text-base-content/60 sm:hidden">{talk.host} · {talk.location}</div>
+              {talk.links && talk.links.length > 0 && (
+                <div class="flex flex-wrap gap-2 mt-1">
+                  {talk.links.map((link: {url: string; label: string}) => (
+                    <a href={link.url} target="_blank" class="link link-primary text-xs">{link.label}</a>
+                  ))}
+                </div>
+              )}
+            </td>
+            <td class="text-sm text-base-content/70 align-top hidden sm:table-cell">
+              <div>{talk.host}</div>
+              <div class="text-base-content/50">{talk.location}</div>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</BaseLayout>

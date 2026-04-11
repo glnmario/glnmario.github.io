@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import teaching from "../data/teaching.json";
+---
+
+<BaseLayout title="Working with me" sideBarActiveItemID="working-with-me">
+  <div class="mb-5 mt-5">
+    <div class="text-3xl font-bold">Working with me</div>
+  </div>
+
+  <div class="mb-8">
+    <div class="text-2xl font-bold mb-3">{teaching.supervision.title}</div>
+    <div class="mb-4 text-base-content/80">{teaching.supervision.description}</div>
+    <div class="text-sm text-base-content/60 italic">{teaching.supervision.note}</div>
+  </div>
+
+  <div class="divider my-4"></div>
+
+  <div class="mb-5">
+    <div class="text-2xl font-bold">Funding opportunities</div>
+  </div>
+  <ul class="list-disc mx-6 mb-10 grid gap-2">
+    {teaching.opportunities.map((opp: {title: string; url: string}) => (
+      <li>
+        <a href={opp.url} target="_blank" class="link">{opp.title}</a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

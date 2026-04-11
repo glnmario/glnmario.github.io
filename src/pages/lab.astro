@@ -1,0 +1,172 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import people from "../data/people.json";
+
+function initials(name: string) {
+  return name.split(" ").map((w) => w[0]).join("").slice(0, 2).toUpperCase();
+}
+
+function byLastName(a: any, b: any) {
+  const lastName = (p: any) => p.name.trim().split(" ").at(-1).toLowerCase();
+  return lastName(a).localeCompare(lastName(b));
+}
+---
+
+<BaseLayout title="People" sideBarActiveItemID="lab">
+  <div class="mb-5 mt-5">
+    <div class="text-3xl font-bold">People</div>
+  </div>
+
+  {/* Postdocs */}
+  {people.postdocs && people.postdocs.length > 0 ? (
+    <>
+      <div class="text-2xl font-bold mb-4">Postdocs</div>
+      <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
+        {[...people.postdocs].sort(byLastName).map((m: any) => (
+          <div class="flex flex-col items-center gap-2 text-center">
+            <div class="avatar placeholder">
+              <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
+                {m.photo
+                  ? <img src={m.photo} alt={m.name} class="w-full h-full object-cover" />
+                  : <span class="text-lg font-semibold">{initials(m.name)}</span>
+                }
+              </div>
+            </div>
+            <div>
+              {m.url
+                ? <a href={m.url} target="_blank" class="font-medium hover:underline">{m.name}</a>
+                : <div class="font-medium">{m.name}</div>
+              }
+              {m.subrole && <div class="text-xs text-base-content/40">{m.subrole}</div>}
+            </div>
+          </div>
+        ))}
+      </div>
+    </>
+  ) : (
+    <>
+      <div class="text-2xl font-bold mb-4">Postdocs</div>
+      <p class="text-base-content/50 italic mb-10">This could be you — stay tuned!</p>
+    </>
+  )}
+
+  {/* PhD Students */}
+  {people.phd_students && people.phd_students.length > 0 && (
+    <>
+      <div class="text-2xl font-bold mb-4">PhD Students</div>
+      <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
+        {[...people.phd_students].sort((a, b) => {
+            const aCommittee = a.subrole && a.subrole.startsWith("Thesis committee");
+            const bCommittee = b.subrole && b.subrole.startsWith("Thesis committee");
+            if (aCommittee !== bCommittee) return aCommittee ? 1 : -1;
+            return byLastName(a, b);
+          }).map((m: any) => (
+          <div class="flex flex-col items-center gap-2 text-center">
+            <div class="avatar placeholder">
+              <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
+                {m.photo
+                  ? <img src={m.photo} alt={m.name} class="w-full h-full object-cover" />
+                  : <span class="text-lg font-semibold">{initials(m.name)}</span>
+                }
+              </div>
+            </div>
+            <div>
+              {m.url
+                ? <a href={m.url} target="_blank" class="font-medium hover:underline">{m.name}</a>
+                : <div class="font-medium">{m.name}</div>
+              }
+              {m.subrole && <div class="text-xs text-base-content/40">{m.subrole}</div>}
+            </div>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+
+  {/* Master's Students */}
+  {people.masters_students && people.masters_students.length > 0 && (
+    <>
+      <div class="divider my-4"></div>
+      <div class="text-2xl font-bold mb-4">Master's Students</div>
+      <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
+        {[...people.masters_students].sort(byLastName).map((m: any) => (
+          <div class="flex flex-col items-center gap-2 text-center">
+            <div class="avatar placeholder">
+              <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
+                {m.photo
+                  ? <img src={m.photo} alt={m.name} class="w-full h-full object-cover" />
+                  : <span class="text-lg font-semibold">{initials(m.name)}</span>
+                }
+              </div>
+            </div>
+            <div>
+              {m.url
+                ? <a href={m.url} target="_blank" class="font-medium hover:underline">{m.name}</a>
+                : <div class="font-medium">{m.name}</div>
+              }
+              {m.subrole && <div class="text-xs text-base-content/40">{m.subrole}</div>}
+            </div>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+
+  {/* SPAR Mentees */}
+  {people.spar_mentees && people.spar_mentees.length > 0 && (
+    <>
+      <div class="divider my-4"></div>
+      <div class="text-2xl font-bold mb-4">SPAR Mentees</div>
+      <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
+        {[...people.spar_mentees].sort(byLastName).map((m: any) => (
+          <div class="flex flex-col items-center gap-2 text-center">
+            <div class="avatar placeholder">
+              <div class={`rounded-full w-32 h-32 overflow-hidden ${m.photo ? "" : "bg-neutral text-neutral-content"}`}>
+                {m.photo
+                  ? <img src={m.photo} alt={m.name} class="w-full h-full object-cover" />
+                  : <span class="text-lg font-semibold">{initials(m.name)}</span>
+                }
+              </div>
+            </div>
+            <div>
+              {m.url
+                ? <a href={m.url} target="_blank" class="font-medium hover:underline">{m.name}</a>
+                : <div class="font-medium">{m.name}</div>
+              }
+              {m.subrole && <div class="text-xs text-base-content/40">{m.subrole}</div>}
+            </div>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+
+  {/* Collaborators */}
+  {people.collaborators && people.collaborators.length > 0 && (
+    <>
+      <div class="divider my-4"></div>
+      <div class="text-2xl font-bold mb-4">Collaborators</div>
+      <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
+        {[...people.collaborators].sort(byLastName).map((c: any) => (
+          <div class="flex flex-col items-center gap-2 text-center">
+            <div class="avatar placeholder">
+              <div class={`rounded-full w-32 h-32 overflow-hidden ${c.photo ? "" : "bg-base-300 text-base-content"}`}>
+                {c.photo
+                  ? <img src={c.photo} alt={c.name} class="w-full h-full object-cover" />
+                  : <span class="text-lg font-semibold">{initials(c.name)}</span>
+                }
+              </div>
+            </div>
+            <div>
+              {c.url
+                ? <a href={c.url} target="_blank" class="font-medium hover:underline">{c.name}</a>
+                : <div class="font-medium">{c.name}</div>
+              }
+              {c.affiliation && <div class="text-xs text-base-content/60">{c.affiliation}</div>}
+            </div>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+</BaseLayout>

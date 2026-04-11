@@ -1,0 +1,155 @@
+{
+  "postdocs": [],
+  "phd_students": [
+    {
+      "name": "Francesco Cipriani",
+      "subrole": "Starting in September 2026",
+      "photo": "/photos/francesco-cipriani.jpeg",
+      "url": null
+    },
+    {
+      "name": "Leo Richter",
+      "subrole": "Co-supervised with Matt Kusner and Brooks Paige",
+      "photo": "/photos/leo-richter.jpg",
+      "url": null
+    },
+    {
+      "name": "Daniel Tan",
+      "subrole": "Co-supervised with Brooks Paige and Dimitrios Kanoulas",
+      "photo": "/photos/daniel-tan.jpg",
+      "url": "https://dtch1997.github.io"
+    },
+    {
+      "name": "Zichao Wang",
+      "subrole": "Thesis committee - Main supervisor: Wing Yee Chow",
+      "photo": null,
+      "url": null
+    },
+    {
+      "name": "Joseph Keir Petrie",
+      "subrole": "Thesis committee - Main supervisor: Richard Breheny",
+      "photo": null,
+      "url": "https://joseph-keir-petrie.github.io"
+    }
+  ],
+  "masters_students": [
+    {
+      "name": "Tommaso Morini Bianzino",
+      "subrole": "MSc Cognitive and Decision Sciences, UCL",
+      "photo": "/photos/tommaso-morini-bianzino.jpeg",
+      "url": null
+    },
+    {
+      "name": "Joshua Hew",
+      "subrole": "MSc Cognitive and Decision Sciences, UCL",
+      "photo": "/photos/joshua-hew.jpeg",
+      "url": "https://j2hwz.github.io"
+    },
+    {
+      "name": "Aoxuan Liang",
+      "subrole": "MA Computational Linguistics, UCL",
+      "photo": null,
+      "url": null
+    },
+    {
+      "name": "Yuyang Yang",
+      "subrole": "MA Computational Linguistics, UCL",
+      "photo": null,
+      "url": null
+    },
+    {
+      "name": "Chenchang Xu",
+      "subrole": "MA Computational Linguistics, UCL",
+      "photo": null,
+      "url": null
+    },
+    {
+      "name": "Noor Saleh",
+      "subrole": "MA Computational Linguistics, UCL",
+      "photo": null,
+      "url": null
+    },
+    {
+      "name": "Caroline Swartz",
+      "subrole": "MA Computational Linguistics, UCL",
+      "photo": "photos/caroline-swartz.png",
+      "url": null
+    },
+    {
+      "name": "Jiayi Chen",
+      "subrole": "MA Computational Linguistics, UCL",
+      "photo": null,
+      "url": null
+    }
+  ],
+  "spar_mentees": [
+    {
+      "name": "Ayse Sila Okcu",
+      "subrole": "PhD in Electrical Engineering, University of Cambridge",
+      "photo": "/photos/ayse-sila-okcu.jpeg",
+      "url": null
+    },
+    {
+      "name": "Weisheng Wang",
+      "subrole": "PhD in Mathematics, Utrecht University",
+      "photo": "/photos/weisheng-wang.jpeg",
+      "url": null
+    },
+    {
+      "name": "Niall Dalton",
+      "subrole": "MSc in Machine Learning, University College London",
+      "photo": "/photos/niall-dalton.jpeg",
+      "url": "https://ndalton12.github.io"
+    },
+    {
+      "name": "Angelos Nalmpantis",
+      "subrole": "AI Research Engineer, TKH AI",
+      "photo": "/photos/angelos-nalmpantis.jpeg",
+      "url": null
+    },
+    {
+      "name": "Moksh Nirvaan",
+      "subrole": "ML Engineer, Amazon Search",
+      "photo": "/photos/moksh-nirvaan.png",
+      "url": "https://www.lesswrong.com/users/moksh-nirvaan"
+    },
+    {
+      "name": "Evgenii Kortukov",
+      "subrole": "PhD in Explainable AI, Fraunhofer Heinrich-Hertz-Institut",
+      "photo": "/photos/evgenii-kortukov.jpg",
+      "url": "https://kortukov.github.io"
+    },
+    {
+      "name": "Raghu Arghal",
+      "affiliation": "PhD in AI and Game Theory, University of Pennsylvania",
+      "photo": "/photos/raghu-arghal.jpeg",
+      "url": null
+    },
+    {
+      "name": "Fade Chen",
+      "affiliation": "PhD in Cognitive Science, New York University",
+      "photo": null,
+      "url": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Gabriele Sarti",
+      "affiliation": "Postdoc, Khoury College of Computer Sciences, Northeastern University",
+      "photo": "/photos/gabriele-sarti.jpg",
+      "url": "https://gsarti.com"
+    },
+    {
+      "name": "Arabella Sinclair",
+      "affiliation": "Lecturer in Knowledge, Information and Data Science, University College London",
+      "photo": "/photos/arabella-sinclair.webp",
+      "url": "https://profiles.ucl.ac.uk/105016-arabella-sinclair"
+    },
+    {
+      "name": "Calum McNamara",
+      "affiliation": "Assistant Professor of Philosophy, Indiana University Bloomington",
+      "photo": "/photos/calum-mcnamara.jpg",
+      "url": "https://calum-mcnamara.github.io"
+    }
+  ]
+}

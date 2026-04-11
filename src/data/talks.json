@@ -1,0 +1,240 @@
+[
+  {
+    "date": "2026-03-27",
+    "event": "Guest lecture, Psycholinguistics: General Processing",
+    "host": "UCL Linguistics",
+    "location": "London, UK",
+    "links": [
+      { "label": "Slides", "url": "/documents/plin0033-computational-psycholinguistics-27mar2026.pdf" }
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "event": "NLIP Seminar Series",
+    "host": "University of Cambridge",
+    "location": "Cambridge, UK",
+    "links": [
+      { "label": "Slides", "url": "/documents/cambridge-nlip-seminar-6mar2026.pdf" }
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "event": "Quantum reading group",
+    "host": "UCL Computer Science",
+    "location": "London, UK",
+    "links": []
+  },
+  {
+    "date": "2025-10-21",
+    "event": "Linguistics Research Seminar",
+    "host": "University of Geneva",
+    "location": "Geneva, Switzerland",
+    "links": []
+  },
+  {
+    "date": "2025-08-12",
+    "event": "Human-centred AI Research Network",
+    "host": "University of Aberdeen",
+    "location": "Aberdeen, UK",
+    "links": []
+  },
+  {
+    "date": "2025-01-17",
+    "event": "Deep Linguistic Modeling Colloquium",
+    "host": "Heinrich-Heine Universitat Dusseldorf",
+    "location": "Dusseldorf, Germany",
+    "links": []
+  },
+  {
+    "date": "2024-12-03",
+    "event": "Language Processing Group",
+    "host": "UC Irvine Department of Language Science",
+    "location": "Irvine, CA, USA",
+    "links": []
+  },
+  {
+    "date": "2024-11-18",
+    "event": "CLColloquium",
+    "host": "UT Austin",
+    "location": "Austin, TX, USA",
+    "links": []
+  },
+  {
+    "date": "2024-06-10",
+    "event": "Workshop on NLP and Multi-Modality",
+    "host": "University of Gothenburg",
+    "location": "Gothenburg, Sweden",
+    "links": []
+  },
+  {
+    "date": "2024-03-21",
+    "event": "Guest lecture, Seminar on Detection of Semantic Shift",
+    "host": "University of Zurich",
+    "location": "Zurich, Switzerland",
+    "links": []
+  },
+  {
+    "date": "2024-03-05",
+    "event": "Text Technology and Digital Linguistics colloquium",
+    "host": "University of Zurich",
+    "location": "Zurich, Switzerland",
+    "links": []
+  },
+  {
+    "date": "2024-02-26",
+    "event": "Department of Computer Science and Computational Linguistics",
+    "host": "Saarland University",
+    "location": "Saarbrucken, Germany",
+    "links": []
+  },
+  {
+    "date": "2023-12-06",
+    "event": "Keynote at the EMNLP Workshop on Computational Approaches to Historical Language Change (LChange'23)",
+    "host": "EMNLP Workshop",
+    "location": "Singapore",
+    "links": [
+      {"label": "Event", "url": "https://www.changeiskey.org/event/2023-emnlp-lchange/"}
+    ]
+  },
+  {
+    "date": "2023-11-26",
+    "event": "reatch nanoTalks",
+    "host": "reatch",
+    "location": "Zurich, Switzerland",
+    "links": []
+  },
+  {
+    "date": "2023-11-03",
+    "event": "Natural Language Processing Seminar",
+    "host": "University of Groningen",
+    "location": "Groningen, Netherlands",
+    "links": []
+  },
+  {
+    "date": "2023-07-26",
+    "event": "Explainable Machine Learning Lab",
+    "host": "University of Tubingen",
+    "location": "Tubingen, Germany",
+    "links": []
+  },
+  {
+    "date": "2023-07-13",
+    "event": "Cognitive Lexicon Laboratory",
+    "host": "University of Toronto",
+    "location": "Toronto, Canada",
+    "links": []
+  },
+  {
+    "date": "2023-06-29",
+    "event": "COLT Seminar",
+    "host": "Universitat Pompeu Fabra",
+    "location": "Barcelona, Spain",
+    "links": []
+  },
+  {
+    "date": "2023-05-31",
+    "event": "ILCC Seminar",
+    "host": "School of Informatics, University of Edinburgh",
+    "location": "Edinburgh, UK",
+    "links": []
+  },
+  {
+    "date": "2023-05-03",
+    "event": "Rycolab",
+    "host": "ETH Zurich",
+    "location": "Zurich, Switzerland",
+    "links": []
+  },
+  {
+    "date": "2022-10-27",
+    "event": "Inria and Loria seminar",
+    "host": "Inria and Loria",
+    "location": "Nancy, France",
+    "links": [
+      {"label": "Abstract", "url": "https://www.loria.fr/event/department-4-seminar-mario-giulianelli/"}
+    ]
+  },
+  {
+    "date": "2022-10-12",
+    "event": "School of Natural and Computing Sciences seminar",
+    "host": "University of Aberdeen",
+    "location": "Aberdeen, UK",
+    "links": [
+      {"label": "Abstract", "url": "https://www.abdn.ac.uk/ncs/seminars/17943/"}
+    ]
+  },
+  {
+    "date": "2022-09-21",
+    "event": "Guest lecture, Advanced Information Retrieval (MSc AI and Informatics)",
+    "host": "University of Amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "links": [
+      {"label": "Slides", "url": "grounded_dialogue_modelling_21sept2022.pdf"}
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "event": "Language Technology Group Seminar",
+    "host": "University of Oslo",
+    "location": "Oslo, Norway",
+    "links": [
+      {"label": "Event", "url": "https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/"}
+    ]
+  },
+  {
+    "date": "2021-10-05",
+    "event": "Computational Linguistic Seminar",
+    "host": "Institute for Logic, Language and Computation, University of Amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "links": []
+  },
+  {
+    "date": "2021-06-29",
+    "event": "Cognitive Machine Learning Lab",
+    "host": "Ecole Normale Superieure",
+    "location": "Paris, France",
+    "links": []
+  },
+  {
+    "date": "2021-06-17",
+    "event": "AILC Lectures on Computational Linguistics",
+    "host": "Universita Tor Vergata",
+    "location": "Rome, Italy",
+    "links": []
+  },
+  {
+    "date": "2020-11-18",
+    "event": "Guest lecture, NLP 1 (MSc AI course)",
+    "host": "University of Amsterdam",
+    "location": "Online",
+    "links": []
+  },
+  {
+    "date": "2020-11-05",
+    "event": "Symposium on Meaning Variation in Social Contexts",
+    "host": "Institute for Logic, Language and Computation",
+    "location": "Amsterdam, Netherlands",
+    "links": []
+  },
+  {
+    "date": "2020-10-26",
+    "event": "NLPitch",
+    "host": "Institute for Logic, Language and Computation, University of Amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "links": []
+  },
+  {
+    "date": "2020-05-01",
+    "event": "Cognitive Science and Artificial Intelligence PhD Group",
+    "host": "Tilburg University",
+    "location": "Tilburg, Netherlands",
+    "links": []
+  },
+  {
+    "date": "2019-02-01",
+    "event": "Cool Logic Seminar",
+    "host": "Institute for Logic, Language and Computation",
+    "location": "Amsterdam, Netherlands",
+    "links": []
+  }
+]

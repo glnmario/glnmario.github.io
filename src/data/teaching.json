@@ -1,0 +1,56 @@
+{
+  "roles": [
+    {
+      "title": "MA Linguistics with a Specialisation in Computational Linguistics",
+      "subtitle": "Programme director",
+      "description": "I direct the UCL Computational Linguistics Master's programme and contribute to teaching and mentoring."
+    }
+  ],
+  "courses": [
+    {
+      "title": "Introduction to Computational Linguistics (PLIN0034)",
+      "subtitle": "2025-2026 · University College London · Master's level",
+      "description": "An introduction to core methods in computational linguistics, starting from Python and mathematics fundamentals and moving to modelling approaches. Topics include edit distance (dynamic programming), regular expressions, and basic probability theory, followed by (n-gram) language modelling, regression and maximum entropy classifiers, sequence labelling with hidden Markov models, context-free grammars and probabilistic parsing. Taken by students in Computational Linguistics, Language Sciences, Cognitive and Decision Sciences, Philosophy, and Computer Science."
+    },
+    {
+      "title": "Advanced Computational Linguistics (PLIN0072)",
+      "subtitle": "2025-2026 · University College London · Master's level",
+      "description": "A follow-on course focused on modern machine learning approaches to language processing. Topics include linear models and linear algebra, feedforward neural networks, distributional word representations, sequence modelling with recurrent networks, and transformer architectures. The course also covers language modelling training objectives, uncertainty and decision-making, NLP evaluation and interpretability, multimodal and grounded language models. It includes a research project in computational linguistics or natural language processing. This course is also taken by students across Computational Linguistics, Language Sciences, Cognitive and Decision Sciences, Philosophy, and Computer Science."
+    },
+    {
+      "title": "Building ML and AI Applications",
+      "subtitle": "2023-2024 · ETH Zurich · Certificate of Advanced Studies in Artificial Intelligence and Software Development",
+      "description": "A course on NLP and Computer Vision applications of foundation models. Topics include generalisation in machine learning, grounding and multi-modal machine learning. Includes three large programming assignments."
+    }
+  ],
+  "supervision": {
+    "title": "Supervision and mentoring",
+    "description": "I welcome inquiries from students and researchers whose interests align with my work on language, cognition, interaction, and AI evaluation. Before getting in touch, please indicate clearly the area you would like to work on and include a brief research proposal. General inquiries are unlikely to receive a response."
+  },
+  "opportunities": [
+    {
+      "title": "UCL Research Excellence Scholarship",
+      "url": "https://www.ucl.ac.uk/scholarships/research-excellence-scholarship"
+    },
+    {
+      "title": "UCL Research Opportunity Scholarship",
+      "url": "https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship"
+    },
+    {
+      "title": "UCL Linguistics MPhil/PhD",
+      "url": "https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd"
+    },
+    {
+      "title": "UCL Foundational Artificial Intelligence MPhil/PhD",
+      "url": "https://www.ucl.ac.uk/foundational-ai-cdt/"
+    },
+    {
+      "title": "Gatsby Unit PhD Programme",
+      "url": "https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme"
+    },
+    {
+      "title": "UCL studentships information",
+      "url": "https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+[
+  {
+    "section": "in-progress",
+    "year": 2026,
+    "selected": false,
+    "authors": "Raghu Arghal, Fade Chen, Niall Dalton, Evgenii Kortukov, Calum McNamara, Angelos Nalmpantis, Moksh Nirvaan, Gabriele Sarti, Mario Giulianelli",
+    "title": "A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents",
+    "venue": "Preprint",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.48550/arXiv.2602.08964"}
+    ]
+  },
+  {
+    "section": "in-progress",
+    "year": 2026,
+    "selected": false,
+    "authors": "Goncalo Guiomar, Elia Torre, Pehuen Moure, Victoria Shavina, Mario Giulianelli, Shih-Chii Liu, Valerio Mante",
+    "title": "Reasoning aligns language models to human cognition",
+    "venue": "Preprint",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.48550/arXiv.2602.08693"}
+    ]
+  },
+  {
+    "section": "in-progress",
+    "year": 2025,
+    "selected": false,
+    "authors": "Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec",
+    "title": "Skewed Score: A statistical framework to assess autograders",
+    "venue": "Preprint",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.48550/arXiv.2507.03772"}
+    ]
+  },
+  {
+    "section": "in-progress",
+    "year": 2025,
+    "selected": false,
+    "authors": "Tianyu Liu, Francesco Ignazio Re, Mario Giulianelli, Alessandro Torcinovich",
+    "title": "Evaluating LLMs in Games with Strategic Behavior Discrepancies",
+    "venue": "The 5th Wordplay Workshop: When Language Meets Games @ EMNLP 2025",
+    "links": []
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": true,
+    "authors": "Mario Giulianelli, Sarenne Wallbridge, Ryan Cotterell, Raquel Fernandez",
+    "title": "Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction",
+    "venue": "Journal of Memory and Language",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.1016/j.jml.2025.104715"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Nina Tahmasebi, Andrey Kutuzov, Haim Dubossarsky, Mario Giulianelli",
+    "title": "Diachronic Lexical Semantics with Computational Models",
+    "venue": "The Wiley Blackwell Companion to Diachronic Linguistics. John Wiley & Sons",
+    "links": []
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Matteo Gay, Coleman Haley, Mario Giulianelli, Edoardo Ponti",
+    "title": "Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?",
+    "venue": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2026.eacl-long.178/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Bryan Eikema, Anna Rutkiewicz, Mario Giulianelli",
+    "title": "Structure-Conditional Minimum Bayes Risk Decoding",
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.emnlp-main.1616/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": true,
+    "authors": "Christopher Summerfield, Lennart Luettgau, Magda Dubois, Hannah Rose Kirk, Kobi Hackenburg, Catherine Fist, Katarina Slama, Nicola Ding, Rebecca Anselmetti, Andrew Strait, Mario Giulianelli, Cozmin Ududec",
+    "title": "Lessons from a Chimp: AI \"Scheming\" and the Quest for Ape Language",
+    "venue": "Preprint",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.48550/arXiv.2507.03409"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellerman, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang",
+    "title": "Establishing Best Practices for Building Rigorous Agentic Benchmarks",
+    "venue": "NeurIPS 2025 Datasets and Benchmarks",
+    "links": [
+      {"label": "PDF", "url": "https://neurips.cc/virtual/2025/loc/san-diego/poster/121769"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Nicola Horst, Davide Mazzaccara, Antonia Schmidt, Michael Sullivan, Filippo Momente, Luca Franceschetti, Philipp Sadler, Sherzod Hakimov, Alberto Testoni, Raffaella Bernardi, Raquel Fernandez, Alexander Koller, Oliver Lemon, David Schlangen, Mario Giulianelli, Alessandro Suglia",
+    "title": "Playpen: An Environment for Exploring Learning Through Conversational Interaction",
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.emnlp-main.1517/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Filippo Momente, Alessandro Suglia, Mario Giulianelli, Ambra Ferrari, Alexander Koller, Oliver Lemon, David Schlangen, Raquel Fernandez, Raffaella Bernardi",
+    "title": "Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.findings-emnlp.1092/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": true,
+    "authors": "Eleftheria Tsipidi, Samuel Kiegeland, Franz Nowak, Tianyang Xu, Ethan Wilcox, Alex Warstadt, Ryan Cotterell, Mario Giulianelli",
+    "title": "The Harmonic Structure of Information Contours",
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.acl-long.1527/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Taiga Someya, Anej Svete, Brian DuSell, Timothy J. O'Donnell, Mario Giulianelli, Ryan Cotterell",
+    "title": "Information Locality as an Inductive Bias for Neural Language Models",
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    "note": "🏆 Panel (top 0.8%)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.acl-long.1357/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Francesco Ignazio Re, Andreas Opedal, Glib Manaiev, Mario Giulianelli, Ryan Cotterell",
+    "title": "A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior",
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.acl-long.1474/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernandez, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, Andre FT Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni",
+    "title": "LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks",
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2025.acl-short.20/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Tim Vieira, Ben LeBrun, Mario Giulianelli, Juan Luis Gastaldi, Brian DuSell, John Terilla, Timothy J. O'Donnell, Ryan Cotterell",
+    "title": "From Language Models over Tokens to Language Models over Characters",
+    "venue": "Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)",
+    "note": "🏆 Spotlight (top 2.6%)",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.48550/arXiv.2412.03719"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2025,
+    "selected": false,
+    "authors": "Tim Vieira, Tianyu Liu, Clemente Pasti, Yahya Emara, Brian DuSell, Benjamin LeBrun, Mario Giulianelli, Juan Luis Gastaldi, John Terilla, Timothy O'Donnell, Ryan Cotterell",
+    "title": "Language Models over Canonical Byte-Pair Encodings",
+    "venue": "Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)",
+    "links": [
+      {"label": "PDF", "url": "https://doi.org/10.48550/arXiv.2506.07956"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": true,
+    "authors": "Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, Ryan Cotterell",
+    "title": "On the Proper Treatment of Tokenization in Psycholinguistics",
+    "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2024.emnlp-main.1032/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": true,
+    "authors": "Mario Giulianelli, Andreas Opedal, Ryan Cotterell",
+    "title": "Generalized Measures of Anticipation and Responsivity in Online Language Processing",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2024.findings-emnlp.682.pdf"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": false,
+    "authors": "Clara Meister, Mario Giulianelli, Tiago Pimentel",
+    "title": "Towards a Similarity-aware Surprisal Theory",
+    "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2024.emnlp-main.921/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": false,
+    "authors": "Eleftheria Tsipidi, Franz Nowak, Ryan Cotterell, Ethan Wilcox, Mario Giulianelli, Alex Warstadt",
+    "title": "Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse",
+    "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2024.emnlp-main.1047/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": false,
+    "authors": "Jun Sen Yee, Mario Giulianelli, Arabella Sinclair",
+    "title": "Efficiency and Effectiveness in Task-Oriented Dialogue: On Construction Repetition, Information Rate, and Task Success",
+    "venue": "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2024.lrec-main.494/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": false,
+    "authors": "Ivar Frisch and Mario Giulianelli",
+    "title": "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models",
+    "venue": "Proceedings of the 1st Personalization of Generative AI Workshop (EACL)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2024.personalize-1.9/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2024,
+    "selected": false,
+    "authors": "Iris Luden, Mario Giulianelli, and Raquel Fernandez",
+    "title": "Beyond Perplexity: Examining Temporal Generalization in Large Language Models via Definition Generation",
+    "venue": "Computational Linguistics in the Netherlands Journal 13 (CLIN)",
+    "links": []
+  },
+  {
+    "section": "publication",
+    "year": 2023,
+    "selected": true,
+    "authors": "Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, et al.",
+    "title": "A taxonomy and review of generalization research in NLP",
+    "venue": "Nature Machine Intelligence 5, 1161-1174",
+    "links": [
+      {"label": "PDF", "url": "https://www.nature.com/articles/s42256-023-00729-y"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2023,
+    "selected": false,
+    "authors": "Mario Giulianelli, Sarenne Wallbridge, Raquel Fernandez",
+    "title": "Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives",
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2023.emnlp-main.343/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2023,
+    "selected": false,
+    "authors": "Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernandez, Barbara Plank",
+    "title": "What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability",
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2023.emnlp-main.887/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2023,
+    "selected": false,
+    "authors": "Aron Molnar, Jaap Jumelet, Mario Giulianelli, Arabella Sinclair",
+    "title": "Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue",
+    "venue": "Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL 2023)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2023.conll-1.18/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2023,
+    "selected": false,
+    "authors": "Mario Giulianelli, Iris Luden, Raquel Fernandez, Andrey Kutuzov",
+    "title": "Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis",
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2023.acl-long.176/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2023,
+    "selected": false,
+    "authors": "Ece Takmaz, Nicolo Brandizzi, Mario Giulianelli, Sandro Pezzelle, Raquel Fernandez",
+    "title": "Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind",
+    "venue": "Findings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2023.findings-acl.258/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2022,
+    "selected": false,
+    "authors": "Mario Giulianelli",
+    "title": "Towards Pragmatic Production Strategies for Natural Language Generation",
+    "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2022.emnlp-main.544/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2022,
+    "selected": false,
+    "authors": "Mario Giulianelli, Arabella Sinclair, Raquel Fernandez",
+    "title": "Construction Repetition Reduces Information Rate in Dialogue",
+    "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2022.aacl-main.51"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2022,
+    "selected": false,
+    "authors": "Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova",
+    "title": "Do Not Fire the Linguist: Grammatical Profiles Help Language Models Detect Semantic Change",
+    "venue": "Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2022.lchange-1.6/"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2022,
+    "selected": false,
+    "authors": "Samuel Ryb, Mario Giulianelli, Arabella Sinclair, Raquel Fernandez",
+    "title": "AnaLog: Testing Analytical and Deductive Logic Learnability in Language Models",
+    "venue": "Proceedings of *SEM 2022: The 11th Joint Conference on Lexical and Computational Semantics",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2022.starsem-1.5/"},
+      {"label": "Dataset", "url": "https://github.com/dmg-illc/analog"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2022,
+    "selected": false,
+    "authors": "With many collaborators :)",
+    "title": "Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models",
+    "venue": "Transactions of Machine Learning Research",
+    "links": [
+      {"label": "PDF", "url": "https://arxiv.org/abs/2206.04615"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2021,
+    "selected": false,
+    "authors": "Mario Giulianelli, Arabella Sinclair, Raquel Fernandez",
+    "title": "Is Information Density Uniform in Task-Oriented Dialogues?",
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2021.emnlp-main.652/"},
+      {"label": "Code", "url": "https://github.com/dmg-illc/uid-dialogue"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2021,
+    "selected": false,
+    "authors": "Mario Giulianelli and Raquel Fernandez",
+    "title": "Analysing Human Strategies of Information Transmission as a Function of Discourse Context",
+    "venue": "Proceedings of the 25th Conference on Computational Natural Language Learning (CoNLL 2021)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2021.conll-1.50/"},
+      {"label": "Code", "url": "https://github.com/dmg-illc/uid-dialogue"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2021,
+    "selected": false,
+    "authors": "Mario Giulianelli, Andrey Kutuzov, Lidia Pivovarova",
+    "title": "Grammatical Profiling for Semantic Change Detection",
+    "venue": "Proceedings of the 25th Conference on Computational Natural Language Learning (CoNLL 2021)",
+    "links": [
+      {"label": "PDF", "url": "https://aclanthology.org/2021.conll-1.33/"},
+      {"label": "Code", "url": "https://github.com/glnmario/semchange-profiling"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2020,
+    "selected": false,
+    "authors": "Mario Giulianelli, Marco Del Tredici, Raquel Fernandez",
+    "title": "Analysing Lexical Semantic Change with Contextualised Word Representations",
+    "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)",
+    "links": [
+      {"label": "PDF", "url": "https://www.aclweb.org/anthology/2020.acl-main.365/"},
+      {"label": "Code", "url": "https://github.com/glnmario/cwr4lsc"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2020,
+    "selected": false,
+    "authors": "Andrey Kutuzov and Mario Giulianelli",
+    "title": "UiO-UvA at SemEval-2020 Task 1: Contextualised Embeddings for Lexical Semantic Change Detection",
+    "venue": "Proceedings of the 14th International Workshop on Semantic Evaluation (SemEval 2020)",
+    "links": [
+      {"label": "PDF", "url": "https://arxiv.org/abs/2005.00050"},
+      {"label": "Code", "url": "https://github.com/akutuzov/semeval2020"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2020,
+    "selected": false,
+    "authors": "Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair, Raquel Fernandez",
+    "title": "Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts",
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)",
+    "links": [
+      {"label": "PDF", "url": "https://www.aclweb.org/anthology/2020.emnlp-main.353/"},
+      {"label": "Code", "url": "https://github.com/dmg-photobook/ref-gen-photobook"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2018,
+    "selected": true,
+    "authors": "Mario Giulianelli, Jacqueline Harding, Florian Mohnert, Dieuwke Hupkes, Willem Zuidema",
+    "title": "Under the Hood: Using Diagnostic Classifiers to Investigate and Improve how Language Models Track Agreement Information",
+    "venue": "1st Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP 2018)",
+    "note": "🏆 Best Paper Award",
+    "links": [
+      {"label": "PDF", "url": "https://arxiv.org/abs/1808.08079"},
+      {"label": "Code", "url": "https://github.com/glnmario/under-the-hood"}
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2018,
+    "selected": false,
+    "authors": "Mario Giulianelli and Daniel de Kok",
+    "title": "Semi-supervised emotion lexicon expansion with label propagation",
+    "venue": "Computational Linguistics in the Netherlands Journal 8 (CLIN)",
+    "links": [
+      {"label": "PDF", "url": "https://clinjournal.org/clinj/article/view/82"},
+      {"label": "Code", "url": "https://github.com/glnmario/emo2vec"}
+    ]
+  },
+  {
+    "section": "thesis",
+    "year": 2023,
+    "selected": false,
+    "authors": "Mario Giulianelli",
+    "title": "Neural Models of Language Use",
+    "venue": "PhD thesis",
+    "links": [
+      {"label": "PDF", "url": "https://eprints.illc.uva.nl/id/eprint/2274/1/DS-2023-10.text.pdf"}
+    ]
+  },
+  {
+    "section": "thesis",
+    "year": 2019,
+    "selected": false,
+    "authors": "Mario Giulianelli",
+    "title": "Lexical Semantic Change Analysis with Contextualised Word Representations",
+    "venue": "Master's thesis",
+    "links": [
+      {"label": "PDF", "url": "documents/mscthesis.pdf"}
+    ]
+  },
+  {
+    "section": "thesis",
+    "year": 2017,
+    "selected": false,
+    "authors": "Mario Giulianelli",
+    "title": "Semi-supervised emotion lexicon expansion with label propagation and specialized word embeddings",
+    "venue": "Bachelor's thesis",
+    "links": [
+      {"label": "PDF", "url": "https://arxiv.org/pdf/1708.03910.pdf"}
+    ]
+  }
+]

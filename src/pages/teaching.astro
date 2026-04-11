@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+import teaching from "../data/teaching.json";
+---
+
+<BaseLayout title="Teaching" sideBarActiveItemID="teaching">
+  <div class="mb-5 mt-5">
+    <div class="text-3xl font-bold">Teaching</div>
+  </div>
+
+  <div class="mb-8 text-base-content/80">{teaching.intro}</div>
+
+  <div class="mb-5">
+    <div class="text-2xl font-bold">Roles</div>
+  </div>
+  <div class="time-line-container grid gap-4 mb-10">
+    {teaching.roles.map((role: {title: string; subtitle: string; description: string}) => (
+      <TimeLineElement title={role.title} subtitle={role.subtitle}>
+        {role.description}
+      </TimeLineElement>
+    ))}
+  </div>
+
+  <div class="mb-5">
+    <div class="text-2xl font-bold">Courses</div>
+  </div>
+  <div class="time-line-container grid gap-4 mb-10">
+    {teaching.courses.map((course: {title: string; subtitle: string; description: string}) => (
+      <TimeLineElement title={course.title} subtitle={course.subtitle}>
+        {course.description}
+      </TimeLineElement>
+    ))}
+  </div>
+
+</BaseLayout>

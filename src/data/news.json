@@ -1,0 +1,60 @@
+[
+  {
+    "date": "April 2026",
+    "headline": "Presenting goal-directedness work at two ICLR 2026 workshops",
+    "summary": "We will present our work on behavioural and representational evaluation of goal-directedness in LLM agents at the <a href=\"https://sites.google.com/view/iclr-2026-workshop-world-model/home\" target=\"_blank\" class=\"link underline decoration-dotted underline-offset-2\">ICLR 2026 Workshop on World Models</a> and at <a href=\"https://agentwild-workshop.github.io\" target=\"_blank\" class=\"link underline decoration-dotted underline-offset-2\">Agents in the Wild: Safety, Security, and Beyond</a>.",
+    "links": [
+      { "label": "Preprint", "url": "https://arxiv.org/pdf/2602.08964" }
+    ]
+  },
+  {
+    "date": "March 2026",
+    "headline": "Call for papers: LM Playschool Workshop and Challenge",
+    "summary": "We have announced the call for papers for the LM Playschool Workshop and Challenge. We invite submissions exploring the frontier of language agents that learn, adapt, and improve through situated interaction, with a focus on conversational, collaborative, goal-oriented, and multi-turn environments.",
+    "links": [
+      { "label": "Call for papers", "url": "https://lm-playschool.github.io/cfp/" },
+      { "label": "LM Playschool Workshop", "url": "https://lm-playschool.github.io" }
+    ]
+  },
+  {
+    "date": "February 2026",
+    "headline": "Two new preprints on LLM agents in extra-linguistic tasks",
+    "summary": "New work on evaluating language model agents (1) with a combination of behavioural and representational analyses of goal-directedness; (2) with a new active probabilistic reasoning task (inspired from cognitive neuroscience) that isolates two core elements of decision-making under uncertainty: sampling and inference.",
+    "links": [
+      { "label": "Goal-directedness preprint", "url": "https://arxiv.org/pdf/2602.08964" },
+      { "label": "Reasoning preprint", "url": "https://arxiv.org/pdf/2602.08693" }
+    ]
+  },
+  {
+    "date": "February 2026",
+    "headline": "Paper accepted at EACL 2026",
+    "summary": "Work with collaborators from Edinburgh on extending information-theoretic models of language production to visually grounded settings was accepted at EACL 2026.",
+    "links": [
+      { "label": "Paper: \"Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?\"", "url": "https://aclanthology.org/2026.eacl-long.178/" }
+    ]
+  },
+  {
+    "date": "Autumn 2025",
+    "headline": "Grants and SPAR mentorship supporting agent-evaluation work",
+    "summary": "A Cohere Labs Catalyst Grant, a Cosmos Grant, and a SPAR cohort are supporting new work on modelling, measuring, and intervening on goal-directedness and emergent self-interest in LLM agents.",
+    "links": [
+      { "label": "SPAR", "url": "https://sparai.org/" },
+      { "label": "Project Telos post", "url": "https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link" }
+    ]
+  },
+  {
+    "date": "September 2025",
+    "headline": "Joining UCL",
+    "summary": "Joined UCL as an Associate Professor of Computational Linguistics.",
+    "links": []
+  },
+  {
+    "date": "2025",
+    "headline": "ACL and ICML results",
+    "summary": "Four papers accepted at ACL and two at ICML, including an ICML Spotlight on converting token-level language models to character-level ones.",
+    "links": [
+      { "label": "ICML Spotlight paper", "url": "https://doi.org/10.48550/arXiv.2412.03719" },
+      { "label": "ACL panel paper", "url": "https://aclanthology.org/2025.acl-long.1357/" }
+    ]
+  }
+]

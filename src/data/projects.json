@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Project Telos: Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI systems",
+    "short_label": "Telos",
+    "featured": true,
+    "status": "Ongoing",
+    "period": "2025-2026",
+    "summary": "A research programme on modelling, measuring, and intervening on goal-directed behaviour in language model agents.",
+    "description": "Project Telos develops a general framework for detecting and measuring goal-directedness in AI sytems agents—an essential step for solving the alignment problem—by combining behavioural and representational analyses. Our aim is to enable high-confidence claims about which goals an AI is pursuing, and how consistently it acts towards them. Funded by SPAR and Cohere.",
+    "image": null,
+    "image_alt": null,
+    "links": [
+      {
+        "label": "Preprint",
+        "url": "https://doi.org/10.48550/arXiv.2602.08964"
+      },
+      {
+        "label": "Introductory post",
+        "url": "https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link"
+      }
+    ]
+  },
+  {
+    "title": "LM Playschool Workshop & Challenge",
+    "short_label": "LM Playschool",
+    "featured": true,
+    "status": "Ongoing",
+    "period": "2026",
+    "summary": "A workshop and challenge exploring the frontier of language agents that learn, adapt, and improve through situated interaction.",
+    "description": "The LM Playschool Workshop and Challenge invites submissions on language agents that learn, adapt, and improve through situated interaction, with a focus on conversational, collaborative, goal-oriented, and multi-turn environments. A collaboration between ELLIS Units at UCL, Edinburgh, Amsterdam, Potsdam, Saarland, Bozen-Bolzano, and Amazon.",
+    "image": null,
+    "image_alt": null,
+    "links": [
+      { "label": "Workshop site", "url": "https://lm-playschool.github.io" },
+      { "label": "Call for papers", "url": "https://lm-playschool.github.io/cfp/" }
+    ]
+  }
+]

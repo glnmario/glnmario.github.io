@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import publications from "../data/publications.json";
+
+const inProgress = publications.filter((p) => p.section === "in-progress").sort((a, b) => b.year - a.year);
+const published = publications.filter((p) => p.section === "publication").sort((a, b) => b.year - a.year);
+const theses = publications.filter((p) => p.section === "thesis").sort((a, b) => b.year - a.year);
+
+// Group published by year
+const byYear: Record<number, typeof published> = {};
+[...inProgress, ...published].forEach((p) => {
+  if (!byYear[p.year]) byYear[p.year] = [];
+  byYear[p.year].push(p);
+});
+const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+---
+
+<BaseLayout title="Publications" sideBarActiveItemID="publications">
+  <div class="mb-5 mt-5">
+    <div class="text-3xl font-bold">Publications</div>
+  </div>
+
+  {years.map((year) => (
+    <div class="mb-6">
+      <div class="text-lg font-semibold text-base-content/50 mb-3">{year}</div>
+      {byYear[year].map((pub) => (
+        <div class="mb-4 pl-4 border-l-2 border-base-300">
+          <div class="font-medium leading-snug mb-0.5">
+            {pub.links && pub.links.length > 0
+              ? <a href={pub.links[0].url} target="_blank" class="hover:underline">{pub.title}</a>
+              : pub.title}
+          </div>
+          <div class="text-sm text-base-content/70">{pub.authors}</div>
+          <div class="text-sm italic text-base-content/60">{pub.venue}</div>
+          {pub.note && <div class="text-xs text-error mt-0.5">{pub.note}</div>}
+          {pub.links && pub.links.length > 1 && (
+            <div class="flex flex-wrap gap-2 mt-1">
+              {pub.links.slice(1).map((link: {url: string; label: string}) => (
+                <a href={link.url} target="_blank" class="link link-primary text-xs">{link.label}</a>
+              ))}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  ))}
+
+  {theses.length > 0 && (
+    <>
+      <div class="divider my-4"></div>
+      <div class="mb-5">
+        <div class="text-2xl font-bold mb-4">Dissertations</div>
+        {theses.map((pub) => (
+          <div class="mb-4 pl-4 border-l-2 border-base-300">
+            <div class="font-medium leading-snug mb-0.5">
+              {pub.links && pub.links.length > 0
+                ? <a href={pub.links[0].url} target="_blank" class="hover:underline">{pub.title}</a>
+                : pub.title}
+            </div>
+            <div class="text-sm text-base-content/70">{pub.authors}</div>
+            <div class="text-sm italic text-base-content/60">{pub.venue} · {pub.year}</div>
+            {pub.links && pub.links.length > 1 && (
+              <div class="flex flex-wrap gap-2 mt-1">
+                {pub.links.slice(1).map((link: {url: string; label: string}) => (
+                  <a href={link.url} target="_blank" class="link link-primary text-xs">{link.label}</a>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+</BaseLayout>
