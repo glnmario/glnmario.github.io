@@ -120,22 +120,22 @@
       "url": "https://kortukov.github.io"
     },
     {
-      "name": "Raghu Arghal",
-      "affiliation": "PhD in AI and Game Theory, University of Pennsylvania",
-      "photo": "/photos/raghu-arghal.jpeg",
-      "url": null
-    },
-    {
       "name": "Fade Chen",
-      "affiliation": "PhD in Cognitive Science, New York University",
+      "subrole": "PhD in Cognitive Science, New York University",
       "photo": null,
       "url": null
     }
   ],
   "collaborators": [
     {
+      "name": "Raghu Arghal",
+      "affiliation": "PhD in AI and Game Theory, University of Pennsylvania",
+      "photo": "/photos/raghu-arghal.jpeg",
+      "url": null
+    },
+    {
       "name": "Gabriele Sarti",
-      "affiliation": "Postdoc, Khoury College of Computer Sciences, Northeastern University",
+      "affiliation": "Postdoc at Khoury College of Computer Sciences, Northeastern University",
       "photo": "/photos/gabriele-sarti.jpg",
       "url": "https://gsarti.com"
     },
