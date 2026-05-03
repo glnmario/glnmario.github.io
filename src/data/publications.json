@@ -1,11 +1,11 @@
 [
   {
-    "section": "in-progress",
+    "section": "publication",
     "year": 2026,
-    "selected": false,
+    "selected": true,
     "authors": "Raghu Arghal, Fade Chen, Niall Dalton, Evgenii Kortukov, Calum McNamara, Angelos Nalmpantis, Moksh Nirvaan, Gabriele Sarti, Mario Giulianelli",
     "title": "A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents",
-    "venue": "Preprint",
+    "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)",
     "links": [
       {
         "label": "PDF",
@@ -28,12 +28,12 @@
     ]
   },
   {
-    "section": "in-progress",
-    "year": 2025,
+    "section": "publication",
+    "year": 2026,
     "selected": false,
     "authors": "Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec",
     "title": "Skewed Score: A statistical framework to assess autograders",
-    "venue": "Preprint",
+    "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)",
     "links": [
       {
         "label": "PDF",
@@ -48,6 +48,30 @@
     "authors": "Tianyu Liu, Francesco Ignazio Re, Mario Giulianelli, Alessandro Torcinovich",
     "title": "Evaluating LLMs in Games with Strategic Behavior Discrepancies",
     "venue": "The 5th Wordplay Workshop: When Language Meets Games @ EMNLP 2025",
+    "links": []
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Eleftheria Tsipidi, Samuel Kiegeland, Francesco Ignazio Re, Tianyang Xu, Mario Giulianelli, Karolina Stanczak, Ryan Cotterell",
+    "title": "Probing for Reading Times",
+    "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+    "note": "🏆 Oral",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://doi.org/10.48550/arXiv.2604.18712"
+      }
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Tom Utting, Mario Giulianelli, Arabella Sincalair",
+    "title": "Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue",
+    "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
     "links": []
   },
   {

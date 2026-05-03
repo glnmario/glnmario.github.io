@@ -1,10 +1,19 @@
 [
-  {
-    "date": "April 2026",
-    "headline": "Presenting goal-directedness work at two ICLR 2026 workshops",
-    "summary": "We will present our work on behavioural and representational evaluation of goal-directedness in LLM agents at the <a href=\"https://sites.google.com/view/iclr-2026-workshop-world-model/home\" target=\"_blank\" class=\"link underline decoration-dotted underline-offset-2\">ICLR 2026 Workshop on World Models</a> and at <a href=\"https://agentwild-workshop.github.io\" target=\"_blank\" class=\"link underline decoration-dotted underline-offset-2\">Agents in the Wild: Safety, Security, and Beyond</a>.",
+    {
+    "date": "May 2026",
+    "headline": "Two papers accepted at ICML 2026!",
+    "summary": "Two papers were accepted at ICML 2026: <em>A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents</em>, which combines behavioural evaluation with probing analyses of internal representations to study how LLM agents represent and pursue goals, and <em>Skewed Score: A statistical framework to assess autograders</em>, which introduces a Bayesian statistical framework for measuring autograder bias, disagreement, and uncertainty in LLM evaluation.",
     "links": [
-      { "label": "Preprint", "url": "https://arxiv.org/pdf/2602.08964" }
+      { "label": "Goal-directedness preprint", "url": "https://doi.org/10.48550/arXiv.2602.08964" },
+      { "label": "Skewed Score preprint", "url": "https://doi.org/10.48550/arXiv.2507.03772" }
+    ]
+  },
+  {
+    "date": "May 2026",
+    "headline": "Two papers accepted at ACL 2026!",
+    "summary": "Two papers were accepted at ACL 2026. One paper, <em>Probing for Reading Times</em>, studies whether language model representations contain signatures of human reading times. The other, <em>Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue</em>, uses a new approach to generating open-ended goal-agnostic and goal-oriented alternatives to study speaker choice sensitivity to various information-theoretic notions of comprehension and production cost. It is coming out very soon and was selected as an oral!",
+    "links": [
+      { "label": "Probing for Reading Times", "url": "https://doi.org/10.48550/arXiv.2604.18712" }
     ]
   },
   {
@@ -18,10 +27,9 @@
   },
   {
     "date": "February 2026",
-    "headline": "Two new preprints on LLM agents in extra-linguistic tasks",
-    "summary": "New work on evaluating language model agents (1) with a combination of behavioural and representational analyses of goal-directedness; (2) with a new active probabilistic reasoning task (inspired from cognitive neuroscience) that isolates two core elements of decision-making under uncertainty: sampling and inference.",
+    "headline": "New preprint on active probabilistic reasoning",
+    "summary": "New work with colleagues from ETH AI Centre and Institute of Neuroinformatics. We introduce an active probabilistic reasoning task, inspired by cognitive neuroscience, that isolates two core elements of decision-making under uncertainty -- sampling and inference -- and use it to evaluate LLMs at scale. We find that reasoning aligns the cognitive profiles of LLMs with those of humans.",
     "links": [
-      { "label": "Goal-directedness preprint", "url": "https://arxiv.org/pdf/2602.08964" },
       { "label": "Reasoning preprint", "url": "https://arxiv.org/pdf/2602.08693" }
     ]
   },
