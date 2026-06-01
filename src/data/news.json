@@ -11,9 +11,10 @@
   {
     "date": "May 2026",
     "headline": "Two papers accepted at ACL 2026!",
-    "summary": "Two papers were accepted at ACL 2026. One paper, <em>Probing for Reading Times</em>, studies whether language model representations contain signatures of human reading times. The other, <em>Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue</em>, uses a new approach to generating open-ended goal-agnostic and goal-oriented alternatives to study speaker choice sensitivity to various information-theoretic notions of comprehension and production cost. It is coming out very soon and was selected as an oral!",
+    "summary": "Two papers were accepted at ACL 2026. One paper, <em>Probing for Reading Times</em>, studies whether language model representations contain signatures of human reading times. The other, <em>Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue</em>, uses a new approach to generating open-ended goal-agnostic and goal-oriented alternatives to study speaker choice sensitivity to various information-theoretic notions of comprehension and production cost.",
     "links": [
-      { "label": "Probing for Reading Times", "url": "https://doi.org/10.48550/arXiv.2604.18712" }
+      { "label": "Probing for Reading Times", "url": "https://doi.org/10.48550/arXiv.2604.18712" },
+      { "label": "Surprisal Minimisation", "url": "https://doi.org/10.48550/arXiv.2605.00506" }
     ]
   },
   {
