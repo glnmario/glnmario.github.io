@@ -1,5 +1,11 @@
 [
     {
+    "date": "June 2026",
+    "headline": "Hiring a postdoc at UCL",
+    "summary": "I will soon be hiring a postdoctoral researcher for a two-year position at UCL. The project will combine interpretability methods with behavioural evaluations to investigate how goals and beliefs are represented in language model agents, and whether these representations can be reliably extracted and manipulated. More details will be shared soon; in the meantime, please feel free to get in touch if you are interested.",
+    "links": []
+  },
+    {
     "date": "May 2026",
     "headline": "Two papers accepted at ICML 2026!",
     "summary": "Two papers were accepted at ICML 2026: <em>A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents</em>, which combines behavioural evaluation with probing analyses of internal representations to study how LLM agents represent and pursue goals, and <em>Skewed Score: A statistical framework to assess autograders</em>, which introduces a Bayesian statistical framework for measuring autograder bias, disagreement, and uncertainty in LLM evaluation.",
