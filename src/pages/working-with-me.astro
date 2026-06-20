@@ -20,9 +20,12 @@ const postdocHiring = news.find((item) => item.headline === "Hiring a postdoc at
   <div class="divider my-4"></div>
 
   {postdocHiring && (
-    <div class="mb-8">
-      <div class="text-2xl font-bold mb-3">Postdoctoral position</div>
-      <p class="text-base-content/80" set:html={postdocHiring.summary}></p>
+    <div class="mb-8 rounded-xl border-2 border-primary/50 bg-primary/10 p-6 shadow-sm">
+      <div class="flex flex-wrap items-center gap-3 mb-3">
+        <div class="text-2xl font-bold">Postdoctoral position</div>
+        <span class="badge badge-primary badge-outline font-semibold">Open position</span>
+      </div>
+      <p class="text-base-content leading-relaxed" set:html={postdocHiring.summary}></p>
     </div>
   )}
 
