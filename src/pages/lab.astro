@@ -50,9 +50,12 @@ function byLastName(a: any, b: any) {
     <>
       <div class="text-2xl font-bold mb-4">Postdocs</div>
       {postdocHiring ? (
-        <div class="rounded-lg border border-base-300 bg-base-200/50 p-5 mb-10">
-          <div class="font-semibold mb-2">We’re hiring</div>
-          <p class="text-base-content/80" set:html={postdocHiring.summary}></p>
+        <div class="mb-10 rounded-xl border-2 border-primary/50 bg-primary/10 p-6 shadow-sm">
+          <div class="flex flex-wrap items-center gap-3 mb-3">
+            <div class="text-2xl font-bold">Postdoctoral position</div>
+            <span class="badge badge-primary badge-outline font-semibold">Open position</span>
+          </div>
+          <p class="text-base-content leading-relaxed" set:html={postdocHiring.summary}></p>
         </div>
       ) : (
         <p class="text-base-content/50 italic mb-10">This could be you — stay tuned!</p>
