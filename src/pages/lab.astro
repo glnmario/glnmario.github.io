@@ -1,6 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import people from "../data/people.json";
+import news from "../data/news.json";
+
+const postdocHiring = news.find((item) => item.headline === "Hiring a postdoc at UCL");
 
 function initials(name: string) {
   return name.split(" ").map((w) => w[0]).join("").slice(0, 2).toUpperCase();
@@ -12,9 +15,9 @@ function byLastName(a: any, b: any) {
 }
 ---
 
-<BaseLayout title="People" sideBarActiveItemID="lab">
+<BaseLayout title="Lab" sideBarActiveItemID="lab">
   <div class="mb-5 mt-5">
-    <div class="text-3xl font-bold">People</div>
+    <div class="text-3xl font-bold">Language and Information Processing Lab</div>
   </div>
 
   {/* Postdocs */}
@@ -46,7 +49,14 @@ function byLastName(a: any, b: any) {
   ) : (
     <>
       <div class="text-2xl font-bold mb-4">Postdocs</div>
-      <p class="text-base-content/50 italic mb-10">This could be you — stay tuned!</p>
+      {postdocHiring ? (
+        <div class="rounded-lg border border-base-300 bg-base-200/50 p-5 mb-10">
+          <div class="font-semibold mb-2">We’re hiring</div>
+          <p class="text-base-content/80" set:html={postdocHiring.summary}></p>
+        </div>
+      ) : (
+        <p class="text-base-content/50 italic mb-10">This could be you — stay tuned!</p>
+      )}
     </>
   )}
 
@@ -83,11 +93,11 @@ function byLastName(a: any, b: any) {
     </>
   )}
 
-  {/* Master's Students */}
+  {/* Students */}
   {people.masters_students && people.masters_students.length > 0 && (
     <>
       <div class="divider my-4"></div>
-      <div class="text-2xl font-bold mb-4">Master's Students</div>
+      <div class="text-2xl font-bold mb-4">Students</div>
       <div class="grid grid-cols-3 sm:grid-cols-4 gap-6 mb-10">
         {[...people.masters_students].filter((m: any) => !m.hidden).sort(byLastName).map((m: any) => (
           <div class="flex flex-col items-center gap-2 text-center">

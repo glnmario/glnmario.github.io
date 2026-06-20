@@ -35,6 +35,13 @@
       "photo": null,
       "url": null,
       "hidden": false
+    },
+    {
+      "name": "Guanming Liu",
+      "subrole": "Visiting from Fudan University",
+      "photo": null,
+      "url": null,
+      "hidden": false
     }
   ],
   "masters_students": [
@@ -57,42 +64,63 @@
       "subrole": "MA Computational Linguistics, UCL",
       "photo": null,
       "url": null,
-      "hidden": true
+      "hidden": false
     },
     {
       "name": "Yuyang Yang",
       "subrole": "MA Computational Linguistics, UCL",
       "photo": null,
       "url": null,
-      "hidden": true
+      "hidden": false
     },
     {
       "name": "Chenchang Xu",
       "subrole": "MA Computational Linguistics, UCL",
       "photo": null,
       "url": null,
-      "hidden": true
+      "hidden": false
     },
     {
       "name": "Noor Saleh",
       "subrole": "MA Computational Linguistics, UCL",
       "photo": null,
       "url": null,
-      "hidden": true
+      "hidden": false
     },
     {
       "name": "Caroline Swartz",
       "subrole": "MA Computational Linguistics, UCL",
-      "photo": "photos/caroline-swartz.png",
+      "photo": null,
       "url": null,
-      "hidden": true
+      "hidden": false
     },
     {
       "name": "Jiayi Chen",
       "subrole": "MA Computational Linguistics, UCL",
       "photo": null,
       "url": null,
-      "hidden": true
+      "hidden": false
+    },
+    {
+      "name": "Hannie Xu",
+      "subrole": "Student, UCL",
+      "photo": null,
+      "url": null,
+      "hidden": false
+    },
+    {
+      "name": "Alice Paulton",
+      "subrole": "Student, UCL",
+      "photo": null,
+      "url": null,
+      "hidden": false
+    },
+    {
+      "name": "Zhaoxi Zeng",
+      "subrole": "Visiting from Tsinghua University",
+      "photo": null,
+      "url": null,
+      "hidden": false
     }
   ],
   "spar_mentees": [
@@ -144,16 +172,23 @@
       "photo": "/photos/fade-chen.jpeg",
       "url": null,
       "hidden": false
-    }
-  ],
-  "collaborators": [
+    },
     {
       "name": "Raghu Arghal",
-      "affiliation": "PhD in AI and Game Theory, University of Pennsylvania",
+      "subrole": "PhD in AI and Game Theory, University of Pennsylvania",
       "photo": "/photos/raghu-arghal.jpeg",
       "url": null,
       "hidden": false
     },
+    {
+      "name": "Calum McNamara",
+      "subrole": "Assistant Professor of Philosophy, Indiana University Bloomington",
+      "photo": "/photos/calum-mcnamara.jpg",
+      "url": "https://calum-mcnamara.github.io",
+      "hidden": false
+    }
+  ],
+  "collaborators": [
     {
       "name": "Gabriele Sarti",
       "affiliation": "Postdoc at Khoury College of Computer Sciences, Northeastern University",
@@ -169,10 +204,10 @@
       "hidden": false
     },
     {
-      "name": "Calum McNamara",
-      "affiliation": "Assistant Professor of Philosophy, Indiana University Bloomington",
-      "photo": "/photos/calum-mcnamara.jpg",
-      "url": "https://calum-mcnamara.github.io",
+      "name": "Gonçalo Guiomar",
+      "affiliation": "Research Fellow at ETH AI Center and UZH-ETH Institute of Neuroinformatics",
+      "photo": "/photos/goncalo-guiomar.png",
+      "url": "https://gguiomar.github.io",
       "hidden": false
     }
   ]

@@ -1,6 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import teaching from "../data/teaching.json";
+import news from "../data/news.json";
+
+const postdocHiring = news.find((item) => item.headline === "Hiring a postdoc at UCL");
 ---
 
 <BaseLayout title="Working with me" sideBarActiveItemID="working-with-me">
@@ -13,6 +16,15 @@ import teaching from "../data/teaching.json";
     <div class="mb-4 text-base-content/80">{teaching.supervision.description}</div>
     <div class="text-sm text-base-content/60 italic">{teaching.supervision.note}</div>
   </div>
+
+  <div class="divider my-4"></div>
+
+  {postdocHiring && (
+    <div class="mb-8">
+      <div class="text-2xl font-bold mb-3">Postdoctoral position</div>
+      <p class="text-base-content/80" set:html={postdocHiring.summary}></p>
+    </div>
+  )}
 
   <div class="divider my-4"></div>
 

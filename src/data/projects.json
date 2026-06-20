@@ -1,5 +1,17 @@
 [
   {
+    "title": "Goals and Beliefs in Language Model Agents",
+    "short_label": "Goals and Beliefs",
+    "featured": true,
+    "status": "Forthcoming",
+    "period": "2026–2028",
+    "summary": "Investigating how goals and beliefs are represented in language model agents.",
+    "description": "This project combines interpretability methods with behavioural evaluations to investigate how goals and beliefs are represented in language model agents, and whether these representations can be reliably extracted and manipulated. Funded by Coefficient Giving.",
+    "image": null,
+    "image_alt": null,
+    "links": []
+  },
+  {
     "title": "Project Telos: Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI systems",
     "short_label": "Telos",
     "featured": true,
