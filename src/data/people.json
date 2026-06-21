@@ -69,14 +69,14 @@
     {
       "name": "Yuyang Yang",
       "subrole": "MA Computational Linguistics, UCL",
-      "photo": null,
+      "photo": "/photos/yuyang-yang.jpg",
       "url": null,
       "hidden": false
     },
     {
       "name": "Chenchang Xu",
       "subrole": "MA Computational Linguistics, UCL",
-      "photo": null,
+      "photo": "/photos/chenchang-xu.jpg",
       "url": null,
       "hidden": false
     },
@@ -124,6 +124,13 @@
     }
   ],
   "spar_mentees": [
+    {
+      "name": "Tongmeng Xie",
+      "subrole": null,
+      "photo": "/photos/tongmeng-xie.jpeg",
+      "url": null,
+      "hidden": false
+    },
     {
       "name": "Ayse Sila Okcu",
       "subrole": "PhD in Electrical Engineering, University of Cambridge",
