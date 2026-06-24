@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import people from "../data/people.json";
 import news from "../data/news.json";
 
-const postdocHiring = news.find((item) => item.headline === "Hiring a postdoc at UCL");
+const postdocHiring = news.find((item) => item.headline === "Hiring a Research Fellow in Machine Cognition at UCL");
 
 function initials(name: string) {
   return name.split(" ").map((w) => w[0]).join("").slice(0, 2).toUpperCase();
@@ -52,7 +52,7 @@ function byLastName(a: any, b: any) {
       {postdocHiring ? (
         <div class="mb-10 rounded-xl border-2 border-primary/50 bg-primary/10 p-6 shadow-sm">
           <div class="flex flex-wrap items-center gap-3 mb-3">
-            <div class="text-2xl font-bold">Postdoctoral position</div>
+            <div class="text-2xl font-bold">Research Fellow in Machine Cognition</div>
             <span class="badge badge-primary badge-outline font-semibold">Open position</span>
           </div>
           <p class="text-base-content leading-relaxed" set:html={postdocHiring.summary}></p>
