@@ -103,14 +103,14 @@
     },
     {
       "name": "Hannie Xu",
-      "subrole": "Student, UCL",
+      "subrole": "MA Computational Linguistics, UCL",
       "photo": "/photos/hannie-xu.jpg",
       "url": null,
       "hidden": false
     },
     {
       "name": "Alice Paulton",
-      "subrole": "Student, UCL",
+      "subrole": "BA Linguistics, UCL",
       "photo": null,
       "url": null,
       "hidden": false
@@ -126,7 +126,7 @@
   "spar_mentees": [
     {
       "name": "Tongmeng Xie",
-      "subrole": null,
+      "subrole": "ML Researcher, Algoverse",
       "photo": "/photos/tongmeng-xie.jpeg",
       "url": null,
       "hidden": false
