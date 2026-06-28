@@ -75,7 +75,7 @@
     {
       "name": "Yuyang Yang",
       "subrole": "MA Computational Linguistics, UCL",
-      "topic": "Evaluating pragmatic inference in LMs via multi-agent dialogue games",
+      "topic": "Evaluating pragmatic inference via multi-agent dialogue games",
       "photo": "/photos/yuyang-yang.jpg",
       "url": null,
       "hidden": false
@@ -123,14 +123,14 @@
     {
       "name": "Alice Paulton",
       "subrole": "BA Linguistics, UCL",
-      "topic": "LLM sensitivity to Gricean maxims",
+      "topic": "LLM sensitivity to Gricean maxims in comprehension and production tasks",
       "photo": null,
       "url": null,
       "hidden": false
     },
     {
       "name": "Zhaoxi Zeng",
-      "subrole": "Visiting from Tsinghua University",
+      "subrole": "Psychological and Cognitive Sciences, visiting from Tsinghua University",
       "topic": "Sampling strategies in active probabilistic inference",
       "photo": "/photos/zhaoxi-zeng.png",
       "url": null,
@@ -165,7 +165,7 @@
     {
       "name": "Niall Dalton",
       "subrole": "MSc in Machine Learning, University College London",
-      "topic": "Belief-action gap",
+      "topic": "Goal-directedness, Belief-action gap",
       "photo": "/photos/niall-dalton.jpeg",
       "url": "https://ndalton12.github.io",
       "hidden": false
@@ -173,7 +173,7 @@
     {
       "name": "Angelos Nalmpantis",
       "subrole": "AI Research Engineer, TKH AI",
-      "topic": "Belief-action gap",
+      "topic": "Goal-directedness, Belief-action gap",
       "photo": "/photos/angelos-nalmpantis.jpeg",
       "url": null,
       "hidden": false
@@ -205,7 +205,7 @@
     {
       "name": "Raghu Arghal",
       "subrole": "PhD in AI and Game Theory, University of Pennsylvania",
-      "topic": "Belief-action gap",
+      "topic": "Goal-directedness, Belief-action gap",
       "photo": "/photos/raghu-arghal.jpeg",
       "url": null,
       "hidden": false
