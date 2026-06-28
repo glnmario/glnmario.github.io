@@ -11,6 +11,7 @@
     {
       "name": "Leo Richter",
       "subrole": "Co-supervised with Matt Kusner and Brooks Paige",
+      "topic": "Science of AI evaluation",
       "photo": "/photos/leo-richter.jpg",
       "url": null,
       "hidden": false
@@ -18,6 +19,7 @@
     {
       "name": "Daniel Tan",
       "subrole": "Co-supervised with Brooks Paige and Dimitrios Kanoulas",
+      "topic": "LLM generalisation for AI safety",
       "photo": "/photos/daniel-tan.jpg",
       "url": "https://dtch1997.github.io",
       "hidden": false
@@ -39,6 +41,7 @@
     {
       "name": "Guanming Liu",
       "subrole": "Visiting from Fudan University",
+      "topic": "Dynamic user modelling in human-LLM interaction",
       "photo": "/photos/guanming-liu.jpg",
       "url": "https://landian60.github.io",
       "hidden": false
@@ -48,6 +51,7 @@
     {
       "name": "Tommaso Morini Bianzino",
       "subrole": "MSc Cognitive and Decision Sciences, UCL",
+      "topic": "Causal narrative understanding in humans vs. LLMs",
       "photo": "/photos/tommaso-morini-bianzino.jpeg",
       "url": null,
       "hidden": false
@@ -55,6 +59,7 @@
     {
       "name": "Joshua Hew",
       "subrole": "MSc Cognitive and Decision Sciences, UCL",
+      "topic": "Goal inference and deception detection in LLM agents",
       "photo": "/photos/joshua-hew.jpeg",
       "url": "https://j2hwz.github.io",
       "hidden": false
@@ -62,6 +67,7 @@
     {
       "name": "Aoxuan Liang",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Resilience of LM agents to conversational disturbances",
       "photo": "/photos/aoxuan-liang.jpg",
       "url": null,
       "hidden": false
@@ -69,6 +75,7 @@
     {
       "name": "Yuyang Yang",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Evaluating pragmatic inference in LMs via multi-agent dialogue games",
       "photo": "/photos/yuyang-yang.jpg",
       "url": null,
       "hidden": false
@@ -76,6 +83,7 @@
     {
       "name": "Chenchang Xu",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Metaphor modelling via incremental alternative sampling",
       "photo": "/photos/chenchang-xu.jpg",
       "url": null,
       "hidden": false
@@ -83,6 +91,7 @@
     {
       "name": "Noor Saleh",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Detecting machine-generated text via information contours",
       "photo": null,
       "url": null,
       "hidden": false
@@ -90,6 +99,7 @@
     {
       "name": "Caroline Swartz",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Pragmatic force contrasts across speech and text encoders",
       "photo": "/photos/caroline-swartz.png",
       "url": null,
       "hidden": false
@@ -97,6 +107,7 @@
     {
       "name": "Jiayi Chen",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Alternative training objectives for language models",
       "photo": null,
       "url": null,
       "hidden": false
@@ -104,6 +115,7 @@
     {
       "name": "Hannie Xu",
       "subrole": "MA Computational Linguistics, UCL",
+      "topic": "Interactive feedback mechanisms for LLM post-training",
       "photo": "/photos/hannie-xu.jpg",
       "url": null,
       "hidden": false
@@ -111,6 +123,7 @@
     {
       "name": "Alice Paulton",
       "subrole": "BA Linguistics, UCL",
+      "topic": "LLM sensitivity to Gricean maxims",
       "photo": null,
       "url": null,
       "hidden": false
@@ -118,6 +131,7 @@
     {
       "name": "Zhaoxi Zeng",
       "subrole": "Visiting from Tsinghua University",
+      "topic": "Sampling strategies in active probabilistic inference",
       "photo": "/photos/zhaoxi-zeng.png",
       "url": null,
       "hidden": false
@@ -127,6 +141,7 @@
     {
       "name": "Tongmeng Xie",
       "subrole": "ML Researcher, Algoverse",
+      "topic": "Belief-action gap",
       "photo": "/photos/tongmeng-xie.jpeg",
       "url": null,
       "hidden": false
@@ -134,6 +149,7 @@
     {
       "name": "Ayse Sila Okcu",
       "subrole": "PhD in Electrical Engineering, University of Cambridge",
+      "topic": "Belief-action gap",
       "photo": "/photos/ayse-sila-okcu.jpeg",
       "url": null,
       "hidden": false
@@ -141,6 +157,7 @@
     {
       "name": "Weisheng Wang",
       "subrole": "PhD in Mathematics, Utrecht University",
+      "topic": "Belief-action gap",
       "photo": "/photos/weisheng-wang.jpeg",
       "url": null,
       "hidden": false
@@ -148,6 +165,7 @@
     {
       "name": "Niall Dalton",
       "subrole": "MSc in Machine Learning, University College London",
+      "topic": "Belief-action gap",
       "photo": "/photos/niall-dalton.jpeg",
       "url": "https://ndalton12.github.io",
       "hidden": false
@@ -155,6 +173,7 @@
     {
       "name": "Angelos Nalmpantis",
       "subrole": "AI Research Engineer, TKH AI",
+      "topic": "Belief-action gap",
       "photo": "/photos/angelos-nalmpantis.jpeg",
       "url": null,
       "hidden": false
@@ -162,6 +181,7 @@
     {
       "name": "Moksh Nirvaan",
       "subrole": "ML Engineer, Amazon Search",
+      "topic": "Goal-directedness",
       "photo": "/photos/moksh-nirvaan.png",
       "url": "https://www.lesswrong.com/users/moksh-nirvaan",
       "hidden": false
@@ -169,6 +189,7 @@
     {
       "name": "Evgenii Kortukov",
       "subrole": "PhD in Explainable AI, Fraunhofer Heinrich-Hertz-Institut",
+      "topic": "Goal-directedness",
       "photo": "/photos/evgenii-kortukov.jpg",
       "url": "https://kortukov.github.io",
       "hidden": false
@@ -176,6 +197,7 @@
     {
       "name": "Fade Chen",
       "subrole": "PhD in Cognitive Science, New York University",
+      "topic": "Goal-directedness",
       "photo": "/photos/fade-chen.jpeg",
       "url": null,
       "hidden": false
@@ -183,6 +205,7 @@
     {
       "name": "Raghu Arghal",
       "subrole": "PhD in AI and Game Theory, University of Pennsylvania",
+      "topic": "Belief-action gap",
       "photo": "/photos/raghu-arghal.jpeg",
       "url": null,
       "hidden": false
@@ -190,6 +213,7 @@
     {
       "name": "Calum McNamara",
       "subrole": "Assistant Professor of Philosophy, Indiana University Bloomington",
+      "topic": "Goal-directedness",
       "photo": "/photos/calum-mcnamara.jpg",
       "url": "https://calum-mcnamara.github.io",
       "hidden": false
