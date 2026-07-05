@@ -10,7 +10,7 @@
     {
     "date": "May 2026",
     "headline": "Three papers presented at ICML 2026!",
-    "summary": "Three papers presented at ICML 2026 in Seoul: <em>A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents</em>, which combines behavioural evaluation with probing analyses of internal representations to study how LLM agents represent and pursue goals, and <em>Quantifying Biases in LLM-as-Judge Evaluations</em>, which introduces a Bayesian statistical framework for measuring autograder bias, disagreement, and uncertainty in LLM evaluation. Additionally, <em>Reasoning Aligns Language Models to Human Inference</em> — work with colleagues from ETH AI Centre and Institute of Neuroinformatics showing that reasoning aligns the cognitive profiles of LLMs with those of humans on an active probabilistic reasoning task. Presented at the Mechanistic Interpretability and the Combining Theory and Benchmarks ICML Workshops.",
+    "summary": "Three papers at ICML 2026: one combining behavioural and representational analyses to evaluate goal-directedness in LLM agents; one introducing a statistical framework for measuring bias and uncertainty in LLM-as-judge evaluations; and one showing that reasoning aligns the cognitive profiles of LLMs with those of humans (presented at the Mechanistic Interpretability and Combining Theory and Benchmarks workshops).",
     "links": [
       { "label": "Evaluating Goal-directedness", "url": "https://openreview.net/forum?id=OqYz3v9111" },
       { "label": "Biases in LLM-as-Judge Evals", "url": "https://openreview.net/forum?id=q33S4QMuay" },

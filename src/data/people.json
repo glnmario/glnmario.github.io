@@ -19,7 +19,7 @@
     {
       "name": "Daniel Tan",
       "subrole": "Co-supervised with Brooks Paige and Dimitrios Kanoulas",
-      "topic": "LLM generalisation for AI safety",
+      "topic": "LM generalisation for AI safety",
       "photo": "/photos/daniel-tan.jpg",
       "url": "https://dtch1997.github.io",
       "hidden": false
@@ -41,7 +41,7 @@
     {
       "name": "Guanming Liu",
       "subrole": "Visiting from Fudan University",
-      "topic": "Dynamic user modelling in human-LLM interaction",
+      "topic": "Dynamic user modelling in human-LM interaction",
       "photo": "/photos/guanming-liu.jpg",
       "url": "https://landian60.github.io",
       "hidden": false
@@ -51,7 +51,7 @@
     {
       "name": "Tommaso Morini Bianzino",
       "subrole": "MSc Cognitive and Decision Sciences, UCL",
-      "topic": "Causal narrative understanding in humans vs. LLMs",
+      "topic": "Causal narrative understanding in humans vs. LMs",
       "photo": "/photos/tommaso-morini-bianzino.jpeg",
       "url": null,
       "hidden": false
@@ -59,7 +59,7 @@
     {
       "name": "Joshua Hew",
       "subrole": "MSc Cognitive and Decision Sciences, UCL",
-      "topic": "Goal inference and deception detection in LLM agents",
+      "topic": "Goal inference and deception detection in LM agents",
       "photo": "/photos/joshua-hew.jpeg",
       "url": "https://j2hwz.github.io",
       "hidden": false
@@ -115,7 +115,7 @@
     {
       "name": "Hannie Xu",
       "subrole": "MA Computational Linguistics, UCL",
-      "topic": "Interactive feedback mechanisms for LLM post-training",
+      "topic": "Interactive feedback mechanisms for LM post-training",
       "photo": "/photos/hannie-xu.jpg",
       "url": null,
       "hidden": false
@@ -123,7 +123,7 @@
     {
       "name": "Alice Paulton",
       "subrole": "BA Linguistics, UCL",
-      "topic": "LLM sensitivity to Gricean maxims in comprehension and production tasks",
+      "topic": "LM sensitivity to Gricean maxims in comprehension and production tasks",
       "photo": "/photos/alice-paulton.jpeg",
       "url": null,
       "hidden": false
