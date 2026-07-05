@@ -17,18 +17,30 @@
     "featured": true,
     "status": "Ongoing",
     "period": "2025-2026",
-    "summary": "A research programme on modelling, measuring, and intervening on goal-directed behaviour in language model agents.",
+    "summary": "Kick-starting a research programme on modelling, measuring, and intervening on goal-directed behaviour in language model agents.",
     "description": "Project Telos develops a general framework for detecting and measuring goal-directedness in AI sytems agents—an essential step for solving the alignment problem—by combining behavioural and representational analyses. Our aim is to enable high-confidence claims about which goals an AI is pursuing, and how consistently it acts towards them. Funded by SPAR and Cohere.",
     "image": null,
     "image_alt": null,
     "links": [
       {
-        "label": "Preprint",
-        "url": "https://doi.org/10.48550/arXiv.2602.08964"
-      },
-      {
         "label": "Introductory post",
         "url": "https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/modelling-measuring-and-intervening-on-goal-directed?utm_campaign=post_share&utm_source=link"
+      },
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=OqYz3v9111 "
+      },
+      {
+        "label": "Interp Code",
+        "url": "https://github.com/SPAR-Telos/interp"
+      },
+      {
+        "label": "Behavioural Evals Code",
+        "url": "https://github.com/SPAR-Telos/reveng"
+      },
+      {
+        "label": "Interactive viewer",
+        "url": "https://huggingface.co/spaces/project-telos/trace-viewer"
       }
     ]
   },

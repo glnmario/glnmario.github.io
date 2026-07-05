@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import teaching from "../data/teaching.json";
 import news from "../data/news.json";
 
-const postdocHiring = news.find((item) => item.headline === "Hiring a Research Fellow in Machine Cognition at UCL");
+const postdocHiring = news.find((item) => item.headline === "Now hiring a Research Fellow in Machine Cognition at UCL");
 ---
 
 <BaseLayout title="Working with me" sideBarActiveItemID="working-with-me">
@@ -26,6 +26,13 @@ const postdocHiring = news.find((item) => item.headline === "Hiring a Research F
         <span class="badge badge-primary badge-outline font-semibold">Open position</span>
       </div>
       <p class="text-base-content leading-relaxed" set:html={postdocHiring.summary}></p>
+      {postdocHiring.links && postdocHiring.links.length > 0 && (
+        <div class="mt-4 flex flex-wrap gap-2">
+          {postdocHiring.links.map((link: { label: string; url: string }) => (
+            <a href={link.url} target="_blank" class="btn btn-primary btn-sm">{link.label}</a>
+          ))}
+        </div>
+      )}
     </div>
   )}
 

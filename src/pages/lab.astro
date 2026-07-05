@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import people from "../data/people.json";
 import news from "../data/news.json";
 
-const postdocHiring = news.find((item) => item.headline === "Hiring a Research Fellow in Machine Cognition at UCL");
+const postdocHiring = news.find((item) => item.headline === "Now hiring a Research Fellow in Machine Cognition at UCL");
 
 function initials(name: string) {
   return name.split(" ").map((w) => w[0]).join("").slice(0, 2).toUpperCase();
@@ -57,6 +57,13 @@ function byLastName(a: any, b: any) {
             <span class="badge badge-primary badge-outline font-semibold">Open position</span>
           </div>
           <p class="text-base-content leading-relaxed" set:html={postdocHiring.summary}></p>
+          {postdocHiring.links && postdocHiring.links.length > 0 && (
+            <div class="mt-4 flex flex-wrap gap-2">
+              {postdocHiring.links.map((link: { label: string; url: string }) => (
+                <a href={link.url} target="_blank" class="btn btn-primary btn-sm">{link.label}</a>
+              ))}
+            </div>
+          )}
         </div>
       ) : (
         <p class="text-base-content/50 italic mb-10">This could be you — stay tuned!</p>
