@@ -9,17 +9,18 @@
   },
     {
     "date": "May 2026",
-    "headline": "Two papers accepted at ICML 2026!",
-    "summary": "Two papers were accepted at ICML 2026: <em>A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents</em>, which combines behavioural evaluation with probing analyses of internal representations to study how LLM agents represent and pursue goals, and <em>Skewed Score: A statistical framework to assess autograders</em>, which introduces a Bayesian statistical framework for measuring autograder bias, disagreement, and uncertainty in LLM evaluation.",
+    "headline": "Three papers presented at ICML 2026!",
+    "summary": "Three papers presented at ICML 2026 in Seoul: <em>A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents</em>, which combines behavioural evaluation with probing analyses of internal representations to study how LLM agents represent and pursue goals, and <em>Quantifying Biases in LLM-as-Judge Evaluations</em>, which introduces a Bayesian statistical framework for measuring autograder bias, disagreement, and uncertainty in LLM evaluation. Additionally, <em>Reasoning Aligns Language Models to Human Inference</em> — work with colleagues from ETH AI Centre and Institute of Neuroinformatics showing that reasoning aligns the cognitive profiles of LLMs with those of humans on an active probabilistic reasoning task. Presented at the Mechanistic Interpretability and the Combining Theory and Benchmarks ICML Workshops.",
     "links": [
-      { "label": "Goal-directedness preprint", "url": "https://doi.org/10.48550/arXiv.2602.08964" },
-      { "label": "Skewed Score preprint", "url": "https://doi.org/10.48550/arXiv.2507.03772" }
+      { "label": "Evaluating Goal-directedness", "url": "https://openreview.net/forum?id=OqYz3v9111" },
+      { "label": "Biases in LLM-as-Judge Evals", "url": "https://openreview.net/forum?id=q33S4QMuay" },
+      { "label": "Active Probabilistic Reasoning", "url": "https://openreview.net/forum?id=SszVEekJTW" }
     ]
   },
   {
     "date": "May 2026",
-    "headline": "Two papers accepted at ACL 2026!",
-    "summary": "Two papers were accepted at ACL 2026. One paper, <em>Probing for Reading Times</em>, studies whether language model representations contain signatures of human reading times. The other, <em>Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue</em>, uses a new approach to generating open-ended goal-agnostic and goal-oriented alternatives to study speaker choice sensitivity to various information-theoretic notions of comprehension and production cost.",
+    "headline": "Two papers presented at ACL 2026!",
+    "summary": "Two papers presented at ACL 2026 in San Diego. One paper, <em>Probing for Reading Times</em>, studies whether language model representations contain signatures of human reading times. The other, <em>Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue</em>, uses a new approach to generating open-ended goal-agnostic and goal-oriented alternatives to study speaker choice sensitivity to various information-theoretic notions of comprehension and production cost.",
     "links": [
       { "label": "Probing for Reading Times", "url": "https://doi.org/10.48550/arXiv.2604.18712" },
       { "label": "Surprisal Minimisation", "url": "https://doi.org/10.48550/arXiv.2605.00506" }
@@ -32,14 +33,6 @@
     "links": [
       { "label": "Call for papers", "url": "https://lm-playschool.github.io/cfp/" },
       { "label": "LM Playschool Workshop", "url": "https://lm-playschool.github.io" }
-    ]
-  },
-  {
-    "date": "February 2026",
-    "headline": "New preprint on active probabilistic reasoning",
-    "summary": "New work with colleagues from ETH AI Centre and Institute of Neuroinformatics. We introduce an active probabilistic reasoning task, inspired by cognitive neuroscience, that isolates two core elements of decision-making under uncertainty -- sampling and inference -- and use it to evaluate LLMs at scale. We find that reasoning aligns the cognitive profiles of LLMs with those of humans.",
-    "links": [
-      { "label": "Reasoning preprint", "url": "https://arxiv.org/pdf/2602.08693" }
     ]
   },
   {

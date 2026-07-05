@@ -18,12 +18,12 @@
     "year": 2026,
     "selected": false,
     "authors": "Goncalo Guiomar, Elia Torre, Pehuen Moure, Victoria Shavina, Mario Giulianelli, Shih-Chii Liu, Valerio Mante",
-    "title": "Reasoning aligns language models to human cognition",
-    "venue": "Preprint",
+    "title": "Reasoning aligns language models to human inference",
+    "venue": "Mech Interp Workshop ICML 2026",
     "links": [
       {
         "label": "PDF",
-        "url": "https://doi.org/10.48550/arXiv.2602.08693"
+        "url": "https://openreview.net/forum?id=SszVEekJTW"
       }
     ]
   },
@@ -32,12 +32,12 @@
     "year": 2026,
     "selected": false,
     "authors": "Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec",
-    "title": "Skewed Score: A statistical framework to assess autograders",
+    "title": "Quantifying Biases in LLM-as-Judge Evaluations",
     "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)",
     "links": [
       {
         "label": "PDF",
-        "url": "https://doi.org/10.48550/arXiv.2507.03772"
+        "url": "https://openreview.net/forum?id=q33S4QMuay"
       }
     ]
   },
