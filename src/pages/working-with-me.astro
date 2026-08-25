@@ -1,9 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import teaching from "../data/teaching.json";
-import news from "../data/news.json";
-
-const postdocHiring = news.find((item) => item.headline === "Now hiring a Research Fellow in Machine Cognition at UCL");
 ---
 
 <BaseLayout title="Working with me" sideBarActiveItemID="working-with-me">
@@ -19,28 +16,12 @@ const postdocHiring = news.find((item) => item.headline === "Now hiring a Resear
 
   <div class="divider my-4"></div>
 
-  {postdocHiring && (
-    <div class="mb-8 rounded-xl border-2 border-primary/50 bg-primary/10 p-6 shadow-sm">
-      <div class="flex flex-wrap items-center gap-3 mb-3">
-        <div class="text-2xl font-bold">Research Fellow in Machine Cognition</div>
-        <span class="badge badge-primary badge-outline font-semibold">Open position</span>
-      </div>
-      <p class="text-base-content leading-relaxed" set:html={postdocHiring.summary}></p>
-      {postdocHiring.links && postdocHiring.links.length > 0 && (
-        <div class="mt-4 flex flex-wrap gap-2">
-          {postdocHiring.links.map((link: { label: string; url: string }) => (
-            <a href={link.url} target="_blank" class="btn btn-primary btn-sm">{link.label}</a>
-          ))}
-        </div>
-      )}
-    </div>
-  )}
-
-  <div class="divider my-4"></div>
-
   <div class="mb-5">
     <div class="text-2xl font-bold">Funding opportunities</div>
   </div>
+  <p class="mb-5 text-base-content/80">
+    The <a href="https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/sofair-lab/funding-opportunities" target="_blank" class="link">SOFAIR Lab</a> offers PhD and postdoctoral opportunities in foundational AI.
+  </p>
   <ul class="list-disc mx-6 mb-10 grid gap-2">
     {teaching.opportunities.map((opp: {title: string; url: string}) => (
       <li>
