@@ -30,27 +30,33 @@
   "opportunities": [
     {
       "title": "UCL Research Excellence Scholarship",
-      "url": "https://www.ucl.ac.uk/scholarships/research-excellence-scholarship"
+      "url": "https://www.ucl.ac.uk/scholarships/research-excellence-scholarship",
+      "note": "forthcoming for 2027–28"
     },
     {
       "title": "UCL Research Opportunity Scholarship",
-      "url": "https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship"
+      "url": "https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship",
+      "note": "forthcoming for 2027–28"
     },
+    {
+      "title": "UCL MMI PhD Programme",
+      "url": "https://www.ucl.ac.uk/brain-sciences/pals/study/postgraduate-research/mmi-phd-program/mmi-phd-how-apply"
+    },
+    {
+      "title": "ELLIS PhD Programme",
+      "url": "https://ellis.eu/research/phd-postdoc"
+    }
+  ],
+  "opportunity_information": [
     {
       "title": "UCL Linguistics MPhil/PhD",
-      "url": "https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd"
-    },
-    {
-      "title": "UCL Foundational Artificial Intelligence MPhil/PhD",
-      "url": "https://www.ucl.ac.uk/foundational-ai-cdt/"
-    },
-    {
-      "title": "Gatsby Unit PhD Programme",
-      "url": "https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-unit-phd-programme"
+      "url": "https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd",
+      "note": "programme and application information for self-funded applicants"
     },
     {
       "title": "UCL studentships information",
-      "url": "https://www.ucl.ac.uk/doctoral-school/funding/apply-studentships"
+      "url": "https://www.ucl.ac.uk/study/doctoral-school/funding/apply-studentships",
+      "note": "information on other funding routes and live opportunities"
     }
   ]
 }

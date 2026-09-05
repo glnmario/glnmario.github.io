@@ -23,9 +23,22 @@ import teaching from "../data/teaching.json";
     The <a href="https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/sofair-lab/funding-opportunities" target="_blank" class="link">SOFAIR Lab</a> offers PhD and postdoctoral opportunities in foundational AI.
   </p>
   <ul class="list-disc mx-6 mb-10 grid gap-2">
-    {teaching.opportunities.map((opp: {title: string; url: string}) => (
+    {teaching.opportunities.map((opp: {title: string; url: string; note?: string}) => (
       <li>
         <a href={opp.url} target="_blank" class="link">{opp.title}</a>
+        {opp.note && <span class="text-base-content/60"> ({opp.note})</span>}
+      </li>
+    ))}
+  </ul>
+
+  <div class="mb-5">
+    <div class="text-2xl font-bold">Application and funding information</div>
+  </div>
+  <ul class="list-disc mx-6 mb-10 grid gap-2">
+    {teaching.opportunity_information.map((item: {title: string; url: string; note: string}) => (
+      <li>
+        <a href={item.url} target="_blank" class="link">{item.title}</a>
+        <span class="text-base-content/60"> ({item.note})</span>
       </li>
     ))}
   </ul>
