@@ -22,45 +22,5 @@
       "subtitle": "2023-2024 · ETH Zurich · Certificate of Advanced Studies in Artificial Intelligence and Software Development",
       "description": "A course on NLP and Computer Vision applications of foundation models. Topics include generalisation in machine learning, grounding and multi-modal machine learning. Includes three large programming assignments."
     }
-  ],
-  "supervision": {
-    "title": "Supervision and mentoring",
-    "description": "I welcome inquiries from students and researchers whose interests align with my work on language, cognition, interaction, and AI evaluation. Before getting in touch, please indicate clearly the area you would like to work on and include a brief research proposal. General inquiries are unlikely to receive a response."
-  },
-  "opportunities": [
-    {
-      "title": "SOFAIR Lab (PhD and postdoc opportunities)",
-      "url": "https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/sofair-lab/funding-opportunities"
-    },
-    {
-      "title": "UCL Research Excellence Scholarship",
-      "url": "https://www.ucl.ac.uk/scholarships/research-excellence-scholarship",
-      "note": "forthcoming for 2027–28"
-    },
-    {
-      "title": "UCL Research Opportunity Scholarship",
-      "url": "https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship",
-      "note": "forthcoming for 2027–28"
-    },
-    {
-      "title": "UCL Minds and Machines Initiative PhD Programme",
-      "url": "https://www.ucl.ac.uk/brain-sciences/pals/study/postgraduate-research/mmi-phd-program/mmi-phd-how-apply"
-    },
-    {
-      "title": "ELLIS PhD Programme",
-      "url": "https://ellis.eu/research/phd-postdoc"
-    }
-  ],
-  "opportunity_information": [
-    {
-      "title": "UCL Linguistics MPhil/PhD",
-      "url": "https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/linguistics-mphil-phd",
-      "note": "programme and application information for self-funded applicants"
-    },
-    {
-      "title": "UCL studentships information",
-      "url": "https://www.ucl.ac.uk/study/doctoral-school/funding/apply-studentships",
-      "note": "information on other funding routes and live opportunities"
-    }
   ]
 }
