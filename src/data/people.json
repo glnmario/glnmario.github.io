@@ -58,6 +58,13 @@
   ],
   "masters_students": [
     {
+      "name": "Jia Can Xu",
+      "topic": "Sonority projection in phonotactic language models",
+      "photo": "/photos/jia-can-xu.png",
+      "url": null,
+      "hidden": false
+    },
+    {
       "name": "Jacopo Zacchigna",
       "subrole": "Visiting Master's student from the University of Trieste",
       "topic": "Reconstructing Latent World Models from Agent Experience",
