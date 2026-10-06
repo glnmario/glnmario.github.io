@@ -59,6 +59,7 @@
   "masters_students": [
     {
       "name": "Jia Can Xu",
+      "subrole": "MA Computational Linguistics, UCL",
       "topic": "Sonority projection in phonotactic language models",
       "photo": "/photos/jia-can-xu.png",
       "url": null,
