@@ -9,7 +9,7 @@
   "courses": [
     {
       "title": "Introduction to Computational Linguistics (PLIN0034)",
-      "subtitle": "2025-2026 · University College London · Master's level",
+      "subtitle": "2025-2026, 2026-2027 · University College London · Master's level",
       "description": "An introduction to core methods in computational linguistics, starting from Python and mathematics fundamentals and moving to modelling approaches. Topics include edit distance (dynamic programming), regular expressions, and basic probability theory, followed by (n-gram) language modelling, regression and maximum entropy classifiers, sequence labelling with hidden Markov models, context-free grammars and probabilistic parsing. Taken by students in Computational Linguistics, Language Sciences, Cognitive and Decision Sciences, Philosophy, and Computer Science."
     },
     {
