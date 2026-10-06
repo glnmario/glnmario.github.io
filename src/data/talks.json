@@ -12,7 +12,6 @@
     "host": "Department of Digital Humanities, King's College London",
     "location": "London, UK",
     "links": [
-      { "label": "Department of Digital Humanities", "url": "https://www.kcl.ac.uk/ddh" },
       { "label": "Slides", "url": "/documents/kings-college-17sep2026.pdf" }
     ]
   },
