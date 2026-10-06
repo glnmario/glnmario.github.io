@@ -8,6 +8,46 @@ import workingWithMe from "../data/working-with-me.json";
     <div class="text-3xl font-bold">Working with me</div>
   </div>
 
+  <section class="mb-8" aria-labelledby="phd-opportunities">
+    <h2 id="phd-opportunities" class="text-2xl font-bold mb-3">PhD opportunities at UCL</h2>
+    <p class="mb-4 text-base-content/80">
+      🎓 I'm looking for prospective PhD students interested in working with me at UCL. Various sources of funding are available.
+    </p>
+    <p class="mb-4 text-base-content/80">I'm interested in two broad directions:</p>
+    <ol class="list-decimal mx-6 mb-4 grid gap-4 text-base-content/80">
+      <li>
+        AI evaluation, auditing, and interpretability. Understanding the beliefs, goals and other internal states
+        that guide neural network behaviour, and developing methods to measure and test their functional role.
+        I've been working on this with controlled tasks, games, and agent environments, but I'd be also interested
+        in scaling to real-world settings. Recent work:
+        <a href="https://proceedings.mlr.press/v306/arghal26a.html" target="_blank" class="link">[1]</a>,
+        <a href="https://arxiv.org/abs/2602.08693" target="_blank" class="link">[2]</a>,
+        <a href="https://aclanthology.org/2025.emnlp-main.1517/" target="_blank" class="link">[3]</a>.
+      </li>
+      <li>
+        Computational models of human language use. Exploring innovative ways of using neural language models
+        as models of comprehension and production, ideally following recent work on incremental prediction
+        and belief updates, production choice, and information contours
+        <a href="https://doi.org/10.1016/j.jml.2025.104715" target="_blank" class="link">[4]</a>,
+        <a href="https://aclanthology.org/2026.acl-long.1814/" target="_blank" class="link">[5]</a>,
+        <a href="https://aclanthology.org/2024.findings-emnlp.682/" target="_blank" class="link">[6]</a>,
+        <a href="https://aclanthology.org/2025.acl-long.1527/" target="_blank" class="link">[7]</a>.
+      </li>
+    </ol>
+    <p class="mb-4 text-base-content/80">
+      I have funding for one PhD position, which includes 180 hours of teaching assistant duties per year,
+      effectively covering two courses. Recruitment for this position will be through the
+      <a href="https://ellis.eu/research/phd-postdoc" target="_blank" class="link font-bold">ELLIS PhD Programme</a>.
+      Applications open on 6 October 2026 and close on 31 October 2026.
+    </p>
+    <p class="mb-4 text-base-content/80">
+      <a href="https://apply.ellis.eu/" target="_blank" class="link">Apply here</a>.
+    </p>
+    <p class="text-base-content/80">
+      If you are eligible for UK Home fee status, let me know as there may be additional specific funding available.
+    </p>
+  </section>
+
   <div class="mb-8">
     <div class="text-2xl font-bold mb-3">{workingWithMe.supervision.title}</div>
     <div class="mb-4 text-base-content/80">{workingWithMe.supervision.description}</div>
@@ -18,6 +58,9 @@ import workingWithMe from "../data/working-with-me.json";
   <div class="mb-5">
     <div class="text-2xl font-bold">Funding opportunities</div>
   </div>
+  <p class="mb-4 text-base-content/80">
+    The strongest candidates may also be put forward for other funding programmes, including UBEL, RES, ROS and MMI, listed below.
+  </p>
   <ul class="list-disc mx-6 mb-10 grid gap-2">
     {workingWithMe.opportunities.map((opp: {title: string; url: string; note?: string}) => (
       <li>
@@ -38,4 +81,8 @@ import workingWithMe from "../data/working-with-me.json";
       </li>
     ))}
   </ul>
+  <p class="mb-8 text-base-content/80">
+    Please note that I receive a high volume of emails. I keep a record of everyone who gets in touch
+    and try to read each research proposal, but I will not be able to reply to most enquiries.
+  </p>
 </BaseLayout>

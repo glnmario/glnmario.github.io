@@ -1,15 +1,29 @@
 [
   {
-    "title": "Goals and Beliefs in Language Model Agents",
-    "short_label": "Goals and Beliefs",
+    "title": "Measuring and Steering Goal-Directedness in AI Agents",
+    "short_label": "Goal-Directedness",
     "featured": true,
-    "status": "Forthcoming",
+    "status": "Ongoing",
     "period": "2026–2028",
     "summary": "Investigating how goals and beliefs are represented in language model agents.",
     "description": "This project combines interpretability methods with behavioural evaluations to investigate how goals and beliefs are represented in language model agents, and whether these representations can be reliably extracted and manipulated. Funded by Coefficient Giving.",
     "image": null,
     "image_alt": null,
     "links": []
+  },
+  {
+    "title": "Parallax",
+    "short_label": "Parallax",
+    "featured": true,
+    "status": "Ongoing",
+    "period": "2026–2028",
+    "summary": "Developing methods and open infrastructure for white-box auditing of frontier AI agents.",
+    "description": "Parallax is a non-profit research lab developing methods and open infrastructure for white-box auditing of frontier AI agents. It combines behavioural evaluations with analysis of agents' internal beliefs, goals and plans to explain model behaviour and test the causes of alignment failures. The work aims to scale causal belief and goal attribution to realistic tasks and frontier models. Funded for two years by Coefficient Giving.",
+    "image": null,
+    "image_alt": null,
+    "links": [
+      { "label": "Parallax website", "url": "https://parallx.ai" }
+    ]
   },
   {
     "title": "Project Telos: Modelling, Measuring, and Intervening on Goal-directed Behaviour in AI systems",
@@ -55,8 +69,7 @@
     "image": null,
     "image_alt": null,
     "links": [
-      { "label": "Workshop site", "url": "https://lm-playschool.github.io" },
-      { "label": "Call for papers", "url": "https://lm-playschool.github.io/cfp/" }
+      { "label": "Workshop site", "url": "https://lm-playschool.github.io" }
     ]
   }
 ]

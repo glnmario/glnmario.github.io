@@ -14,12 +14,12 @@
     ]
   },
   {
-    "section": "in-progress",
+    "section": "publication",
     "year": 2026,
     "selected": false,
     "authors": "Goncalo Guiomar, Elia Torre, Pehuen Moure, Victoria Shavina, Mario Giulianelli, Shih-Chii Liu, Valerio Mante",
     "title": "Reasoning aligns language models to human inference",
-    "venue": "Mech Interp Workshop ICML 2026",
+    "venue": "NeurIPS 2026 (also presented at the ICML 2026 Mech Interp Workshop and Combining Theory and Benchmarks Workshop",
     "links": [
       {
         "label": "PDF",

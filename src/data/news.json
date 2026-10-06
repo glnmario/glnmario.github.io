@@ -1,9 +1,20 @@
 [
-    {
-    "date": "July 2026",
-    "headline": "Research Fellow vacancy closed",
-    "summary": "The vacancy for a Research Fellow in Machine Cognition at UCL is now closed.",
-    "links": []
+  {
+    "date": "October 2026",
+    "headline": "Two-year lectureship in computational linguistics at UCL",
+    "summary": "UCL is recruiting a Lecturer in Computational Linguistics for a fixed-term two-year position with substantial time for research.",
+    "links": [
+      { "label": "Vacancy details and application", "url": "https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=48870&jobTitle=Lecturer+%28Teaching%29+in+Computational+Linguistics" }
+    ]
+  },
+  {
+    "date": "October 2026",
+    "headline": "PhD recruitment at UCL",
+    "summary": "I'm looking for prospective PhD students interested in AI evaluation, auditing and interpretability, or computational models of human language use. I have funding for one position at UCL, recruited through the ELLIS PhD Programme. Applications close on 31 October 2026. The strongest candidates may also be put forward for other funding programmes.",
+    "links": [
+      { "label": "Working with me", "url": "/working-with-me" },
+      { "label": "Apply through ELLIS", "url": "https://apply.ellis.eu/" }
+    ]
   },
     {
     "date": "May 2026",

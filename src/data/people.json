@@ -3,7 +3,8 @@
   "phd_students": [
     {
       "name": "Francesco Cipriani",
-      "subrole": "Starting in October 2026",
+      "subrole": "Co-supervised with Miloš Stanojević",
+      "topic": "Computational models of semantic belief updates",
       "photo": "/photos/francesco-cipriani.jpeg",
       "url": null,
       "hidden": false
@@ -45,9 +46,25 @@
       "photo": "/photos/guanming-liu.jpg",
       "url": "https://landian60.github.io",
       "hidden": false
+    },
+    {
+      "name": "Mika Bradley",
+      "subrole": "MPhil student, co-supervised with Yasutada Sudo",
+      "topic": "Weighted Constraints in the Grammar of Alternatives",
+      "photo": "/photos/mika-bradley.webp",
+      "url": "https://mikabr.uk",
+      "hidden": false
     }
   ],
   "masters_students": [
+    {
+      "name": "Jacopo Zacchigna",
+      "subrole": "Visiting Master's student from the University of Trieste",
+      "topic": "Reconstructing Latent World Models from Agent Experience",
+      "photo": "/photos/jacopo-zacchigna.png",
+      "url": "https://jac-zac.github.io",
+      "hidden": false
+    },
     {
       "name": "Tommaso Morini Bianzino",
       "subrole": "MSc Cognitive and Decision Sciences, UCL",
@@ -62,7 +79,7 @@
       "topic": "Goal inference and deception detection in LM agents",
       "photo": "/photos/joshua-hew.jpeg",
       "url": "https://j2hwz.github.io",
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Aoxuan Liang",
@@ -70,7 +87,7 @@
       "topic": "Resilience of LM agents to conversational disturbances",
       "photo": "/photos/aoxuan-liang.jpg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Yuyang Yang",
@@ -78,7 +95,7 @@
       "topic": "Evaluating pragmatic inference via multi-agent dialogue games",
       "photo": "/photos/yuyang-yang.jpg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Chenchang Xu",
@@ -86,7 +103,7 @@
       "topic": "Metaphor modelling via incremental alternative sampling",
       "photo": "/photos/chenchang-xu.jpg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Noor Saleh",
@@ -94,7 +111,7 @@
       "topic": "Detecting machine-generated text via information contours",
       "photo": null,
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Caroline Swartz",
@@ -102,7 +119,7 @@
       "topic": "Pragmatic force contrasts across speech and text encoders",
       "photo": "/photos/caroline-swartz.png",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Jiayi Chen",
@@ -118,7 +135,7 @@
       "topic": "Interactive feedback mechanisms for LM post-training",
       "photo": "/photos/hannie-xu.jpg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Alice Paulton",
@@ -131,7 +148,7 @@
     {
       "name": "Zhaoxi Zeng",
       "subrole": "Psychological and Cognitive Sciences, visiting from Tsinghua University",
-      "topic": "Sampling strategies in active probabilistic inference",
+      "topic": "Measuring internal uncertainty in language model agents",
       "photo": "/photos/zhaoxi-zeng.png",
       "url": null,
       "hidden": false
@@ -184,7 +201,7 @@
       "topic": "Goal-directedness",
       "photo": "/photos/moksh-nirvaan.png",
       "url": "https://www.lesswrong.com/users/moksh-nirvaan",
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Evgenii Kortukov",
@@ -192,7 +209,7 @@
       "topic": "Goal-directedness",
       "photo": "/photos/evgenii-kortukov.jpg",
       "url": "https://kortukov.github.io",
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Fade Chen",
@@ -200,7 +217,7 @@
       "topic": "Goal-directedness",
       "photo": "/photos/fade-chen.jpeg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Raghu Arghal",
@@ -216,13 +233,13 @@
       "topic": "Goal-directedness",
       "photo": "/photos/calum-mcnamara.jpg",
       "url": "https://calum-mcnamara.github.io",
-      "hidden": false
+      "hidden": true
     }
   ],
   "collaborators": [
     {
       "name": "Gabriele Sarti",
-      "affiliation": "Postdoc at Khoury College of Computer Sciences, Northeastern University",
+      "affiliation": "Co-founder and Technical Director, Parallax",
       "photo": "/photos/gabriele-sarti.jpg",
       "url": "https://gsarti.com",
       "hidden": false
