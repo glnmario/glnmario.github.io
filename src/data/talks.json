@@ -7,6 +7,16 @@
     "links": []
   },
   {
+    "date": "2026-09-17",
+    "event": "Generalised measures of predictive uncertainty in online language processing",
+    "host": "Department of Digital Humanities, King's College London",
+    "location": "London, UK",
+    "links": [
+      { "label": "Department of Digital Humanities", "url": "https://www.kcl.ac.uk/ddh" },
+      { "label": "Slides", "url": "/documents/kings-college-17sep2026.pdf" }
+    ]
+  },
+  {
     "date": "2026-03-27",
     "event": "Guest lecture, Psycholinguistics: General Processing",
     "host": "UCL Linguistics",
