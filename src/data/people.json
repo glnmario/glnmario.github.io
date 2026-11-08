@@ -95,7 +95,7 @@
       "topic": "Causal narrative understanding in humans vs. LMs",
       "photo": "/photos/tommaso-morini-bianzino.jpeg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Joshua Hew",
@@ -167,7 +167,7 @@
       "topic": "LM sensitivity to Gricean maxims in comprehension and production tasks",
       "photo": "/photos/alice-paulton.jpeg",
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Zhaoxi Zeng",
