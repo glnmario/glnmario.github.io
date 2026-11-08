@@ -2,6 +2,62 @@
   {
     "section": "publication",
     "year": 2026,
+    "selected": false,
+    "authors": "Ayse Sila Okcu, Weisheng Wang, Tongmeng Xie, Niall Dalton, Angelos Nalmpantis, Raghu Arghal, Mario Giulianelli",
+    "title": "The belief-action gap in language model agents",
+    "venue": "Preprint",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://doi.org/10.48550/arXiv.2610.17444"
+      }
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Jia Can Xu, Mario Giulianelli",
+    "title": "How Much Sonority Structure Do Phonotactic Language Models Learn from Distribution?",
+    "venue": "Proceedings of the 9th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://aclanthology.org/2026.blackboxnlp-1.44/"
+      }
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Sherzod Hakimov, Dimitrije Ristic, Philipp Sadler, Davide Mazzaccara, Sabrina McCallum, Filippo Momentè, Maria Manina, Karl Osswald, Dieu-Thu Le, Oliver Lemon, Alexander Koller, Raffaella Bernardi, Raquel Fernández, Mario Giulianelli, Alessandro Suglia, David Schlangen",
+    "title": "The LM Playschool Challenge 2026",
+    "venue": "The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction (LM Playschool 2026)",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://aclanthology.org/2026.lmplayschool-1.9/"
+      }
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
+    "selected": false,
+    "authors": "Alessandro Suglia, Mario Giulianelli, David Schlangen, Raffaella Bernardi, Raquel Fernández, Sherzod Hakimov, Sabrina McCallum, Davide Mazzaccara, Dieu-Thu Le, Oliver Lemon, Alexander Koller (editors)",
+    "title": "The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction",
+    "venue": "LM Playschool Workshop at EMNLP 2026. Association for Computational Linguistics",
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://aclanthology.org/volumes/2026.lmplayschool-1/"
+      }
+    ]
+  },
+  {
+    "section": "publication",
+    "year": 2026,
     "selected": true,
     "authors": "Raghu Arghal, Fade Chen, Niall Dalton, Evgenii Kortukov, Calum McNamara, Angelos Nalmpantis, Moksh Nirvaan, Gabriele Sarti, Mario Giulianelli",
     "title": "A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents",
@@ -19,7 +75,7 @@
     "selected": false,
     "authors": "Goncalo Guiomar, Elia Torre, Pehuen Moure, Victoria Shavina, Mario Giulianelli, Shih-Chii Liu, Valerio Mante",
     "title": "Reasoning aligns language models to human inference",
-    "venue": "NeurIPS 2026 (also presented at the ICML 2026 Mech Interp Workshop and Combining Theory and Benchmarks Workshop",
+    "venue": "NeurIPS 2026 (also presented at the ICML 2026 Mech Interp Workshop and Combining Theory and Benchmarks Workshop)",
     "links": [
       {
         "label": "PDF",
@@ -31,13 +87,13 @@
     "section": "publication",
     "year": 2026,
     "selected": false,
-    "authors": "Magda Dubois, Harry Coppock, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec",
-    "title": "Quantifying Biases in LLM-as-Judge Evaluations",
+    "authors": "Magda Dubois, Harry Coppock, Mario Giulianelli, Ole Kristian Jorgensen, Timo Flesch, Lennart Luettgau, Cozmin Ududec",
+    "title": "Quantifying Biases in LLM-as-a-Judge Evaluations",
     "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)",
     "links": [
       {
         "label": "PDF",
-        "url": "https://openreview.net/forum?id=q33S4QMuay"
+        "url": "https://proceedings.mlr.press/v306/dubois26a.html"
       }
     ]
   },
@@ -60,7 +116,7 @@
     "links": [
       {
         "label": "PDF",
-        "url": "https://doi.org/10.48550/arXiv.2604.18712"
+        "url": "https://aclanthology.org/2026.acl-long.575/"
       }
     ]
   },
@@ -68,13 +124,13 @@
     "section": "publication",
     "year": 2026,
     "selected": false,
-    "authors": "Tom Utting, Mario Giulianelli, Arabella Sinclair",
+    "authors": "Thomas P. Utting, Mario Giulianelli, Arabella Sinclair",
     "title": "Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue",
     "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
     "links": [
       {
         "label": "PDF",
-        "url": "https://doi.org/10.48550/arXiv.2605.00506"
+        "url": "https://aclanthology.org/2026.acl-long.1814/"
       }
     ]
   },
@@ -111,8 +167,8 @@
     "year": 2026,
     "selected": false,
     "authors": "Nina Tahmasebi, Andrey Kutuzov, Haim Dubossarsky, Mario Giulianelli",
-    "title": "Diachronic Lexical Semantics with Computational Models",
-    "venue": "The Wiley Blackwell Companion to Diachronic Linguistics. John Wiley & Sons",
+    "title": "Computational Models of Semantic Change",
+    "venue": "The Wiley Blackwell Companion to Diachronic and Historical Linguistics. John Wiley & Sons",
     "links": [
       {
         "label": "PDF",
@@ -167,7 +223,7 @@
     "year": 2025,
     "selected": false,
     "authors": "Nicola Horst, Davide Mazzaccara, Antonia Schmidt, Michael Sullivan, Filippo Momente, Luca Franceschetti, Philipp Sadler, Sherzod Hakimov, Alberto Testoni, Raffaella Bernardi, Raquel Fernandez, Alexander Koller, Oliver Lemon, David Schlangen, Mario Giulianelli, Alessandro Suglia",
-    "title": "Playpen: An Environment for Exploring Learning Through Conversational Interaction",
+    "title": "Playpen: An Environment for Exploring Learning From Dialogue Game Feedback",
     "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)",
     "links": [
       {
@@ -309,7 +365,7 @@
     "year": 2024,
     "selected": false,
     "authors": "Clara Meister, Mario Giulianelli, Tiago Pimentel",
-    "title": "Towards a Similarity-aware Surprisal Theory",
+    "title": "Towards a Similarity-adjusted Surprisal Theory",
     "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
     "links": [
       {

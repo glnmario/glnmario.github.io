@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-11",
+    "event": "The evolving science of AI evaluation",
+    "host": "Integreat, Norwegian Centre for Knowledge-driven Machine Learning",
+    "location": "Oslo, Norway",
+    "links": [
+      { "label": "Event", "url": "https://www.integreat.no/events/public/tuesday-seminars/2026/1110.html" }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "event": "The evolving science of AI evaluation",
     "host": "FATTW 2026",

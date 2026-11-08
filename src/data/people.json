@@ -1,6 +1,22 @@
 {
-  "postdocs": [],
+  "postdocs": [
+    {
+      "name": "Philipp Altmann",
+      "subrole": "Postdoctoral researcher",
+      "topic": "Alignment in collective intelligence",
+      "photo": "/photos/philipp-altmann.png",
+      "url": "https://philipp.altmann.cc/",
+      "hidden": false
+    }
+  ],
   "phd_students": [
+    {
+      "name": "Eva Lash",
+      "subrole": "Co-supervised with David Lagnado",
+      "photo": null,
+      "url": "https://profiles.ucl.ac.uk/105713-eva-lash",
+      "hidden": false
+    },
     {
       "name": "Francesco Cipriani",
       "subrole": "Co-supervised with Miloš Stanojević",
@@ -37,7 +53,7 @@
       "subrole": "Thesis committee - Main supervisor: Richard Breheny",
       "photo": null,
       "url": null,
-      "hidden": false
+      "hidden": true
     },
     {
       "name": "Guanming Liu",
@@ -46,7 +62,9 @@
       "photo": "/photos/guanming-liu.jpg",
       "url": "https://landian60.github.io",
       "hidden": true
-    },
+    }
+  ],
+  "masters_students": [
     {
       "name": "Mika Bradley",
       "subrole": "MPhil student, co-supervised with Yasutada Sudo",
@@ -54,9 +72,7 @@
       "photo": "/photos/mika-bradley.webp",
       "url": "https://mikabr.uk",
       "hidden": false
-    }
-  ],
-  "masters_students": [
+    },
     {
       "name": "Jia Can Xu",
       "subrole": "MA Computational Linguistics, UCL",
